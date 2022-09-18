@@ -16,7 +16,8 @@ google_analytics_id      : G-SWFCX99KQZ
 
 # SEO Related
 google_site_verification : 5WnFivyAdeewM5bmiHFC_b7rc3bcZMdDimGiAsblX1Q  # Search "google search engine consoles" in google, and then enter "https://search.google.com/search-console/welcome?utm_source=about-page" the website. Then you should know.
-bing_site_verification   : B5AA590E7B9C03956A6F7DEC0F776211
+bing_site_verification   : DC10214F99BADCE5A6F7367670FB4360  # In this website: "https://www.bing.com/webmasters?siteUrl=https://jacobyuan7.github.io/&state=verifySite"
+# <meta name="msvalidate.01" content="DC10214F99BADCE5A6F7367670FB4360" />
 baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
