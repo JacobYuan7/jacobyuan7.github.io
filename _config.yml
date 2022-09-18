@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yi Ren (任意)"
-description              : "Research scientist in Sea AI Lab. Graduating from Zhejiang University. Focusing on speech, NLP and music."
-repository               : "rayeren/rayeren.github.io"
+title                    : "Hangjie Yuan (袁杭杰)"
+description              : "A Ph.D. candidate from Zhejiang University working on AI, but more precisely, a realistic idealist searching for the purpose of life."
+repository               : "JacobYuan7/jacobyuan7.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Yi Ren (任意)"
-  avatar           : "images/ry_profile.jpeg"
-  bio              : "Sea AI Lab"
-  location         : "Singapore"
+  name             : "Hangjie Yuan (袁杭杰)"
+  avatar           : "images/Avatar.jpg"
+  bio              : "Zhejiang University"
+  location         : "Hangzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
-  email            : "rayeren@zju.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=jQ3bFDMAAAAJ&hl=en&oi=ao"
+  email            : "hj.yuan@zju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RayeRen"
+  github           : "JacobYuan7"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rayeren"
-  dblp             : "https://dblp.org/pid/75/6568-6.html"
-  orcid            : "https://orcid.org/0000-0002-9160-3848"
+  linkedin         : # "rayeren"
+  dblp             : # "https://dblp.org/pid/75/6568-6.html"
+  orcid            : # "https://orcid.org/0000-0002-9160-3848"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
