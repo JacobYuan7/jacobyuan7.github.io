@@ -1,4 +1,20 @@
 # 🎖 Honors and Awards
+Below, I list some of my important Honors and Awards that inspire me a lot.
+
+
+- *2022-02* AAAI-22 Scholarship
+- *2021-10* Runner-up in ICCV 2021 Masked Face Recognition Challenge (Webface260M track)
+- *2020-12* Social Practice Scholarship of Zhejiang University
+- *2019.05* Outstanding Graduates of Zhejiang Province
+- *2017 ~ 2018* Provincial Government Scholarship for two consecutive years (Top 5%)
+- *2016 ~ 2018* The First Prize Scholarship for three consecutive years (Top 3%)
+- *2018-05* Honorable Mention in Mathematical Contest in Modeling
+- *2017-11* Second Prize in National Mathematical Modeling Contest (Top 5%)
+- *2017-01* Frist Prize in Physics Competition for College Students in Zhejiang (Top 5%)
+- *2016-11* National Scholarship (Top 1% among all undergraduates)
+- *2016-05* Special Prize, National English Competition for College Students (Top 0.1%)
+
+<!-- # 🎖 Honors and Awards
 - *2021.10* Tencent Scholarship (Top 1%)
 - *2021.10* National Scholarship (Top 1%)
 - *2020.12* [Baidu Scholarship](https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E5%A5%96%E5%AD%A6%E9%87%91/9929412) (10 students in the world each year)
@@ -7,4 +23,4 @@
 - *2020.12* ByteDance Scholars Program (10 students in China each year)
 - *2020.10* Tianzhou Chen Scholarship (Top 1%)
 - *2020.10* National Scholarship (Top 1%)
-- *2015.10* National Scholarship (Undergraduate) (Top 1%)
+- *2015.10* National Scholarship (Undergraduate) (Top 1%) -->
