@@ -2,7 +2,7 @@
 
 😃 Welcome to my personal page!
 
-I am currently a Ph.D. candidate from Zhejiang University, China. I am fortunate to be supervised by Prof. [Dong Ni](https://person.zju.edu.cn/en/nidong), who is open-minded and wise. Besides, I am fortunate to work closely with Prof. [Samuel Albanie](https://samuelalbanie.com/) (University of Cambridge) and [Jianwen Jiang](https://scholar.google.com/citations?user=uDAkC1kAAAAJ&hl=zh-CN&oi=ao) (DAMO Academy, Alibaba). 
+I am currently a Ph.D. candidate from Zhejiang University, China and a long-term research intern in [DAMO Academy](https://damo.alibaba.com/), Alibaba Group. I am fortunate to be supervised by Prof. [Dong Ni](https://person.zju.edu.cn/en/nidong), who is open-minded and wise. Besides, I am fortunate to work closely with Prof. [Samuel Albanie](https://samuelalbanie.com/) (University of Cambridge) and [Jianwen Jiang](https://scholar.google.com/citations?user=uDAkC1kAAAAJ&hl=zh-CN&oi=ao) (DAMO Academy, Alibaba). 
 
 My research interests include the intersection of Natural Language and Computer Vision, Relation Detection and Group Activity Recognition (in videos). I have published several papers in top-tier conferences, _e.g._ NeurIPS, ICCV, CVPR and AAAI.
 
