@@ -1,6 +1,6 @@
 # 📝 Publications 
 ## Human-Object Interaction Detection
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/RLIP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/RLIP.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RLIP: Relational Language-Image Pre-training for Human-Object Interaction Detection](https://arxiv.org/abs/2209.01814) \\
