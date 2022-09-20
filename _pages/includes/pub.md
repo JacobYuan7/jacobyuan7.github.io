@@ -34,7 +34,7 @@ Full publication list is available on my [google scholar](https://scholar.google
 <div class='paper-box-text' markdown="1">
 
 [Spatio-Temporal Dynamic Inference Network for Group Activity Recognition]([https://arxiv.org/abs/2202.00259](https://openaccess.thecvf.com/content/ICCV2021/papers/Yuan_Spatio-Temporal_Dynamic_Inference_Network_for_Group_Activity_Recognition_ICCV_2021_paper.pdf)) \\
-**Hangjie Yuan**, Dong Ni and Mang Wang    [[code]]([https://github.com/JacobYuan7/OCN-HOI-Benchmark](https://github.com/JacobYuan7/DIN-Group-Activity-Recognition-Benchmark)) [[知乎]](https://zhuanlan.zhihu.com/p/408883301) [[将门创投]](https://www.techbeat.net/article-info?id=2719)
+**Hangjie Yuan**, Dong Ni and Mang Wang    [[code]](https://github.com/JacobYuan7/DIN-Group-Activity-Recognition-Benchmark) [[知乎]](https://zhuanlan.zhihu.com/p/408883301) [[将门创投]](https://www.techbeat.net/article-info?id=2719)
 
 - DIN proposes to perform spatio-temporal dynamic inference.
 - DIN achieves SOTA results on Volleyball and CAD benchmarks while costing much less computation overhead of the reasoning module.
