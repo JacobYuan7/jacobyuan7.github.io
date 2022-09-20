@@ -32,6 +32,12 @@ Full publication list is available on my [google scholar](https://scholar.google
 </div>
 </div>
 
+<!-- ## Group Activity Recognition
+https://papertalk.org/papertalks/30909
+
+将门创投 https://www.techbeat.net/article-info?id=2719
+知乎 https://zhuanlan.zhihu.com/p/408883301 -->
+
   
 <!-- 加点表情包,直接复制图片即可  https://github.com/guodongxiaren/README/blob/master/emoji.md?tdsourcetag=s_pcqq_aiomsg -->
   
