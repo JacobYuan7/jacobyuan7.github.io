@@ -1,4 +1,5 @@
 # 📝 Publications 
+<!-- 加点表情包,直接复制图片即可  https://github.com/guodongxiaren/README/blob/master/emoji.md?tdsourcetag=s_pcqq_aiomsg -->
 
 Full publication list is available on my [google scholar](https://scholar.google.com/citations?user=jQ3bFDMAAAAJ&hl=en&oi=ao) page.
 
@@ -37,7 +38,7 @@ Full publication list is available on my [google scholar](https://scholar.google
 **Hangjie Yuan**, Dong Ni and Mang Wang    [[code]](https://github.com/JacobYuan7/DIN-Group-Activity-Recognition-Benchmark) [[知乎]](https://zhuanlan.zhihu.com/p/408883301) [[将门创投]](https://www.techbeat.net/article-info?id=2719)
 
 - DIN proposes to perform spatio-temporal dynamic inference.
-- DIN achieves SOTA results on Volleyball and CAD benchmarks while costing much less computation overhead of the reasoning module.
+- DIN achieves SOTA results on Volleyball and CAD benchmarks while costing **much less computational overhead** of the reasoning module.
 </div>
 </div>
 
@@ -51,7 +52,7 @@ https://papertalk.org/papertalks/30909
 知乎 https://zhuanlan.zhihu.com/p/408883301 -->
 
   
-<!-- 加点表情包,直接复制图片即可  https://github.com/guodongxiaren/README/blob/master/emoji.md?tdsourcetag=s_pcqq_aiomsg -->
+
   
 <!-- # 📝 Publications 
 ## 🎙 Speech Synthesis
