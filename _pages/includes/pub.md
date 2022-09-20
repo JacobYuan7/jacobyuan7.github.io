@@ -19,7 +19,7 @@ Full publication list is available on my [google scholar](https://scholar.google
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/OCN_overview.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Detecting Human-Object Interactions with Object-Guided Cross-Modal Calibrated Semantics](https://arxiv.org/abs/2202.00259) \\
+ [Detecting Human-Object Interactions with Object-Guided Cross-Modal Calibrated Semantics](https://arxiv.org/abs/2202.00259) \\
 **Hangjie Yuan**, Mang Wang, Dong Ni and Liangpeng Xu    [[code]](https://github.com/JacobYuan7/OCN-HOI-Benchmark)
 
 - OCN proposes a two-stage HOI detection method by decoupling entity detection and relation inference.
@@ -27,6 +27,22 @@ Full publication list is available on my [google scholar](https://scholar.google
 - OCN achieves SOTA results on HICO-DET and V-COCO benchmarks.
 </div>
 </div>
+
+
+## Group Activity Recognition
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div><img src='images/DIN_overview.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Spatio-Temporal Dynamic Inference Network for Group Activity Recognition]([https://arxiv.org/abs/2202.00259](https://openaccess.thecvf.com/content/ICCV2021/papers/Yuan_Spatio-Temporal_Dynamic_Inference_Network_for_Group_Activity_Recognition_ICCV_2021_paper.pdf)) \\
+**Hangjie Yuan**, Dong Ni and Mang Wang    [[code]]([https://github.com/JacobYuan7/OCN-HOI-Benchmark](https://github.com/JacobYuan7/DIN-Group-Activity-Recognition-Benchmark)) [[知乎]](https://zhuanlan.zhihu.com/p/408883301) [[将门创投]](https://www.techbeat.net/article-info?id=2719)
+
+- DIN proposes to perform spatio-temporal dynamic inference.
+- DIN achieves SOTA results on Volleyball and CAD benchmarks while costing much less computation overhead of the reasoning module.
+</div>
+</div>
+
+  
+
 
 <!-- ## Group Activity Recognition
 https://papertalk.org/papertalks/30909
