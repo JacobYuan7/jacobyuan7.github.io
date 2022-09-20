@@ -7,9 +7,7 @@ Full publication list is available on my [google scholar](https://scholar.google
 <div class='paper-box-text' markdown="1">
 
 [RLIP: Relational Language-Image Pre-training for Human-Object Interaction Detection](https://arxiv.org/abs/2209.01814) \\
-**Hangjie Yuan**, Jianwen Jiang, Samuel Albanie, Tao Feng, Ziyuan Huang, Dong Ni and Mingqian Tang
-  
-[[code]](https://github.com/JacobYuan7/RLIP) [video talk] (to be updated)  
+**Hangjie Yuan**, Jianwen Jiang, Samuel Albanie, Tao Feng, Ziyuan Huang, Dong Ni and Mingqian Tang    [[code]](https://github.com/JacobYuan7/RLIP) [video talk] (to be updated)  
 
 - RLIP is the first work to use **relation texts** as a language-image pre-training signal.
 - RLIP-ParSe is an effective HOI/relation detection framework without bells and whistles.
@@ -22,9 +20,7 @@ Full publication list is available on my [google scholar](https://scholar.google
 <div class='paper-box-text' markdown="1">
 
 [Detecting Human-Object Interactions with Object-Guided Cross-Modal Calibrated Semantics](https://arxiv.org/abs/2202.00259) \\
-**Hangjie Yuan**, Mang Wang, Dong Ni and Liangpeng Xu
-  
-[[code]](https://github.com/JacobYuan7/OCN-HOI-Benchmark)
+**Hangjie Yuan**, Mang Wang, Dong Ni and Liangpeng Xu    [[code]](https://github.com/JacobYuan7/OCN-HOI-Benchmark)
 
 - OCN proposes a two-stage HOI detection method by decoupling entity detection and relation inference.
 - OCN incorporates language and statistical prior to facilitate verb inference.
