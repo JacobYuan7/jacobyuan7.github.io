@@ -4,7 +4,7 @@
 Full publication list is available on my [google scholar](https://scholar.google.com/citations?user=jQ3bFDMAAAAJ&hl=en&oi=ao) page.
 
 ## Human-Object Interaction Detection
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/RLIP_overview.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/RLIP_overview.PNG' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RLIP: Relational Language-Image Pre-training for Human-Object Interaction Detection](https://arxiv.org/abs/2209.01814) \\
@@ -17,7 +17,7 @@ Full publication list is available on my [google scholar](https://scholar.google
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/OCN_overview.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/OCN_overview.PNG' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
  [Detecting Human-Object Interactions with Object-Guided Cross-Modal Calibrated Semantics](https://arxiv.org/abs/2202.00259) \\
@@ -31,7 +31,7 @@ Full publication list is available on my [google scholar](https://scholar.google
 
 
 ## Group Activity Recognition
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div><img src='images/DIN_overview.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div><img src='images/DIN_overview.PNG' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Spatio-Temporal Dynamic Inference Network for Group Activity Recognition]([https://arxiv.org/abs/2202.00259](https://openaccess.thecvf.com/content/ICCV2021/papers/Yuan_Spatio-Temporal_Dynamic_Inference_Network_for_Group_Activity_Recognition_ICCV_2021_paper.pdf)) \\
@@ -45,7 +45,7 @@ Full publication list is available on my [google scholar](https://scholar.google
 But we must log in to watch. -->
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2021</div><img src='images/context_overview.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2021</div><img src='images/context_overview.PNG' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning Visual Context for Group Activity Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/16437)) \\
