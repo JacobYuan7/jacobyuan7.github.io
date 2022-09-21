@@ -11,8 +11,8 @@ Full publication list is available on my [google scholar](https://scholar.google
 **Hangjie Yuan**, Jianwen Jiang, Samuel Albanie, Tao Feng, Ziyuan Huang, Dong Ni and Mingqian Tang    [[code]](https://github.com/JacobYuan7/RLIP) [video talk] (to be updated)  
 
 - RLIP is the first work to use **relation texts** as a language-image pre-training signal.
-- RLIP-ParSe is an effective HOI/relation detection framework without bells and whistles.
-- RLIP achieves SOTA results on fully-finetuned, few-shot, zero-shot HOI detetction benchmarks.
+- ParSe is an effective HOI/relation detection framework without bells and whistles.
+- RLIP-ParSe achieves SOTA results on fully-finetuned, few-shot, zero-shot HOI detetction benchmarks and learning from noisy labels.
 </div>
 </div>
 
