@@ -60,7 +60,7 @@ But we must log in to watch. -->
 
 ## Incremental/Continual Learning
 
-- [SingGAN: Generative Adversarial Network For High-Fidelity Singing Voice Generation](https://arxiv.org/abs/2110.07468), Rongjie Huang, Chenye Cui, Chen Feiayng, **Yi Ren**, Jinglin Liu, Zhou Zhao, Baoxing Huai, Zhefeng Wang, **ACM-MM 2022**
+- [Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation](https://openaccess.thecvf.com/content/CVPR2022/html/Feng_Overcoming_Catastrophic_Forgetting_in_Incremental_Object_Detection_via_Elastic_Response_CVPR_2022_paper.html), Tao Feng, Mang Wang and **Hangjie Yuan**, **CVPR 2022**
 
 
 <!-- ## Group Activity Recognition
