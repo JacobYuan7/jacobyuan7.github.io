@@ -51,12 +51,16 @@ But we must log in to watch. -->
 [Learning Visual Context for Group Activity Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/16437)) \\
 **Hangjie Yuan** and Dong Ni [[video]](https://papertalk.org/papertalks/30909)
 
-- DIN proposes to perform spatio-temporal dynamic inference.
-- DIN achieves SOTA results on Volleyball and CAD benchmarks while costing **much less computational overhead** of the reasoning module.
+- This paper proposes to incorporate visual context when recognizing activities. This should work for other related problems as well.
+- This paper achieves SOTA results on Volleyball and CAD benchmarks.
 </div>
 </div>
 
 
+
+## Incremental/Continual Learning
+
+- [SingGAN: Generative Adversarial Network For High-Fidelity Singing Voice Generation](https://arxiv.org/abs/2110.07468), Rongjie Huang, Chenye Cui, Chen Feiayng, **Yi Ren**, Jinglin Liu, Zhou Zhao, Baoxing Huai, Zhefeng Wang, **ACM-MM 2022**
 
 
 <!-- ## Group Activity Recognition
