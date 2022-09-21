@@ -63,11 +63,6 @@ But we must log in to watch. -->
 - [Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation](https://openaccess.thecvf.com/content/CVPR2022/html/Feng_Overcoming_Catastrophic_Forgetting_in_Incremental_Object_Detection_via_Elastic_Response_CVPR_2022_paper.html), Tao Feng, Mang Wang and **Hangjie Yuan**, **CVPR 2022**
 
 
-<!-- ## Group Activity Recognition
-https://papertalk.org/papertalks/30909
-
-将门创投 https://www.techbeat.net/article-info?id=2719
-知乎 https://zhuanlan.zhihu.com/p/408883301 -->
 
   
 
