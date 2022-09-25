@@ -5,9 +5,9 @@ Below, I list some of my important Honors and Awards that inspire me a lot.
 - *2022-02* AAAI-22 Scholarship
 - *2021-10* Runner-up in ICCV 2021 Masked Face Recognition Challenge (Webface260M track) [[ICCV report]](https://openaccess.thecvf.com/content/ICCV2021W/MFR/html/Feng_Towards_Mask-Robust_Face_Recognition_ICCVW_2021_paper.html)
 - *2020-12* Social Practice Scholarship of Zhejiang University
-- *2019.05* Outstanding Graduates of Zhejiang Province
-- *2017 ~ 2018* Provincial Government Scholarship for two consecutive years (Top 5%)
-- *2016 ~ 2018* The First Prize Scholarship for three consecutive years (Top 3%)
+- *2019-05* Outstanding Graduates of Zhejiang Province
+- *2017~2018* Provincial Government Scholarship for two consecutive years (Top 5%)
+- *2016~2018* The First Prize Scholarship for three consecutive years (Top 3%)
 - *2018-05* Honorable Mention in Mathematical Contest in Modeling
 - *2017-11* Second Prize in National Mathematical Modeling Contest (Top 5%)
 - *2017-01* Frist Prize in Physics Competition for College Students in Zhejiang (Top 5%)
