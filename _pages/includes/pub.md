@@ -8,7 +8,7 @@ Full publication list is available on my [google scholar](https://scholar.google
 <div class='paper-box-text' markdown="1">
 
 [RLIP: Relational Language-Image Pre-training for Human-Object Interaction Detection](https://arxiv.org/abs/2209.01814) \\
-**Hangjie Yuan**, Jianwen Jiang, Samuel Albanie, Tao Feng, Ziyuan Huang, Dong Ni and Mingqian Tang    [[code]](https://github.com/JacobYuan7/RLIP) [video talk] (to be updated)  
+**Hangjie Yuan**, Jianwen Jiang, Samuel Albanie, Tao Feng, Ziyuan Huang, Dong Ni and Mingqian Tang    [[code]](https://github.com/JacobYuan7/RLIP) [[video talk]](https://recorder-v3.slideslive.com/?share=73193&s=67557178-73e9-48d1-af1c-4aacc162164b)  
 
 - RLIP is the first work to use **relation texts** as a language-image pre-training signal.
 - ParSe is a SOTA HOI/relation detection framework without bells and whistles.
