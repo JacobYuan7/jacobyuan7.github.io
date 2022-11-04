@@ -2,7 +2,9 @@
 - *2021.03 - Present*, [DAMO Academy](https://damo.alibaba.com/), Alibaba Group, Hangzhou.
 
 # 🎓 Academic Service
-- Reviewing for CVPR and AAAI.
+- **Reviewing**  
+*Conferences*: CVPR and AAAI  
+*Journals*: IEEE Transactions on Circuits and Systems for Video Technology
 
 <!-- 
 # 📖 Educations
