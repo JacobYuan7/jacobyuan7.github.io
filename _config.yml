@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Hangjie Yuan" # (袁杭杰)
+title                    : "Hangjie Yuan (袁杭杰)"
 description              : "A Ph.D. candidate working on CV and ML, but more precisely, a realistic idealist searching for the purpose of life."
 repository               : "JacobYuan7/jacobyuan7.github.io"
 google_scholar_stats_use_cdn : true
@@ -22,7 +22,7 @@ baidu_site_verification  : # code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Hangjie Yuan (袁杭杰)"
+  name             : "Hangjie Yuan" # (袁杭杰)
   avatar           : "images/Avatar.jpg"
   bio              : "Zhejiang University"
   location         : "Hangzhou, China"
