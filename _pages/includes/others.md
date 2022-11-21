@@ -3,8 +3,10 @@
 
 # 🎓 Academic Service
 - **Reviewing**  
-*Conferences*: CVPR and AAAI  
-*Journals*: IEEE Transactions on Circuits and Systems for Video Technology
+*Conferences*:   
+CVPR, AAAI  
+*Journals*:    
+IEEE Transactions on Multimedia, IEEE Transactions on Circuits and Systems for Video Technology 
 
 <!-- 
 # 📖 Educations
