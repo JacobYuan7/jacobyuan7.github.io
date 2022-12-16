@@ -2,11 +2,13 @@
 
 😃 Welcome to my personal page!
 
-I am Hangjie Yuan (**袁杭杰** in Chinese). I am currently a Ph.D. candidate from Zhejiang University, China and a long-term research intern in [DAMO Academy](https://damo.alibaba.com/), Alibaba Group. I am fortunate to be supervised by Prof. [Dong Ni](https://person.zju.edu.cn/en/nidong), who is open-minded and wise. Besides, I am fortunate to work closely with Prof. [Samuel Albanie](https://samuelalbanie.com/) (University of Cambridge) and [Jianwen Jiang](https://scholar.google.com/citations?user=uDAkC1kAAAAJ&hl=zh-CN&oi=ao) (DAMO Academy, Alibaba). 
+I am Hangjie Yuan (**袁杭杰** in Chinese). I am currently a Ph.D. candidate from Zhejiang University, China and a long-term research intern in [DAMO Academy](https://damo.alibaba.com/), Alibaba Group. I am fortunate to be supervised by Prof. [Dong Ni](https://person.zju.edu.cn/en/nidong), who is open-minded and wise. Besides, I am fortunate to work closely with Prof. [Samuel Albanie](https://samuelalbanie.com/) (University of Cambridge), [Shiwei Zhang](https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ&hl=en&oi=ao) (Alibaba DAMO Academy) and [Jianwen Jiang](https://scholar.google.com/citations?user=uDAkC1kAAAAJ&hl=zh-CN&oi=ao) (Tsinghua University). They are brilliant!
 
 My research interests include the intersection of Natural Language and Computer Vision, Relation Detection and Group Activity Recognition (in videos). I have published several papers in top-tier conferences, _e.g._ NeurIPS, ICCV, CVPR and AAAI.
 
 Any form of collaboration is welcomed. Drop me an email 📧!
+
+<!-- A non-exhaustive list of my brilliant academic collaborators: Prof. [Dong Ni](https://person.zju.edu.cn/en/nidong), Prof. [Samuel Albanie](https://samuelalbanie.com/), [Shiwei Zhang](https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ&hl=en&oi=ao), [Jianwen Jiang](https://scholar.google.com/citations?user=uDAkC1kAAAAJ&hl=zh-CN&oi=ao) -->
 
 
 
