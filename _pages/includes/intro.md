@@ -6,10 +6,10 @@ I am Hangjie Yuan (**袁杭杰** in Chinese). I am currently a Ph.D. candidate f
 
 <!-- work closely -->
 
-My current research interests include Language-Vision Foundation Models (*e.g.* CLIP and GLIP) and Human-Object Interaction Detection. Previously, I work on Group Activity Recognition (in videos). I have published several papers in top-tier conferences, _e.g._ NeurIPS, ICCV, CVPR and AAAI.
+My current research interests include 1️⃣ Language-Vision Foundation Models (*e.g.* CLIP and GLIP) and their applications, and 2️⃣ Human-Object Interaction Detection. Previously, I work on Group Activity Recognition (in videos). I have published several papers in top-tier conferences, _e.g._ NeurIPS, ICCV, CVPR and AAAI.
 <!-- My research interests include the intersection of Natural Language and Computer Vision, Relation Detection and Group Activity Recognition (in videos).  -->
 
-Any form of collaboration is welcomed. Drop me an email 📧!
+Any form of collaboration is welcomed. I indeed have some new ideas, but I do not have sufficient time to prove them all. Drop me an email 📧!
 
 <!-- A non-exhaustive list of my brilliant academic collaborators: Prof. [Dong Ni](https://person.zju.edu.cn/en/nidong), Prof. [Samuel Albanie](https://samuelalbanie.com/), [Shiwei Zhang](https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ&hl=en&oi=ao), [Jianwen Jiang](https://scholar.google.com/citations?user=uDAkC1kAAAAJ&hl=zh-CN&oi=ao) -->
 
