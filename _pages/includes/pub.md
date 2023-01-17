@@ -69,8 +69,8 @@ But we must log in to watch. -->
 [Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation](https://openaccess.thecvf.com/content/CVPR2022/html/Feng_Overcoming_Catastrophic_Forgetting_in_Incremental_Object_Detection_via_Elastic_Response_CVPR_2022_paper.html) \\
 Tao Feng, Mang Wang and **Hangjie Yuan**  [[code]](https://github.com/Hi-FT/ERD)
 
-- This paper proposes to incorporate visual context when recognizing activities. This should work for other related problems as well.
-- This paper achieves SOTA results on Volleyball and CAD benchmarks.
+- This paper proposes a response-only distillation method for Incremental Object Detection, dubbed Elastic Response Distillation.
+- This paper achieves SOTA results on COCO benchmarks while utilizing much fewer responses for distillation.
 </div>
 </div>
 
