@@ -48,7 +48,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 But we must log in to watch. -->
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2021</div><img src='images/context_overview.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2021</div><img src='images/context_overview_2.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning Visual Context for Group Activity Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/16437)) \\
@@ -63,7 +63,18 @@ But we must log in to watch. -->
 
 ## Incremental/Continual Learning
 
-- [**CVPR 2022**] [Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation](https://openaccess.thecvf.com/content/CVPR2022/html/Feng_Overcoming_Catastrophic_Forgetting_in_Incremental_Object_Detection_via_Elastic_Response_CVPR_2022_paper.html), Tao Feng, Mang Wang and **Hangjie Yuan**  [[code]](https://github.com/Hi-FT/ERD)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/ERD_overview.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation](https://openaccess.thecvf.com/content/CVPR2022/html/Feng_Overcoming_Catastrophic_Forgetting_in_Incremental_Object_Detection_via_Elastic_Response_CVPR_2022_paper.html) \\
+Tao Feng, Mang Wang and **Hangjie Yuan**  [[code]](https://github.com/Hi-FT/ERD)
+
+- This paper proposes to incorporate visual context when recognizing activities. This should work for other related problems as well.
+- This paper achieves SOTA results on Volleyball and CAD benchmarks.
+</div>
+</div>
+
+<!-- - [**CVPR 2022**] [Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation](https://openaccess.thecvf.com/content/CVPR2022/html/Feng_Overcoming_Catastrophic_Forgetting_in_Incremental_Object_Detection_via_Elastic_Response_CVPR_2022_paper.html), Tao Feng, Mang Wang and **Hangjie Yuan**  [[code]](https://github.com/Hi-FT/ERD) -->
 
 
 
