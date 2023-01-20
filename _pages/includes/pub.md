@@ -33,7 +33,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 </div>
 
 
-## Group Activity Recognition
+## Video Understanding
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div><img src='images/DIN_overview.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
