@@ -3,10 +3,14 @@
 
 # 🎓 Academic Service
 - **Reviewing**  
-*Conferences*:   
-CVPR, AAAI  
-*Journals*:    
-IEEE Transactions on Multimedia, IEEE Transactions on Circuits and Systems for Video Technology 
+  - *Conferences*:   
+    - CVPR 2022-2023  
+    - ICCV 2023  
+    - AAAI 2023  
+
+  - *Journals*:    
+    - IEEE Transactions on Multimedia
+    - IEEE Transactions on Circuits and Systems for Video Technology 
 
 <!-- 
 # 📖 Educations
