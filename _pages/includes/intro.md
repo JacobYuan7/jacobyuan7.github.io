@@ -17,6 +17,13 @@ I have published several papers in top-tier conferences on these topics, _e.g._ 
 
 Any form of collaboration is welcomed. I indeed have some new ideas, but I do not have sufficient time to prove them all. Drop me an email 📧!
 
+<span style="color:red"><strong> I am currently seeking job opportunities and anticipate graduating in 2024. I am exploring options in both academia, such as postdoctoral positions, and industry, focusing on research-oriented roles. I would be delighted to discuss any job openings or research projects. Please don't hesitate to contact me at hj.yuan@zju.edu.cn. </strong></span>
+
+<!-- <span style="color:red"><strong> I am currently on the job market and expect to graduate in 2024. I am actively exploring opportunities in both academia (perhaps post-doc positions) and industry (research-oriented positions). I welcome the opportunity to discuss job openings or research projects. Please feel free to reach out to me at hj.yuan@zju.edu.cn. </strong></span> -->
+
+
+
+
 <!-- A non-exhaustive list of my brilliant academic collaborators: Prof. [Dong Ni](https://person.zju.edu.cn/en/nidong), Prof. [Samuel Albanie](https://samuelalbanie.com/), [Shiwei Zhang](https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ&hl=en&oi=ao), [Jianwen Jiang](https://scholar.google.com/citations?user=uDAkC1kAAAAJ&hl=zh-CN&oi=ao) -->
 
 
