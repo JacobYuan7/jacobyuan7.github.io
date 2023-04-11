@@ -3,7 +3,8 @@
 
 # 🎓 Academic Service
 - **Reviewing**  
-  - *Conferences*:   
+  - *Conferences*: 
+    - NeurIPS 2023   
     - CVPR 2022-2023  
     - ICCV 2023  
     - AAAI 2023  
