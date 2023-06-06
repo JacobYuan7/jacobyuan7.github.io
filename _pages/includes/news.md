@@ -1,7 +1,9 @@
 # 🔥 News
 <!-- 加点表情包,直接复制图片即可  https://github.com/guodongxiaren/README/blob/master/emoji.md?tdsourcetag=s_pcqq_aiomsg -->
 
-- *2022-12* : 📑 [Progressive Learning without Forgetting](https://arxiv.org/abs/2211.15215) is online on arXiv. This is a strong extension of [LwF](https://arxiv.org/abs/1606.09282). Enjoy reading it!
+<!-- - *2022-12* : 📑 [Progressive Learning without Forgetting](https://arxiv.org/abs/2211.15215) is online on arXiv. This is a strong extension of [LwF](https://arxiv.org/abs/1606.09282). Enjoy reading it! -->
+
+- *2023-06* : 📑 [VideoComposer](https://arxiv.org/abs/2306.02018), [Progressive Learning without Forgetting](https://arxiv.org/abs/2211.15215) and [Refined Response Distillation](https://arxiv.org/abs/2305.00620) are online on arXiv. Enjoy reading them!
 
 - *2022-09* : 📑 [RLIP: Relational Language-Image Pre-training](https://arxiv.org/abs/2209.01814) (for Human-Object Interaction Detection) is accepted to **NeurIPS 2022** as a <span style="color:red"><strong>Spotlight</strong></span> paper (Top 5%). It's my honor to work with [Prof. Albanie](https://samuelalbanie.com/) and [Jianwen](https://scholar.google.com/citations?user=uDAkC1kAAAAJ&hl=zh-CN&oi=ao). Btw, the pronunciation of **RLIP** is /'ɑ:lɪp/. 
 
