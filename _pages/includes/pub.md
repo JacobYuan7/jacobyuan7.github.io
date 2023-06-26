@@ -6,7 +6,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 (* denotes equal contribution.)
 <!-- <sup>*</sup> -->
 ## Pre-prints ##
-- [VideoComposer: Compositional Video Synthesis with Motion Controllability](https://arxiv.org/abs/2306.02018), Xiang Wang\*, **Hangjie Yuan**\*, Shiwei Zhang\*, Dayou Chen\*, Jiuniu Wang, Yingya Zhang, Yujun Shen, Deli Zhao, Jingren Zhou.
+- [VideoComposer: Compositional Video Synthesis with Motion Controllability](https://arxiv.org/abs/2306.02018), Xiang Wang\*, **Hangjie Yuan**\*, Shiwei Zhang\*, Dayou Chen\*, Jiuniu Wang, Yingya Zhang, Yujun Shen, Deli Zhao, Jingren Zhou. [[Project page]](https://videocomposer.github.io/) [[机器之心]](https://mp.weixin.qq.com/s/4LVGj0KQDPJDGn5SVZfW1w) [[CVer]](https://mp.weixin.qq.com/s/rpmXd-nkE9oSG4bZsKKfpw)
 - [Refined Response Distillation for Class-Incremental Player Detection](https://arxiv.org/abs/2305.00620), Liang Bai, **Hangjie Yuan**, Tao Feng, Hong Song, Jian Yang.
 - [Progressive Learning without Forgetting](https://arxiv.org/abs/2211.15215), Tao Feng, **Hangjie Yuan**, Mang Wang, Ziyuan Huang, Ang Bian, Jianzhou Zhang.
 
@@ -15,7 +15,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 <div class='paper-box-text' markdown="1">
 
 [RLIP: Relational Language-Image Pre-training for Human-Object Interaction Detection](https://arxiv.org/abs/2209.01814) <span style="color:red"><strong>Spotlight (Top 5%)</strong></span> \\
-**Hangjie Yuan**, Jianwen Jiang, Samuel Albanie, Tao Feng, Ziyuan Huang, Dong Ni and Mingqian Tang    [[code]](https://github.com/JacobYuan7/RLIP) [[video talk]](https://recorder-v3.slideslive.com/?share=73193&s=67557178-73e9-48d1-af1c-4aacc162164b)  
+**Hangjie Yuan**, Jianwen Jiang, Samuel Albanie, Tao Feng, Ziyuan Huang, Dong Ni and Mingqian Tang.    [[code]](https://github.com/JacobYuan7/RLIP) [[video talk]](https://recorder-v3.slideslive.com/?share=73193&s=67557178-73e9-48d1-af1c-4aacc162164b)  
 
 - RLIP is the first work to use **relation texts** as a language-image pre-training signal.
 - ParSe is a SOTA HOI/relation detection framework without bells and whistles.
@@ -28,7 +28,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 <div class='paper-box-text' markdown="1">
 
  [Detecting Human-Object Interactions with Object-Guided Cross-Modal Calibrated Semantics](https://arxiv.org/abs/2202.00259) \\
-**Hangjie Yuan**, Mang Wang, Dong Ni and Liangpeng Xu    [[code]](https://github.com/JacobYuan7/OCN-HOI-Benchmark) [[video talk]](https://aaai-2022.virtualchair.net/poster_aaai1979)
+**Hangjie Yuan**, Mang Wang, Dong Ni and Liangpeng Xu.    [[code]](https://github.com/JacobYuan7/OCN-HOI-Benchmark) [[video talk]](https://aaai-2022.virtualchair.net/poster_aaai1979)
 
 - OCN proposes a two-stage HOI detection method by decoupling entity detection and relation inference.
 - OCN incorporates language and statistical prior to facilitate verb inference.
@@ -42,7 +42,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 <div class='paper-box-text' markdown="1">
 
 [Spatio-Temporal Dynamic Inference Network for Group Activity Recognition]([https://arxiv.org/abs/2202.00259](https://openaccess.thecvf.com/content/ICCV2021/papers/Yuan_Spatio-Temporal_Dynamic_Inference_Network_for_Group_Activity_Recognition_ICCV_2021_paper.pdf)) \\
-**Hangjie Yuan**, Dong Ni and Mang Wang    [[code]](https://github.com/JacobYuan7/DIN-Group-Activity-Recognition-Benchmark) [[知乎]](https://zhuanlan.zhihu.com/p/408883301) [[将门创投]](https://www.techbeat.net/article-info?id=2719) [[video talk]](https://zjueducn-my.sharepoint.com/:v:/g/personal/hj_yuan_zju_edu_cn/ETNLr67L5glAhOibIzbfSEsBuIKsCmYhftrf1pct-WkoWQ?e=LSaAcz)
+**Hangjie Yuan**, Dong Ni and Mang Wang.    [[code]](https://github.com/JacobYuan7/DIN-Group-Activity-Recognition-Benchmark) [[知乎]](https://zhuanlan.zhihu.com/p/408883301) [[将门创投]](https://www.techbeat.net/article-info?id=2719) [[video talk]](https://zjueducn-my.sharepoint.com/:v:/g/personal/hj_yuan_zju_edu_cn/ETNLr67L5glAhOibIzbfSEsBuIKsCmYhftrf1pct-WkoWQ?e=LSaAcz)
 
 - DIN proposes to perform spatio-temporal dynamic inference.
 - DIN achieves SOTA results on Volleyball and CAD benchmarks while costing **much less computational overhead** of the reasoning module.
@@ -56,7 +56,7 @@ But we must log in to watch. -->
 <div class='paper-box-text' markdown="1">
 
 [Learning Visual Context for Group Activity Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/16437)) \\
-**Hangjie Yuan** and Dong Ni [[video talk]](https://papertalk.org/papertalks/30909)
+**Hangjie Yuan** and Dong Ni. [[video talk]](https://papertalk.org/papertalks/30909)
 
 - This paper proposes to incorporate visual context when recognizing activities. This should work for other related problems as well.
 - This paper achieves SOTA results on Volleyball and CAD benchmarks.
@@ -71,7 +71,7 @@ But we must log in to watch. -->
 <div class='paper-box-text' markdown="1">
 
 [Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation](https://openaccess.thecvf.com/content/CVPR2022/html/Feng_Overcoming_Catastrophic_Forgetting_in_Incremental_Object_Detection_via_Elastic_Response_CVPR_2022_paper.html) \\
-Tao Feng, Mang Wang and **Hangjie Yuan**  [[code]](https://github.com/Hi-FT/ERD)
+Tao Feng, Mang Wang and **Hangjie Yuan**.  [[code]](https://github.com/Hi-FT/ERD)
 
 - This paper proposes a response-only distillation method for Incremental Object Detection, dubbed Elastic Response Distillation.
 - This paper achieves SOTA results on COCO benchmarks while utilizing much fewer responses for distillation.
