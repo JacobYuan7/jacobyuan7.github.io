@@ -18,7 +18,7 @@ I have published several papers in top-tier conferences on these topics, _e.g._ 
 
 Any form of collaboration is welcomed. I indeed have some new ideas, but I do not have sufficient time to prove them all. Drop me an email 📧!
 
-<!-- <span style="color:red"><strong> I am currently seeking job opportunities and anticipate graduating in 2024. I am exploring options in both academia, such as postdoctoral positions, and industry, focusing on research-oriented roles. I would be delighted to discuss any job openings or research projects. Please don't hesitate to contact me at hj.yuan@zju.edu.cn. </strong></span>  -->
+<span style="color:red"><strong> I am currently seeking job opportunities and anticipate graduating in 2024. I am exploring options in both academia, such as postdoctoral positions, and industry, focusing on research-oriented roles. I would be delighted to discuss any job openings or research projects. Please don't hesitate to contact me at hj.yuan@zju.edu.cn. </strong></span>
 
 
 
