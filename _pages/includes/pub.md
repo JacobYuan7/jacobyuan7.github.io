@@ -5,12 +5,17 @@ A full publication list is available on my [google scholar](https://scholar.goog
 
 (* denotes equal contribution.)
 <!-- <sup>*</sup> -->
+
+## Technical report ##
+- [ModelScope Text-to-Video Technical Report](https://arxiv.org/abs/2308.06571), Jiuniu Wang\*, **Hangjie Yuan**\*, Dayou Chen\*, Yingya Zhang\*, Xiang Wang, Shiwei Zhang. [[Project page]](https://modelscope.cn/models/damo/text-to-video-synthesis/summary)
+   - The first publicly-available large-scale diffusion-based text-to-video model.
+
 ## Pre-prints ##
 - [VideoComposer: Compositional Video Synthesis with Motion Controllability](https://arxiv.org/abs/2306.02018), Xiang Wang\*, **Hangjie Yuan**\*, Shiwei Zhang\*, Dayou Chen\*, Jiuniu Wang, Yingya Zhang, Yujun Shen, Deli Zhao, Jingren Zhou. [[Project page]](https://videocomposer.github.io/) [[机器之心]](https://mp.weixin.qq.com/s/4LVGj0KQDPJDGn5SVZfW1w) [[CVer]](https://mp.weixin.qq.com/s/rpmXd-nkE9oSG4bZsKKfpw)
 - [Refined Response Distillation for Class-Incremental Player Detection](https://arxiv.org/abs/2305.00620), Liang Bai, **Hangjie Yuan**, Tao Feng, Hong Song, Jian Yang.
 - [Progressive Learning without Forgetting](https://arxiv.org/abs/2211.15215), Tao Feng, **Hangjie Yuan**, Mang Wang, Ziyuan Huang, Ang Bian, Jianzhou Zhang.
 
-## Human-Object Interaction Detection
+## HOI Detection / Scene Graph Generation
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022 Spotlight</div><img src='images/RLIP_overview.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -65,7 +70,7 @@ But we must log in to watch. -->
 
 
 
-## Incremental/Continual Learning
+## Incremental / Continual Learning
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/ERD_overview.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
