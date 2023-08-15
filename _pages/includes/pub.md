@@ -4,11 +4,12 @@
 A full publication list is available on my [google scholar](https://scholar.google.com/citations?user=jQ3bFDMAAAAJ&hl=en&oi=ao) page.
 
 (* denotes equal contribution.)
+
 <!-- <sup>*</sup> -->
 
 ## Technical report ##
 - [ModelScope Text-to-Video Technical Report](https://arxiv.org/abs/2308.06571), Jiuniu Wang\*, **Hangjie Yuan**\*, Dayou Chen\*, Yingya Zhang\*, Xiang Wang, Shiwei Zhang. [[Project page]](https://modelscope.cn/models/damo/text-to-video-synthesis/summary)
-   - The first publicly-available large-scale diffusion-based text-to-video model.
+   - The **first** publicly-available diffusion-based text-to-video model at scale, utilized by **hundreds of thousands of people**.
 
 ## Pre-prints ##
 - [VideoComposer: Compositional Video Synthesis with Motion Controllability](https://arxiv.org/abs/2306.02018), Xiang Wang\*, **Hangjie Yuan**\*, Shiwei Zhang\*, Dayou Chen\*, Jiuniu Wang, Yingya Zhang, Yujun Shen, Deli Zhao, Jingren Zhou. [[Project page]](https://videocomposer.github.io/) [[机器之心]](https://mp.weixin.qq.com/s/4LVGj0KQDPJDGn5SVZfW1w) [[CVer]](https://mp.weixin.qq.com/s/rpmXd-nkE9oSG4bZsKKfpw)
