@@ -17,12 +17,37 @@ A full publication list is available on my [google scholar](https://scholar.goog
 - [Progressive Learning without Forgetting](https://arxiv.org/abs/2211.15215), Tao Feng, **Hangjie Yuan**, Mang Wang, Ziyuan Huang, Ang Bian, Jianzhou Zhang.
 
 ## Video Generation
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/VideoComposer_overview.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[VideoComposer: Compositional Video Synthesis with Motion Controllability](https://arxiv.org/abs/2306.02018), 
+Xiang Wang\*, **Hangjie Yuan**\*, Shiwei Zhang\*, Dayou Chen\*, Jiuniu Wang, Yingya Zhang, Yujun Shen, Deli Zhao, Jingren Zhou.    
+[[Project page]](https://videocomposer.github.io/) [[机器之心]](https://mp.weixin.qq.com/s/4LVGj0KQDPJDGn5SVZfW1w) [[CVer]](https://mp.weixin.qq.com/s/rpmXd-nkE9oSG4bZsKKfpw)
+
+- VideoComposer pioneers controllable video synthesis by integrating textual, spatial, and crucially, temporal conditions, using an unified interface for information injection.
+- VideoComposer can generate videos with various input control signals, even with hand-crafted sketches and motion.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical report</div><img src='images/ModelScopeT2V_overview.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ModelScope Text-to-Video Technical Report](https://arxiv.org/abs/2308.06571),
+Jiuniu Wang\*, **Hangjie Yuan**\*, Dayou Chen\*, Yingya Zhang\*, Xiang Wang, Shiwei Zhang.    [[Project page]](https://modelscope.cn/models/damo/text-to-video-synthesis/summary)
+
+- ModelScope is the **first** publicly-available diffusion-based text-to-video model at scale, which has been utilized by **hundreds of thousands of people**.
+
+</div>
+</div>
+
 
 ## HOI Detection / Scene Graph Generation
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/RLIPv2_overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[RLIPv2: Fast Scaling of Relational Language-Image Pre-training](https://arxiv.org/abs/2308.09351) \\
+[RLIPv2: Fast Scaling of Relational Language-Image Pre-training](https://arxiv.org/abs/2308.09351),
 **Hangjie Yuan**, Shiwei Zhang, Xiang Wang, Samuel Albanie, Yining Pan, Tao Feng, Jianwen Jiang, Dong Ni, Yingya Zhang, Deli Zhao.    [[code]](https://github.com/JacobYuan7/RLIPv2) 
 
 - RLIPv2 elevates RLIP by leveraging a new language-image fusion mechanism, designed for expansive data scales.
@@ -30,7 +55,6 @@ A full publication list is available on my [google scholar](https://scholar.goog
 </div>
 </div>
 
-Introducing RLIPv2: Elevating RLIP to new heights, RLIPv2 harnesses the power of an innovative language-image fusion mechanism, optimized for handling data at a grand scale. With our most advanced pre-trained RLIPv2 model (Swin-L), we've achieved performance on par with RLIPv1 (R50), remarkably using only 1% of the data.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022 Spotlight</div><img src='images/RLIP_overview.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -53,9 +77,9 @@ Introducing RLIPv2: Elevating RLIP to new heights, RLIPv2 harnesses the power of
 
 - OCN proposes a two-stage HOI detection method by decoupling entity detection and relation inference.
 - OCN incorporates language and statistical prior to facilitate verb inference.
-- OCN achieves SOTA results on HICO-DET and V-COCO benchmarks.
 </div>
 </div>
+<!-- - OCN achieves SOTA results on HICO-DET and V-COCO benchmarks.-->
 
 
 ## Video Understanding
