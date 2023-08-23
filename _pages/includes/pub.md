@@ -5,16 +5,10 @@ A full publication list is available on my [google scholar](https://scholar.goog
 
 (* denotes equal contribution.)
 
-<!-- <sup>*</sup> -->
-
-## Technical report ##
-- [ModelScope Text-to-Video Technical Report](https://arxiv.org/abs/2308.06571), Jiuniu Wang\*, **Hangjie Yuan**\*, Dayou Chen\*, Yingya Zhang\*, Xiang Wang, Shiwei Zhang. [[Project page]](https://modelscope.cn/models/damo/text-to-video-synthesis/summary)
-   - The **first** publicly-available diffusion-based text-to-video model at scale, utilized by **hundreds of thousands of people**.
-
 ## Pre-prints ##
-- [VideoComposer: Compositional Video Synthesis with Motion Controllability](https://arxiv.org/abs/2306.02018), Xiang Wang\*, **Hangjie Yuan**\*, Shiwei Zhang\*, Dayou Chen\*, Jiuniu Wang, Yingya Zhang, Yujun Shen, Deli Zhao, Jingren Zhou. [[Project page]](https://videocomposer.github.io/) [[机器之心]](https://mp.weixin.qq.com/s/4LVGj0KQDPJDGn5SVZfW1w) [[CVer]](https://mp.weixin.qq.com/s/rpmXd-nkE9oSG4bZsKKfpw)
 - [Refined Response Distillation for Class-Incremental Player Detection](https://arxiv.org/abs/2305.00620), Liang Bai, **Hangjie Yuan**, Tao Feng, Hong Song, Jian Yang.
 - [Progressive Learning without Forgetting](https://arxiv.org/abs/2211.15215), Tao Feng, **Hangjie Yuan**, Mang Wang, Ziyuan Huang, Ang Bian, Jianzhou Zhang.
+
 
 ## Video Generation
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/VideoComposer_overview.PNG' alt="sym" width="100%"></div></div>
@@ -24,8 +18,8 @@ A full publication list is available on my [google scholar](https://scholar.goog
 Xiang Wang\*, **Hangjie Yuan**\*, Shiwei Zhang\*, Dayou Chen\*, Jiuniu Wang, Yingya Zhang, Yujun Shen, Deli Zhao, Jingren Zhou.    
 [[Project page]](https://videocomposer.github.io/) [[机器之心]](https://mp.weixin.qq.com/s/4LVGj0KQDPJDGn5SVZfW1w) [[CVer]](https://mp.weixin.qq.com/s/rpmXd-nkE9oSG4bZsKKfpw)
 
-- VideoComposer pioneers controllable video synthesis by integrating textual, spatial, and crucially, temporal conditions, using an unified interface for information injection.
-- VideoComposer can generate videos with various input control signals, even with hand-crafted sketches and motion.
+- VideoComposer pioneers controllable video synthesis, seamlessly integrating textual, spatial, and crucially, temporal conditions, through a unified interface for information injection.
+- VideoComposer can craft videos using various input control signals, from intricate hand-drawn sketches to defined motions.
 
 </div>
 </div>
