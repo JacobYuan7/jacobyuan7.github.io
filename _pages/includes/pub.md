@@ -19,16 +19,18 @@ A full publication list is available on my [google scholar](https://scholar.goog
 ## Video Generation
 
 ## HOI Detection / Scene Graph Generation
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/RLIPv2_overview.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/RLIPv2_overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RLIPv2: Fast Scaling of Relational Language-Image Pre-training](https://arxiv.org/abs/2308.09351) \\
 **Hangjie Yuan**, Shiwei Zhang, Xiang Wang, Samuel Albanie, Yining Pan, Tao Feng, Jianwen Jiang, Dong Ni, Yingya Zhang, Deli Zhao.    [[code]](https://github.com/JacobYuan7/RLIPv2) 
 
-- RLIPv2 scales RLIP on data at scale utilizing a new language-image fusion mechanism.
-- The largest pre-trained RLIPv2 (Swin-L) achieves results similar to RLIPv1 (R50), utilizing just 1% data.
+- RLIPv2 elevates RLIP by leveraging a new language-image fusion mechanism, designed for expansive data scales.
+- The most advanced pre-trained RLIPv2 (Swin-L) matches the performance of RLIPv1 (R50) while utilizing a mere 1% of the data.
 </div>
 </div>
+
+Introducing RLIPv2: Elevating RLIP to new heights, RLIPv2 harnesses the power of an innovative language-image fusion mechanism, optimized for handling data at a grand scale. With our most advanced pre-trained RLIPv2 model (Swin-L), we've achieved performance on par with RLIPv1 (R50), remarkably using only 1% of the data.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022 Spotlight</div><img src='images/RLIP_overview.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
