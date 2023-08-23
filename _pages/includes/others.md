@@ -13,6 +13,7 @@
     - IEEE Transactions on Multimedia
     - IEEE Transactions on Circuits and Systems for Video Technology
     - Knowledge-Based Systems
+    - Pattern Recognition
 
 # 💬 Miscellaneous
 **English Proficiency**: 
