@@ -16,7 +16,20 @@ A full publication list is available on my [google scholar](https://scholar.goog
 - [Refined Response Distillation for Class-Incremental Player Detection](https://arxiv.org/abs/2305.00620), Liang Bai, **Hangjie Yuan**, Tao Feng, Hong Song, Jian Yang.
 - [Progressive Learning without Forgetting](https://arxiv.org/abs/2211.15215), Tao Feng, **Hangjie Yuan**, Mang Wang, Ziyuan Huang, Ang Bian, Jianzhou Zhang.
 
+## Video Generation
+
 ## HOI Detection / Scene Graph Generation
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/RLIPv2_overview.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RLIPv2: Fast Scaling of Relational Language-Image Pre-training](https://arxiv.org/abs/2308.09351) \\
+**Hangjie Yuan**, Shiwei Zhang, Xiang Wang, Samuel Albanie, Yining Pan, Tao Feng, Jianwen Jiang, Dong Ni, Yingya Zhang, Deli Zhao.    [[code]](https://github.com/JacobYuan7/RLIPv2) 
+
+- RLIPv2 scales RLIP on data at scale utilizing a new language-image fusion mechanism.
+- The largest pre-trained RLIPv2 (Swin-L) achieves results similar to RLIPv1 (R50), utilizing just 1% data.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022 Spotlight</div><img src='images/RLIP_overview.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -24,10 +37,10 @@ A full publication list is available on my [google scholar](https://scholar.goog
 **Hangjie Yuan**, Jianwen Jiang, Samuel Albanie, Tao Feng, Ziyuan Huang, Dong Ni and Mingqian Tang.    [[code]](https://github.com/JacobYuan7/RLIP) [[video talk]](https://recorder-v3.slideslive.com/?share=73193&s=67557178-73e9-48d1-af1c-4aacc162164b)  
 
 - RLIP is the first work to use **relation texts** as a language-image pre-training signal.
-- ParSe is a SOTA HOI/relation detection framework without bells and whistles.
 - RLIP-ParSe achieves SOTA results on fully-finetuned, few-shot, zero-shot HOI detetction benchmarks and learning from noisy labels.
 </div>
 </div>
+<!-- - ParSe is a SOTA HOI/relation detection framework without bells and whistles.-->
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/OCN_overview.PNG' alt="sym" width="100%"></div></div>
