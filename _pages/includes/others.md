@@ -7,7 +7,7 @@
     - NeurIPS 2023   
     - CVPR 2022-2023  
     - ICCV 2023  
-    - AAAI 2023  
+    - AAAI 2023-2024  
 
   - *Journals*:    
     - IEEE Transactions on Multimedia
