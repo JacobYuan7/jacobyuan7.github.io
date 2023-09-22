@@ -11,7 +11,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 
 
 ## Video Generation
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/VideoComposer_overview.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/VideoComposer_overview.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [VideoComposer: Compositional Video Synthesis with Motion Controllability](https://arxiv.org/abs/2306.02018), 
