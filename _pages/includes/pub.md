@@ -6,6 +6,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 (* denotes equal contribution.)
 
 ## Pre-prints ##
+- [Few-shot Action Recognition with Captioning Foundation Models](https://arxiv.org/abs/2310.10125), Xiang Wang, Shiwei Zhang, **Hangjie Yuan**, Yingya Zhang, Changxin Gao, Deli Zhao, Nong Sang.
 - [Refined Response Distillation for Class-Incremental Player Detection](https://arxiv.org/abs/2305.00620), Liang Bai, **Hangjie Yuan**, Tao Feng, Hong Song, Jian Yang.
 - [Progressive Learning without Forgetting](https://arxiv.org/abs/2211.15215), Tao Feng, **Hangjie Yuan**, Mang Wang, Ziyuan Huang, Ang Bian, Jianzhou Zhang.
 
