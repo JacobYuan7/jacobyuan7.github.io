@@ -120,6 +120,8 @@ Tao Feng, Mang Wang and **Hangjie Yuan**.  [[code]](https://github.com/Hi-FT/ERD
 
 <!-- - [**CVPR 2022**] [Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation](https://openaccess.thecvf.com/content/CVPR2022/html/Feng_Overcoming_Catastrophic_Forgetting_in_Incremental_Object_Detection_via_Elastic_Response_CVPR_2022_paper.html), Tao Feng, Mang Wang and **Hangjie Yuan**  [[code]](https://github.com/Hi-FT/ERD) -->
 
+## Other Interesting Topics
+- [From Denoising Training to Test-Time Adaptation: Enhancing Domain Generalization for Medical Image Segmentation](https://arxiv.org/abs/2310.20271), Ruxue Wen, **Hangjie Yuan**, Dong Ni, Wenbo Xiao, Yaoyao Wu.
 
 
   
