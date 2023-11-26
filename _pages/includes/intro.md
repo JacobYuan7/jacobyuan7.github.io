@@ -14,12 +14,12 @@ They are brilliant!
 <!-- work closely -->
 
 My current research interests include 
-1️⃣ Video Synthesis/Understanding,
-2️⃣ Human-Object Interaction Detection/Scene Graph Generation, and
-3️⃣ Language-Vision Foundation Models and their Applications, 
-I have published several papers in top-tier conferences, _e.g._ NeurIPS, ICCV, CVPR and AAAI.
-<!--4️⃣ Continual Learning.-->
+- 1️⃣ Video Synthesis/Understanding,
+- 2️⃣ Human-Object Interaction Detection/Scene Graph Generation, and
+- 3️⃣ Language-Vision Foundation Models and their Applications.
 
+<!--I have published several papers in top-tier conferences, _e.g._ NeurIPS, ICCV, CVPR and AAAI.-->
+<!--4️⃣ Continual Learning.-->
 <!-- My research interests include the intersection of Natural Language and Computer Vision, Relation Detection and Group Activity Recognition (in videos). Previously, I work on Group Activity Recognition (in videos). -->
 
 Any form of collaboration is welcomed. I indeed have some new ideas, but I do not have sufficient time to prove them all. Drop me an email 📧!
