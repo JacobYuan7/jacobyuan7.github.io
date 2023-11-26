@@ -7,9 +7,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 
 ## Pre-prints ##
 - [I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models](https://arxiv.org/abs/2311.04145), Shiwei Zhang\*, Jiayu Wang\*, Yingya Zhang\*, Kang Zhao, **Hangjie Yuan**, Zhiwu Qin, Xiang Wang, Deli Zhao, Jingren Zhou.
-- [Few-shot Action Recognition with Captioning Foundation Models](https://arxiv.org/abs/2310.10125), Xiang Wang, Shiwei Zhang, **Hangjie Yuan**, Yingya Zhang, Changxin Gao, Deli Zhao, Nong Sang.
-- [Refined Response Distillation for Class-Incremental Player Detection](https://arxiv.org/abs/2305.00620), Liang Bai, **Hangjie Yuan**, Tao Feng, Hong Song, Jian Yang.
-- [Progressive Learning without Forgetting](https://arxiv.org/abs/2211.15215), Tao Feng, **Hangjie Yuan**, Mang Wang, Ziyuan Huang, Ang Bian, Jianzhou Zhang.
+
 
 
 ## Video Generation
@@ -104,6 +102,7 @@ But we must log in to watch. -->
 </div>
 </div>
 
+- [**arXiv**] [Few-shot Action Recognition with Captioning Foundation Models](https://arxiv.org/abs/2310.10125), Xiang Wang, Shiwei Zhang, **Hangjie Yuan**, Yingya Zhang, Changxin Gao, Deli Zhao, Nong Sang.
 
 
 ## Incremental / Continual Learning
@@ -121,8 +120,13 @@ Tao Feng, Mang Wang and **Hangjie Yuan**.  [[code]](https://github.com/Hi-FT/ERD
 
 <!-- - [**CVPR 2022**] [Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation](https://openaccess.thecvf.com/content/CVPR2022/html/Feng_Overcoming_Catastrophic_Forgetting_in_Incremental_Object_Detection_via_Elastic_Response_CVPR_2022_paper.html), Tao Feng, Mang Wang and **Hangjie Yuan**  [[code]](https://github.com/Hi-FT/ERD) -->
 
+- [**arXiv**] [Refined Response Distillation for Class-Incremental Player Detection](https://arxiv.org/abs/2305.00620), Liang Bai, **Hangjie Yuan**, Tao Feng, Hong Song, Jian Yang.
+- [**arXiv**] [Progressive Learning without Forgetting](https://arxiv.org/abs/2211.15215), Tao Feng, **Hangjie Yuan**, Mang Wang, Ziyuan Huang, Ang Bian, Jianzhou Zhang.
+
+
+
 ## Other Interesting Topics
-- [**WACV 2024**] [From Denoising Training to Test-Time Adaptation: Enhancing Domain Generalization for Medical Image Segmentation](https://arxiv.org/abs/2310.20271), Ruxue Wen, **Hangjie Yuan**, Dong Ni, Wenbo Xiao, Yaoyao Wu, In **WACV 2024**. [[code]](https://github.com/WenRuxue/DeTTA)
+- [**WACV 2024**] [From Denoising Training to Test-Time Adaptation: Enhancing Domain Generalization for Medical Image Segmentation](https://arxiv.org/abs/2310.20271), Ruxue Wen, **Hangjie Yuan**, Dong Ni, Wenbo Xiao, Yaoyao Wu. [[code]](https://github.com/WenRuxue/DeTTA)
 
 
   
