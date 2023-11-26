@@ -110,7 +110,7 @@ But we must log in to watch. -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2021</div><img src='images/context_overview_2.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**AAAI 2021**] [Learning Visual Context for Group Activity Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/16437)) \\
+[**AAAI 2021**] [Learning Visual Context for Group Activity Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/16437) \\
 **Hangjie Yuan** and Dong Ni. [[video talk]](https://papertalk.org/papertalks/30909)
 
 - This paper proposes to incorporate visual context when recognizing activities. This should work for other related problems as well.
