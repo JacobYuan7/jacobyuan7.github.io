@@ -5,12 +5,27 @@ A full publication list is available on my [google scholar](https://scholar.goog
 
 (* denotes equal contribution.)
 
+<!--
 ## Pre-prints ##
-- [I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models](https://arxiv.org/abs/2311.04145), Shiwei Zhang\*, Jiayu Wang\*, Yingya Zhang\*, Kang Zhao, **Hangjie Yuan**, Zhiwu Qin, Xiang Wang, Deli Zhao, Jingren Zhou.
+- [I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models](https://arxiv.org/abs/2311.04145), Shiwei Zhang\*, Jiayu Wang\*, Yingya Zhang\*, Kang Zhao, **Hangjie Yuan**, Zhiwu Qin, Xiang Wang, Deli Zhao, Jingren Zhou. -->
 
 
 
 ## Video Generation
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/I2VGen-XL_overview.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**arXiv**] [I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models](https://arxiv.org/abs/2311.04145), 
+Shiwei Zhang\*, Jiayu Wang\*, Yingya Zhang\*, Kang Zhao, **Hangjie Yuan**, Zhiwu Qin, Xiang Wang, Deli Zhao, Jingren Zhou.    
+[[Project page]](https://i2vgen-xl.github.io/index.html) [[Code]](https://github.com/damo-vilab/i2vgen-xl) [[ModelScope]](https://modelscope.cn/models/damo/Image-to-Video/summary)
+
+- I2VGen-XL is the first publicly available foundational image-to-video generation model.
+- I2VGen-XL decouples high-resolution image-to-video synthesis into two stages: 1) the base stage that generates low-resolution semantically coherent videos, and 2) the refinement stage that enhances the video's details and improves the resolution to 1280×720.
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/VideoComposer_overview.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
