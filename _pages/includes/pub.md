@@ -6,6 +6,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 (* denotes equal contribution.)
 
 ## Pre-prints ##
+- [I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models](https://arxiv.org/abs/2311.04145), Shiwei Zhang*, Jiayu Wang*, Yingya Zhang*, Kang Zhao, **Hangjie Yuan**, Zhiwu Qin, Xiang Wang, Deli Zhao, Jingren Zhou.
 - [Few-shot Action Recognition with Captioning Foundation Models](https://arxiv.org/abs/2310.10125), Xiang Wang, Shiwei Zhang, **Hangjie Yuan**, Yingya Zhang, Changxin Gao, Deli Zhao, Nong Sang.
 - [Refined Response Distillation for Class-Incremental Player Detection](https://arxiv.org/abs/2305.00620), Liang Bai, **Hangjie Yuan**, Tao Feng, Hong Song, Jian Yang.
 - [Progressive Learning without Forgetting](https://arxiv.org/abs/2211.15215), Tao Feng, **Hangjie Yuan**, Mang Wang, Ziyuan Huang, Ang Bian, Jianzhou Zhang.
@@ -15,7 +16,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/VideoComposer_overview.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[VideoComposer: Compositional Video Synthesis with Motion Controllability](https://arxiv.org/abs/2306.02018), 
+[**NeurIPS 2023**] [VideoComposer: Compositional Video Synthesis with Motion Controllability](https://arxiv.org/abs/2306.02018), 
 Xiang Wang\*, **Hangjie Yuan**\*, Shiwei Zhang\*, Dayou Chen\*, Jiuniu Wang, Yingya Zhang, Yujun Shen, Deli Zhao, Jingren Zhou.    
 [[Project page]](https://videocomposer.github.io/) [[机器之心]](https://mp.weixin.qq.com/s/4LVGj0KQDPJDGn5SVZfW1w) [[CVer]](https://mp.weixin.qq.com/s/rpmXd-nkE9oSG4bZsKKfpw)
 
