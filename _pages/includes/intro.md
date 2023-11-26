@@ -6,18 +6,20 @@ I am Hangjie Yuan (**袁杭杰** in Chinese).
 I am currently a Ph.D. candidate from Zhejiang University, China and a long-term research intern in [Alibaba DAMO Academy](https://damo.alibaba.com/). 
 I am fortunate to be supervised by Prof. [Dong Ni](https://person.zju.edu.cn/en/nidong), who is open-minded and wise. 
 Moreover, I am fortunate to be supervised by Prof. [Samuel Albanie](https://samuelalbanie.com/) (University of Cambridge). 
-As part of Alibaba's Research Intern Program, I am/was supervised by [Shiwei Zhang](https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ&hl=en&oi=ao) (Alibaba DAMO Academy), [Jianwen Jiang](https://scholar.google.com/citations?user=37gvStUAAAAJ&hl=en) (Tsinghua University) and [Mang Wang](https://scholar.google.com/citations?user=igKgaDwAAAAJ&hl=en&oi=sra) (ByteDance Inc.). 
+As part of Alibaba's Research Intern Program, I am/was supervised by [Deli Zhao](https://zhaodeli.github.io/), [Shiwei Zhang](https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ&hl=en&oi=ao), [Jianwen Jiang](https://scholar.google.com/citations?user=37gvStUAAAAJ&hl=en) and [Mang Wang](https://scholar.google.com/citations?user=igKgaDwAAAAJ&hl=en&oi=sra). 
 They are brilliant!
 
 <!-- As part of the [China Scholarship Council](https://www.csc.edu.cn/chuguo)'s Visiting Program, I am fortunate to be supervised by Prof. [Samuel Albanie](https://samuelalbanie.com/) (University of Cambridge). -->
 <!-- Besides, I am fortunate to be supervised by Prof. [Samuel Albanie](https://samuelalbanie.com/) (University of Cambridge), [Shiwei Zhang](https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ&hl=en&oi=ao) (Alibaba DAMO Academy) and [Jianwen Jiang](https://scholar.google.com/citations?user=uDAkC1kAAAAJ&hl=zh-CN&oi=ao) (Tsinghua University) -->
 <!-- work closely -->
 
-My current research interests include 
+My current research interests include:
 - 1️⃣ Video Synthesis/Understanding,
 - 2️⃣ Human-Object Interaction Detection/Scene Graph Generation, and
 - 3️⃣ Language-Vision Foundation Models and their Applications.
 
+
+<!--[Shiwei Zhang](https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ&hl=en&oi=ao) (Alibaba DAMO Academy), [Jianwen Jiang](https://scholar.google.com/citations?user=37gvStUAAAAJ&hl=en) (Tsinghua University) and [Mang Wang](https://scholar.google.com/citations?user=igKgaDwAAAAJ&hl=en&oi=sra) (ByteDance Inc.)-->
 <!--I have published several papers in top-tier conferences, _e.g._ NeurIPS, ICCV, CVPR and AAAI.-->
 <!--4️⃣ Continual Learning.-->
 <!-- My research interests include the intersection of Natural Language and Computer Vision, Relation Detection and Group Activity Recognition (in videos). Previously, I work on Group Activity Recognition (in videos). -->
