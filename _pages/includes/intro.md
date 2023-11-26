@@ -3,7 +3,7 @@
 😃 Welcome to my personal page!
 
 I am Hangjie Yuan (**袁杭杰** in Chinese). 
-I am currently a Ph.D. candidate from Zhejiang University and a long-term research intern in [Alibaba DAMO Academy](https://damo.alibaba.com/). 
+I am currently a Ph.D. candidate from Zhejiang University and a long-term research intern at [Alibaba DAMO Academy](https://damo.alibaba.com/). 
 I am fortunate to be supervised by Prof. [Dong Ni](https://person.zju.edu.cn/en/nidong), who is open-minded and wise. 
 Moreover, I am fortunate to be supervised by Prof. [Samuel Albanie](https://samuelalbanie.com/) (University of Cambridge). 
 As part of Alibaba's Research Intern Program, I am/was supervised by [Deli Zhao](https://zhaodeli.github.io/), [Shiwei Zhang](https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ&hl=en&oi=ao), [Jianwen Jiang](https://scholar.google.com/citations?user=37gvStUAAAAJ&hl=en) and [Mang Wang](https://scholar.google.com/citations?user=igKgaDwAAAAJ&hl=en&oi=sra). 
