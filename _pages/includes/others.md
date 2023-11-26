@@ -6,7 +6,7 @@
   - *Conferences*: 
     - ICLR 2024
     - NeurIPS 2023   
-    - CVPR 2022-2023  
+    - CVPR 2022-2024  
     - ICCV 2023  
     - AAAI 2023-2024  
 
