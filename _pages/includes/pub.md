@@ -44,7 +44,9 @@ Xiang Wang\*, **Hangjie Yuan**\*, Shiwei Zhang\*, Dayou Chen\*, Jiuniu Wang, Yin
 <div class='paper-box-text' markdown="1">
 
 [**Technical report**] [ModelScope Text-to-Video Technical Report](https://arxiv.org/abs/2308.06571) \\
-Jiuniu Wang\*, **Hangjie Yuan**\*, Dayou Chen\*, Yingya Zhang\*, Xiang Wang, Shiwei Zhang.  [[Diffusers]](https://huggingface.co/docs/diffusers/api/pipelines/text_to_video)  [[Project page]](https://modelscope.cn/models/damo/text-to-video-synthesis/summary)
+Jiuniu Wang\*, **Hangjie Yuan**\*, Dayou Chen\*, Yingya Zhang\*, Xiang Wang, Shiwei Zhang.   [[Project page]](https://modelscope.cn/models/damo/text-to-video-synthesis/summary)
+
+<!-- [[Diffusers]](https://huggingface.co/docs/diffusers/api/pipelines/text_to_video) -->
 
 - ModelScopeT2V is the **first** publicly-available diffusion-based text-to-video model at scale, which has been used by **millions of people**.
 - ModelScopeT2V is selected for inclusion in [Diffusers](https://huggingface.co/docs/diffusers/api/pipelines/text_to_video).
@@ -84,7 +86,7 @@ Jiuniu Wang\*, **Hangjie Yuan**\*, Dayou Chen\*, Yingya Zhang\*, Xiang Wang, Shi
 <div class='paper-box-text' markdown="1">
 
  [**AAAI 2022**] [Detecting Human-Object Interactions with Object-Guided Cross-Modal Calibrated Semantics](https://arxiv.org/abs/2202.00259) \\
-**Hangjie Yuan**, Mang Wang, Dong Ni and Liangpeng Xu.    [[code]](https://github.com/JacobYuan7/OCN-HOI-Benchmark) [[video talk]](https://aaai-2022.virtualchair.net/poster_aaai1979)
+**Hangjie Yuan**, Mang Wang, Dong Ni and Liangpeng Xu.   [![GitHub Stars](https://img.shields.io/github/stars/JacobYuan7/OCN-HOI-Benchmark?style=social)](https://github.com/JacobYuan7/OCN-HOI-Benchmark) [[video talk]](https://aaai-2022.virtualchair.net/poster_aaai1979)
 
 - OCN proposes a two-stage HOI detection method by decoupling entity detection and relation inference.
 - OCN incorporates language and statistical prior to facilitate verb inference.
@@ -98,7 +100,7 @@ Jiuniu Wang\*, **Hangjie Yuan**\*, Dayou Chen\*, Yingya Zhang\*, Xiang Wang, Shi
 <div class='paper-box-text' markdown="1">
 
 [**ICCV 2021**] [Spatio-Temporal Dynamic Inference Network for Group Activity Recognition]([https://arxiv.org/abs/2202.00259](https://openaccess.thecvf.com/content/ICCV2021/papers/Yuan_Spatio-Temporal_Dynamic_Inference_Network_for_Group_Activity_Recognition_ICCV_2021_paper.pdf)) \\
-**Hangjie Yuan**, Dong Ni and Mang Wang.    [[code]](https://github.com/JacobYuan7/DIN-Group-Activity-Recognition-Benchmark) [[知乎]](https://zhuanlan.zhihu.com/p/408883301) [[将门创投]](https://www.techbeat.net/article-info?id=2719) [[video talk]](https://zjueducn-my.sharepoint.com/:v:/g/personal/hj_yuan_zju_edu_cn/ETNLr67L5glAhOibIzbfSEsBuIKsCmYhftrf1pct-WkoWQ?e=LSaAcz)
+**Hangjie Yuan**, Dong Ni and Mang Wang.    [![GitHub Stars](https://img.shields.io/github/stars/JacobYuan7/DIN-Group-Activity-Recognition-Benchmark?style=social)](https://github.com/JacobYuan7/DIN-Group-Activity-Recognition-Benchmark) [[知乎]](https://zhuanlan.zhihu.com/p/408883301) [[将门创投]](https://www.techbeat.net/article-info?id=2719) [[video talk]](https://zjueducn-my.sharepoint.com/:v:/g/personal/hj_yuan_zju_edu_cn/ETNLr67L5glAhOibIzbfSEsBuIKsCmYhftrf1pct-WkoWQ?e=LSaAcz)
 
 - DIN proposes to perform spatio-temporal dynamic inference.
 - DIN achieves SOTA results on Volleyball and CAD benchmarks while costing **much less computational overhead** of the reasoning module.
@@ -128,7 +130,7 @@ But we must log in to watch. -->
 <div class='paper-box-text' markdown="1">
 
 [**CVPR 2022**] [Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation](https://openaccess.thecvf.com/content/CVPR2022/html/Feng_Overcoming_Catastrophic_Forgetting_in_Incremental_Object_Detection_via_Elastic_Response_CVPR_2022_paper.html) \\
-Tao Feng, Mang Wang and **Hangjie Yuan**.  [[code]](https://github.com/Hi-FT/ERD)
+Tao Feng, Mang Wang and **Hangjie Yuan**.  [![GitHub Stars](https://img.shields.io/github/stars/Hi-FT/ERD?style=social)](https://github.com/Hi-FT/ERD)
 
 - This paper proposes a response-only distillation method for Incremental Object Detection, dubbed Elastic Response Distillation.
 - This paper achieves SOTA results on COCO benchmarks while utilizing much fewer responses for distillation.
