@@ -12,7 +12,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 <div class='paper-box-text' markdown="1">
 
 [**arXiv**] [I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models](https://arxiv.org/abs/2311.04145) \\
-Shiwei Zhang\*, Jiayu Wang\*, Yingya Zhang\*, Kang Zhao, **Hangjie Yuan**, Zhiwu Qin, Xiang Wang, Deli Zhao, Jingren Zhou.  
+Shiwei Zhang\*, Jiayu Wang\*, Yingya Zhang\*, Kang Zhao, **Hangjie Yuan**, Zhiwu Qin, Xiang Wang, Deli Zhao, Jingren Zhou.  \\
 [![GitHub Stars](https://img.shields.io/github/stars/damo-vilab/i2vgen-xl?style=social)](https://github.com/damo-vilab/i2vgen-xl)
 [[Project page]](https://i2vgen-xl.github.io/index.html)
 [[ModelScope]](https://modelscope.cn/models/damo/Image-to-Video/summary)
@@ -28,7 +28,7 @@ Shiwei Zhang\*, Jiayu Wang\*, Yingya Zhang\*, Kang Zhao, **Hangjie Yuan**, Zhiwu
 <div class='paper-box-text' markdown="1">
 
 [**arXiv**] [DreamVideo: Composing Your Dream Videos with Customized Subject and Motion](https://arxiv.org/abs/2312.04433) \\
-Yujie Wei, Shiwei Zhang, Zhiwu Qing, **Hangjie Yuan**, Zhiheng Liu, Yu Liu, Yingya Zhang, Jingren Zhou, Hongming Shan.  
+Yujie Wei, Shiwei Zhang, Zhiwu Qing, **Hangjie Yuan**, Zhiheng Liu, Yu Liu, Yingya Zhang, Jingren Zhou, Hongming Shan. \\ 
 [![GitHub Stars](https://img.shields.io/github/stars/damo-vilab/i2vgen-xl?style=social)](https://github.com/damo-vilab/i2vgen-xl)
 [[Project page]](https://dreamvideo-t2v.github.io/)
 
@@ -58,7 +58,7 @@ Xiang Wang\*, **Hangjie Yuan**\*, Shiwei Zhang\*, Dayou Chen\*, Jiuniu Wang, Yin
 <div class='paper-box-text' markdown="1">
 
 [**Technical report**] [ModelScope Text-to-Video Technical Report](https://arxiv.org/abs/2308.06571) \\
-Jiuniu Wang\*, **Hangjie Yuan**\*, Dayou Chen\*, Yingya Zhang\*, Xiang Wang, Shiwei Zhang.   
+Jiuniu Wang\*, **Hangjie Yuan**\*, Dayou Chen\*, Yingya Zhang\*, Xiang Wang, Shiwei Zhang.   \\
 [<span style="color:red"><strong>[Diffusers]</strong></span>](https://huggingface.co/docs/diffusers/api/pipelines/text_to_video)
 [[Project page]](https://modelscope.cn/models/damo/text-to-video-synthesis/summary)
 
@@ -74,7 +74,7 @@ Jiuniu Wang\*, **Hangjie Yuan**\*, Dayou Chen\*, Yingya Zhang\*, Xiang Wang, Shi
 <div class='paper-box-text' markdown="1">
 
 [**ICCV 2023**] [RLIPv2: Fast Scaling of Relational Language-Image Pre-training](https://arxiv.org/abs/2308.09351) \\
-**Hangjie Yuan**, Shiwei Zhang, Xiang Wang, Samuel Albanie, Yining Pan, Tao Feng, Jianwen Jiang, Dong Ni, Yingya Zhang, Deli Zhao.  
+**Hangjie Yuan**, Shiwei Zhang, Xiang Wang, Samuel Albanie, Yining Pan, Tao Feng, Jianwen Jiang, Dong Ni, Yingya Zhang, Deli Zhao.  \\
 [![GitHub Stars](https://img.shields.io/github/stars/JacobYuan7/RLIPv2?style=social)](https://github.com/JacobYuan7/RLIPv2)
 
 - RLIPv2 elevates RLIP by leveraging a new language-image fusion mechanism, designed for expansive data scales.
@@ -87,7 +87,7 @@ Jiuniu Wang\*, **Hangjie Yuan**\*, Dayou Chen\*, Yingya Zhang\*, Xiang Wang, Shi
 <div class='paper-box-text' markdown="1">
 
 [**NeurIPS 2022** <span style="color:red"><strong> Spotlight </strong></span>] [RLIP: Relational Language-Image Pre-training for Human-Object Interaction Detection](https://arxiv.org/abs/2209.01814) \\
-**Hangjie Yuan**, Jianwen Jiang, Samuel Albanie, Tao Feng, Ziyuan Huang, Dong Ni and Mingqian Tang.    
+**Hangjie Yuan**, Jianwen Jiang, Samuel Albanie, Tao Feng, Ziyuan Huang, Dong Ni and Mingqian Tang.    \\
 [![GitHub Stars](https://img.shields.io/github/stars/JacobYuan7/RLIP?style=social)](https://github.com/JacobYuan7/RLIP) 
 [[video talk]](https://recorder-v3.slideslive.com/?share=73193&s=67557178-73e9-48d1-af1c-4aacc162164b)  
 
@@ -103,7 +103,7 @@ Jiuniu Wang\*, **Hangjie Yuan**\*, Dayou Chen\*, Yingya Zhang\*, Xiang Wang, Shi
 <div class='paper-box-text' markdown="1">
 
  [**AAAI 2022**] [Detecting Human-Object Interactions with Object-Guided Cross-Modal Calibrated Semantics](https://arxiv.org/abs/2202.00259) \\
-**Hangjie Yuan**, Mang Wang, Dong Ni and Liangpeng Xu.   
+**Hangjie Yuan**, Mang Wang, Dong Ni and Liangpeng Xu.   \\
 [![GitHub Stars](https://img.shields.io/github/stars/JacobYuan7/OCN-HOI-Benchmark?style=social)](https://github.com/JacobYuan7/OCN-HOI-Benchmark) 
 [[video talk]](https://aaai-2022.virtualchair.net/poster_aaai1979)
 
@@ -119,7 +119,7 @@ Jiuniu Wang\*, **Hangjie Yuan**\*, Dayou Chen\*, Yingya Zhang\*, Xiang Wang, Shi
 <div class='paper-box-text' markdown="1">
 
 [**ICCV 2021**] [Spatio-Temporal Dynamic Inference Network for Group Activity Recognition]([https://arxiv.org/abs/2202.00259](https://openaccess.thecvf.com/content/ICCV2021/papers/Yuan_Spatio-Temporal_Dynamic_Inference_Network_for_Group_Activity_Recognition_ICCV_2021_paper.pdf)) \\
-**Hangjie Yuan**, Dong Ni and Mang Wang.    
+**Hangjie Yuan**, Dong Ni and Mang Wang.    \\
 [![GitHub Stars](https://img.shields.io/github/stars/JacobYuan7/DIN-Group-Activity-Recognition-Benchmark?style=social)](https://github.com/JacobYuan7/DIN-Group-Activity-Recognition-Benchmark) 
 [[知乎]](https://zhuanlan.zhihu.com/p/408883301) 
 [[将门创投]](https://www.techbeat.net/article-info?id=2719) 
@@ -137,7 +137,7 @@ But we must log in to watch. -->
 <div class='paper-box-text' markdown="1">
 
 [**AAAI 2021**] [Learning Visual Context for Group Activity Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/16437) \\
-**Hangjie Yuan** and Dong Ni. 
+**Hangjie Yuan** and Dong Ni. \\
 [[video talk]](https://papertalk.org/papertalks/30909)
 
 - This paper proposes to incorporate visual context when recognizing activities. This should work for other related problems as well.
@@ -154,7 +154,7 @@ But we must log in to watch. -->
 <div class='paper-box-text' markdown="1">
 
 [**CVPR 2022**] [Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation](https://openaccess.thecvf.com/content/CVPR2022/html/Feng_Overcoming_Catastrophic_Forgetting_in_Incremental_Object_Detection_via_Elastic_Response_CVPR_2022_paper.html) \\
-Tao Feng, Mang Wang and **Hangjie Yuan**.  
+Tao Feng, Mang Wang and **Hangjie Yuan**.  \\
 [![GitHub Stars](https://img.shields.io/github/stars/Hi-FT/ERD?style=social)](https://github.com/Hi-FT/ERD)
 
 - This paper proposes a response-only distillation method for Incremental Object Detection, dubbed Elastic Response Distillation.
