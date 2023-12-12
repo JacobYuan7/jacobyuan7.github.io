@@ -2,12 +2,13 @@
 
 😃 Welcome to my personal page!
 
-I am Hangjie Yuan (**袁杭杰** in Chinese). 
-I am currently a Ph.D. candidate from Zhejiang University and a long-term research intern at [Alibaba DAMO Academy](https://damo.alibaba.com/). 
-I am fortunate to be supervised by Prof. [Dong Ni](https://person.zju.edu.cn/en/nidong), who is open-minded and wise. 
-Moreover, I am fortunate to be supervised by Prof. [Samuel Albanie](https://samuelalbanie.com/) (University of Cambridge). 
+I am Hangjie Yuan (**袁杭杰** in Chinese), currently pursuing my Ph.D. at Zhejiang University and serving as a long-term research intern at [Alibaba DAMO Academy](https://damo.alibaba.com/). 
+I am fortunate to be supervised by Prof. [Dong Ni](https://person.zju.edu.cn/en/nidong) at ZJU, who is open-minded and wise. 
+Additionally, I am undertaking a visiting Ph.D. program at [MMLab@NTU](https://www.mmlab-ntu.com/), supervised by Prof. [Ziwei Liu](https://liuziwei7.github.io/).
+Moreover, I am fortunate to be supervised by Prof. [Samuel Albanie](https://samuelalbanie.com/) at the University of Cambridge. 
 As part of Alibaba's Research Intern Program, I am/was supervised by [Deli Zhao](https://zhaodeli.github.io/), [Shiwei Zhang](https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ&hl=en&oi=ao), [Jianwen Jiang](https://scholar.google.com/citations?user=37gvStUAAAAJ&hl=en) and [Mang Wang](https://scholar.google.com/citations?user=igKgaDwAAAAJ&hl=en&oi=sra). 
 They are brilliant!
+
 
 <!-- As part of the [China Scholarship Council](https://www.csc.edu.cn/chuguo)'s Visiting Program, I am fortunate to be supervised by Prof. [Samuel Albanie](https://samuelalbanie.com/) (University of Cambridge). -->
 <!-- Besides, I am fortunate to be supervised by Prof. [Samuel Albanie](https://samuelalbanie.com/) (University of Cambridge), [Shiwei Zhang](https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ&hl=en&oi=ao) (Alibaba DAMO Academy) and [Jianwen Jiang](https://scholar.google.com/citations?user=uDAkC1kAAAAJ&hl=zh-CN&oi=ao) (Tsinghua University) -->
