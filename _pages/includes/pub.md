@@ -28,9 +28,10 @@ Shiwei Zhang\*, Jiayu Wang\*, Yingya Zhang\*, Kang Zhao, **Hangjie Yuan**, Zhiwu
 <div class='paper-box-text' markdown="1">
 
 [**arXiv**] [DreamVideo: Composing Your Dream Videos with Customized Subject and Motion](https://arxiv.org/abs/2312.04433) \\
-Yujie Wei, Shiwei Zhang, Zhiwu Qing, **Hangjie Yuan**, Zhiheng Liu, Yu Liu, Yingya Zhang, Jingren Zhou, Hongming Shan. \\ 
+Yujie Wei, Shiwei Zhang, Zhiwu Qing, **Hangjie Yuan**, Zhiheng Liu, Yu Liu, Yingya Zhang, Jingren Zhou, Hongming Shan.\\
 [![GitHub Stars](https://img.shields.io/github/stars/damo-vilab/i2vgen-xl?style=social)](https://github.com/damo-vilab/i2vgen-xl)
 [[Project page]](https://dreamvideo-t2v.github.io/)
+
 
 - DreamVideo is the first method that generates personalized videos from a few static images of the desired subject and a few videos of target motion.
 
