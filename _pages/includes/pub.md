@@ -58,7 +58,7 @@ Jiuniu Wang\*, **Hangjie Yuan**\*, Dayou Chen\*, Yingya Zhang\*, Xiang Wang, Shi
 <div class='paper-box-text' markdown="1">
 
 [**ICCV 2023**] [RLIPv2: Fast Scaling of Relational Language-Image Pre-training](https://arxiv.org/abs/2308.09351) \\
-**Hangjie Yuan**, Shiwei Zhang, Xiang Wang, Samuel Albanie, Yining Pan, Tao Feng, Jianwen Jiang, Dong Ni, Yingya Zhang, Deli Zhao.    [[code]](https://github.com/JacobYuan7/RLIPv2) 
+**Hangjie Yuan**, Shiwei Zhang, Xiang Wang, Samuel Albanie, Yining Pan, Tao Feng, Jianwen Jiang, Dong Ni, Yingya Zhang, Deli Zhao.  [![GitHub Stars](https://img.shields.io/github/stars/JacobYuan7/RLIPv2?style=social)](https://github.com/JacobYuan7/RLIPv2)
 
 - RLIPv2 elevates RLIP by leveraging a new language-image fusion mechanism, designed for expansive data scales.
 - The most advanced pre-trained RLIPv2 (Swin-L) matches the performance of RLIPv1 (R50) while utilizing a mere 1% of the data.
@@ -70,7 +70,7 @@ Jiuniu Wang\*, **Hangjie Yuan**\*, Dayou Chen\*, Yingya Zhang\*, Xiang Wang, Shi
 <div class='paper-box-text' markdown="1">
 
 [**NeurIPS 2022** <span style="color:red"><strong> Spotlight </strong></span>] [RLIP: Relational Language-Image Pre-training for Human-Object Interaction Detection](https://arxiv.org/abs/2209.01814) \\
-**Hangjie Yuan**, Jianwen Jiang, Samuel Albanie, Tao Feng, Ziyuan Huang, Dong Ni and Mingqian Tang.    [[code]](https://github.com/JacobYuan7/RLIP) [[video talk]](https://recorder-v3.slideslive.com/?share=73193&s=67557178-73e9-48d1-af1c-4aacc162164b)  
+**Hangjie Yuan**, Jianwen Jiang, Samuel Albanie, Tao Feng, Ziyuan Huang, Dong Ni and Mingqian Tang.    [![GitHub Stars](https://img.shields.io/github/stars/JacobYuan7/RLIP?style=social)](https://github.com/JacobYuan7/RLIP) [[video talk]](https://recorder-v3.slideslive.com/?share=73193&s=67557178-73e9-48d1-af1c-4aacc162164b)  
 
 - RLIP is the first work to use **relation texts** as a language-image pre-training signal.
 - RLIP-ParSe achieves SOTA results on fully-finetuned, few-shot, zero-shot HOI detetction benchmarks and learning from noisy labels.
