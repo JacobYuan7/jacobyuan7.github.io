@@ -5,10 +5,6 @@ A full publication list is available on my [google scholar](https://scholar.goog
 
 (* denotes equal contribution.)
 
-<!--
-## Pre-prints ##
-- [I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models](https://arxiv.org/abs/2311.04145), Shiwei Zhang\*, Jiayu Wang\*, Yingya Zhang\*, Kang Zhao, **Hangjie Yuan**, Zhiwu Qin, Xiang Wang, Deli Zhao, Jingren Zhou. -->
-
 
 
 ## Video Generation
@@ -16,8 +12,10 @@ A full publication list is available on my [google scholar](https://scholar.goog
 <div class='paper-box-text' markdown="1">
 
 [**arXiv**] [I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models](https://arxiv.org/abs/2311.04145) \\
-Shiwei Zhang\*, Jiayu Wang\*, Yingya Zhang\*, Kang Zhao, **Hangjie Yuan**, Zhiwu Qin, Xiang Wang, Deli Zhao, Jingren Zhou.    
-[[Project page]](https://i2vgen-xl.github.io/index.html) [[Code]](https://github.com/damo-vilab/i2vgen-xl) [[ModelScope]](https://modelscope.cn/models/damo/Image-to-Video/summary)
+Shiwei Zhang\*, Jiayu Wang\*, Yingya Zhang\*, Kang Zhao, **Hangjie Yuan**, Zhiwu Qin, Xiang Wang, Deli Zhao, Jingren Zhou.  
+[![GitHub Stars](https://img.shields.io/github/stars/damo-vilab/i2vgen-xl?style=social)](https://github.com/damo-vilab/i2vgen-xl)
+[[Project page]](https://i2vgen-xl.github.io/index.html)
+[[ModelScope]](https://modelscope.cn/models/damo/Image-to-Video/summary)
 
 - I2VGen-XL is the first publicly available foundation model for image-to-video generation.
 - I2VGen-XL decouples high-resolution image-to-video synthesis into two stages: 1) the base stage that generates low-resolution semantically coherent videos, and 2) the refinement stage that enhances the video's details and improves the resolution to 1280×720.
@@ -30,8 +28,11 @@ Shiwei Zhang\*, Jiayu Wang\*, Yingya Zhang\*, Kang Zhao, **Hangjie Yuan**, Zhiwu
 <div class='paper-box-text' markdown="1">
 
 [**NeurIPS 2023**] [VideoComposer: Compositional Video Synthesis with Motion Controllability](https://arxiv.org/abs/2306.02018) \\
-Xiang Wang\*, **Hangjie Yuan**\*, Shiwei Zhang\*, Dayou Chen\*, Jiuniu Wang, Yingya Zhang, Yujun Shen, Deli Zhao, Jingren Zhou.    
-[[Project page]](https://videocomposer.github.io/) [[机器之心]](https://mp.weixin.qq.com/s/4LVGj0KQDPJDGn5SVZfW1w) [[CVer]](https://mp.weixin.qq.com/s/rpmXd-nkE9oSG4bZsKKfpw)
+Xiang Wang\*, **Hangjie Yuan**\*, Shiwei Zhang\*, Dayou Chen\*, Jiuniu Wang, Yingya Zhang, Yujun Shen, Deli Zhao, Jingren Zhou.
+[![GitHub Stars](https://img.shields.io/github/stars/damo-vilab/videocomposer?style=social)](https://github.com/damo-vilab/videocomposer)
+[[Project page]](https://videocomposer.github.io/) 
+[[机器之心]](https://mp.weixin.qq.com/s/4LVGj0KQDPJDGn5SVZfW1w) 
+[[CVer]](https://mp.weixin.qq.com/s/rpmXd-nkE9oSG4bZsKKfpw)
 
 - VideoComposer pioneers controllable video synthesis, seamlessly integrating textual, spatial, and crucially, temporal conditions, through a unified interface for information injection.
 - VideoComposer can craft videos using various input control signals, from intricate hand-drawn sketches to defined motions.
