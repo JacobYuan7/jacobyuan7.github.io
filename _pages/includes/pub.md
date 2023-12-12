@@ -45,9 +45,9 @@ Xiang Wang\*, **Hangjie Yuan**\*, Shiwei Zhang\*, Dayou Chen\*, Jiuniu Wang, Yin
 <div class='paper-box-text' markdown="1">
 
 [**Technical report**] [ModelScope Text-to-Video Technical Report](https://arxiv.org/abs/2308.06571) \\
-Jiuniu Wang\*, **Hangjie Yuan**\*, Dayou Chen\*, Yingya Zhang\*, Xiang Wang, Shiwei Zhang.   [[Project page]](https://modelscope.cn/models/damo/text-to-video-synthesis/summary)
-
-<!-- [[Diffusers]](https://huggingface.co/docs/diffusers/api/pipelines/text_to_video) -->
+Jiuniu Wang\*, **Hangjie Yuan**\*, Dayou Chen\*, Yingya Zhang\*, Xiang Wang, Shiwei Zhang.   
+[<span style="color:red"><strong>[Diffusers]</strong></span>](https://huggingface.co/docs/diffusers/api/pipelines/text_to_video)
+[[Project page]](https://modelscope.cn/models/damo/text-to-video-synthesis/summary)
 
 - ModelScopeT2V is the **first** publicly-available diffusion-based text-to-video model at scale, which has been used by **millions of people**.
 - ModelScopeT2V is selected for inclusion in [Diffusers](https://huggingface.co/docs/diffusers/api/pipelines/text_to_video).
@@ -61,7 +61,8 @@ Jiuniu Wang\*, **Hangjie Yuan**\*, Dayou Chen\*, Yingya Zhang\*, Xiang Wang, Shi
 <div class='paper-box-text' markdown="1">
 
 [**ICCV 2023**] [RLIPv2: Fast Scaling of Relational Language-Image Pre-training](https://arxiv.org/abs/2308.09351) \\
-**Hangjie Yuan**, Shiwei Zhang, Xiang Wang, Samuel Albanie, Yining Pan, Tao Feng, Jianwen Jiang, Dong Ni, Yingya Zhang, Deli Zhao.  [![GitHub Stars](https://img.shields.io/github/stars/JacobYuan7/RLIPv2?style=social)](https://github.com/JacobYuan7/RLIPv2)
+**Hangjie Yuan**, Shiwei Zhang, Xiang Wang, Samuel Albanie, Yining Pan, Tao Feng, Jianwen Jiang, Dong Ni, Yingya Zhang, Deli Zhao.  
+[![GitHub Stars](https://img.shields.io/github/stars/JacobYuan7/RLIPv2?style=social)](https://github.com/JacobYuan7/RLIPv2)
 
 - RLIPv2 elevates RLIP by leveraging a new language-image fusion mechanism, designed for expansive data scales.
 - The most advanced pre-trained RLIPv2 (Swin-L) matches the performance of RLIPv1 (R50) while utilizing a mere 1% of the data.
@@ -73,7 +74,9 @@ Jiuniu Wang\*, **Hangjie Yuan**\*, Dayou Chen\*, Yingya Zhang\*, Xiang Wang, Shi
 <div class='paper-box-text' markdown="1">
 
 [**NeurIPS 2022** <span style="color:red"><strong> Spotlight </strong></span>] [RLIP: Relational Language-Image Pre-training for Human-Object Interaction Detection](https://arxiv.org/abs/2209.01814) \\
-**Hangjie Yuan**, Jianwen Jiang, Samuel Albanie, Tao Feng, Ziyuan Huang, Dong Ni and Mingqian Tang.    [![GitHub Stars](https://img.shields.io/github/stars/JacobYuan7/RLIP?style=social)](https://github.com/JacobYuan7/RLIP) [[video talk]](https://recorder-v3.slideslive.com/?share=73193&s=67557178-73e9-48d1-af1c-4aacc162164b)  
+**Hangjie Yuan**, Jianwen Jiang, Samuel Albanie, Tao Feng, Ziyuan Huang, Dong Ni and Mingqian Tang.    
+[![GitHub Stars](https://img.shields.io/github/stars/JacobYuan7/RLIP?style=social)](https://github.com/JacobYuan7/RLIP) 
+[[video talk]](https://recorder-v3.slideslive.com/?share=73193&s=67557178-73e9-48d1-af1c-4aacc162164b)  
 
 - RLIP is the first work to use **relation texts** as a language-image pre-training signal.
 - RLIP-ParSe achieves SOTA results on fully-finetuned, few-shot, zero-shot HOI detetction benchmarks and learning from noisy labels.
@@ -87,7 +90,9 @@ Jiuniu Wang\*, **Hangjie Yuan**\*, Dayou Chen\*, Yingya Zhang\*, Xiang Wang, Shi
 <div class='paper-box-text' markdown="1">
 
  [**AAAI 2022**] [Detecting Human-Object Interactions with Object-Guided Cross-Modal Calibrated Semantics](https://arxiv.org/abs/2202.00259) \\
-**Hangjie Yuan**, Mang Wang, Dong Ni and Liangpeng Xu.   [![GitHub Stars](https://img.shields.io/github/stars/JacobYuan7/OCN-HOI-Benchmark?style=social)](https://github.com/JacobYuan7/OCN-HOI-Benchmark) [[video talk]](https://aaai-2022.virtualchair.net/poster_aaai1979)
+**Hangjie Yuan**, Mang Wang, Dong Ni and Liangpeng Xu.   
+[![GitHub Stars](https://img.shields.io/github/stars/JacobYuan7/OCN-HOI-Benchmark?style=social)](https://github.com/JacobYuan7/OCN-HOI-Benchmark) 
+[[video talk]](https://aaai-2022.virtualchair.net/poster_aaai1979)
 
 - OCN proposes a two-stage HOI detection method by decoupling entity detection and relation inference.
 - OCN incorporates language and statistical prior to facilitate verb inference.
@@ -101,7 +106,11 @@ Jiuniu Wang\*, **Hangjie Yuan**\*, Dayou Chen\*, Yingya Zhang\*, Xiang Wang, Shi
 <div class='paper-box-text' markdown="1">
 
 [**ICCV 2021**] [Spatio-Temporal Dynamic Inference Network for Group Activity Recognition]([https://arxiv.org/abs/2202.00259](https://openaccess.thecvf.com/content/ICCV2021/papers/Yuan_Spatio-Temporal_Dynamic_Inference_Network_for_Group_Activity_Recognition_ICCV_2021_paper.pdf)) \\
-**Hangjie Yuan**, Dong Ni and Mang Wang.    [![GitHub Stars](https://img.shields.io/github/stars/JacobYuan7/DIN-Group-Activity-Recognition-Benchmark?style=social)](https://github.com/JacobYuan7/DIN-Group-Activity-Recognition-Benchmark) [[知乎]](https://zhuanlan.zhihu.com/p/408883301) [[将门创投]](https://www.techbeat.net/article-info?id=2719) [[video talk]](https://zjueducn-my.sharepoint.com/:v:/g/personal/hj_yuan_zju_edu_cn/ETNLr67L5glAhOibIzbfSEsBuIKsCmYhftrf1pct-WkoWQ?e=LSaAcz)
+**Hangjie Yuan**, Dong Ni and Mang Wang.    
+[![GitHub Stars](https://img.shields.io/github/stars/JacobYuan7/DIN-Group-Activity-Recognition-Benchmark?style=social)](https://github.com/JacobYuan7/DIN-Group-Activity-Recognition-Benchmark) 
+[[知乎]](https://zhuanlan.zhihu.com/p/408883301) 
+[[将门创投]](https://www.techbeat.net/article-info?id=2719) 
+[[video talk]](https://zjueducn-my.sharepoint.com/:v:/g/personal/hj_yuan_zju_edu_cn/ETNLr67L5glAhOibIzbfSEsBuIKsCmYhftrf1pct-WkoWQ?e=LSaAcz)
 
 - DIN proposes to perform spatio-temporal dynamic inference.
 - DIN achieves SOTA results on Volleyball and CAD benchmarks while costing **much less computational overhead** of the reasoning module.
@@ -115,7 +124,8 @@ But we must log in to watch. -->
 <div class='paper-box-text' markdown="1">
 
 [**AAAI 2021**] [Learning Visual Context for Group Activity Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/16437) \\
-**Hangjie Yuan** and Dong Ni. [[video talk]](https://papertalk.org/papertalks/30909)
+**Hangjie Yuan** and Dong Ni. 
+[[video talk]](https://papertalk.org/papertalks/30909)
 
 - This paper proposes to incorporate visual context when recognizing activities. This should work for other related problems as well.
 - This paper achieves SOTA results on Volleyball and CAD benchmarks.
@@ -131,14 +141,14 @@ But we must log in to watch. -->
 <div class='paper-box-text' markdown="1">
 
 [**CVPR 2022**] [Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation](https://openaccess.thecvf.com/content/CVPR2022/html/Feng_Overcoming_Catastrophic_Forgetting_in_Incremental_Object_Detection_via_Elastic_Response_CVPR_2022_paper.html) \\
-Tao Feng, Mang Wang and **Hangjie Yuan**.  [![GitHub Stars](https://img.shields.io/github/stars/Hi-FT/ERD?style=social)](https://github.com/Hi-FT/ERD)
+Tao Feng, Mang Wang and **Hangjie Yuan**.  
+[![GitHub Stars](https://img.shields.io/github/stars/Hi-FT/ERD?style=social)](https://github.com/Hi-FT/ERD)
 
 - This paper proposes a response-only distillation method for Incremental Object Detection, dubbed Elastic Response Distillation.
 - This paper achieves SOTA results on COCO benchmarks while utilizing much fewer responses for distillation.
 </div>
 </div>
 
-<!-- - [**CVPR 2022**] [Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation](https://openaccess.thecvf.com/content/CVPR2022/html/Feng_Overcoming_Catastrophic_Forgetting_in_Incremental_Object_Detection_via_Elastic_Response_CVPR_2022_paper.html), Tao Feng, Mang Wang and **Hangjie Yuan**  [[code]](https://github.com/Hi-FT/ERD) -->
 
 - [**arXiv**] [Refined Response Distillation for Class-Incremental Player Detection](https://arxiv.org/abs/2305.00620), Liang Bai, **Hangjie Yuan**, Tao Feng, Hong Song, Jian Yang.
 - [**arXiv**] [Progressive Learning without Forgetting](https://arxiv.org/abs/2211.15215), Tao Feng, **Hangjie Yuan**, Mang Wang, Ziyuan Huang, Ang Bian, Jianzhou Zhang.
