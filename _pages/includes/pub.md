@@ -61,7 +61,9 @@ Xiang Wang\*, **Hangjie Yuan**\*, Shiwei Zhang\*, Dayou Chen\*, Jiuniu Wang, Yin
 [**Technical report**] [ModelScope Text-to-Video Technical Report](https://arxiv.org/abs/2308.06571) \\
 Jiuniu Wang\*, **Hangjie Yuan**\*, Dayou Chen\*, Yingya Zhang\*, Xiang Wang, Shiwei Zhang.   \\
 [<span style="color:red"><strong>[Diffusers]</strong></span>](https://huggingface.co/docs/diffusers/api/pipelines/text_to_video)
-[[Project page]](https://modelscope.cn/models/damo/text-to-video-synthesis/summary)
+[![Star](https://img.shields.io/github/stars/huggingface/diffusers.svg?style=social&label=Star)](https://github.com/huggingface/diffusers)
+[[ModelScope]](https://modelscope.cn/models/damo/text-to-video-synthesis/summary)
+[![Star](https://img.shields.io/github/stars/modelscope/modelscope.svg?style=social&label=Star)](https://github.com/modelscope/modelscope)
 
 - ModelScopeT2V is the **first** publicly-available diffusion-based text-to-video model at scale, which has been used by **millions of people**.
 - ModelScopeT2V is selected for inclusion in [Diffusers](https://huggingface.co/docs/diffusers/api/pipelines/text_to_video).
