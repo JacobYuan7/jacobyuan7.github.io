@@ -9,6 +9,7 @@ Moreover, I am fortunate to be supervised by Prof. [Samuel Albanie](https://samu
 As part of Alibaba's Research Intern Program, I am/was supervised by [Deli Zhao](https://zhaodeli.github.io/), [Shiwei Zhang](https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ&hl=en&oi=ao), [Jianwen Jiang](https://scholar.google.com/citations?user=37gvStUAAAAJ&hl=en) and [Mang Wang](https://scholar.google.com/citations?user=igKgaDwAAAAJ&hl=en&oi=sra). 
 They are brilliant!
 
+<!-- During my PhD, I was fortunate to work closely with xxx from academia and xxxx from the industry.-->
 
 <!-- As part of the [China Scholarship Council](https://www.csc.edu.cn/chuguo)'s Visiting Program, I am fortunate to be supervised by Prof. [Samuel Albanie](https://samuelalbanie.com/) (University of Cambridge). -->
 <!-- Besides, I am fortunate to be supervised by Prof. [Samuel Albanie](https://samuelalbanie.com/) (University of Cambridge), [Shiwei Zhang](https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ&hl=en&oi=ao) (Alibaba DAMO Academy) and [Jianwen Jiang](https://scholar.google.com/citations?user=uDAkC1kAAAAJ&hl=zh-CN&oi=ao) (Tsinghua University) -->
