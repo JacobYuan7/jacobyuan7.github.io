@@ -9,9 +9,6 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
   # - title: "Educations"
   #   url: "/#-educations"
 
@@ -20,3 +17,12 @@ main:
 
   - title: "Internships"
     url: "/#-internships"
+
+  - title: "Academic Service"
+    url: "/#-academic-service"
+
+  - title: "Miscellaneous"
+    url: "/#-miscellaneous"
+
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
