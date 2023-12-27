@@ -41,6 +41,22 @@ Shiwei Zhang\*, Jiayu Wang\*, Yingya Zhang\*, Kang Zhao, **Hangjie Yuan**, Zhiwu
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/TF-T2V_overview.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**arXiv**] [A Recipe for Scaling up Text-to-Video Generation with Text-free Videos](https://arxiv.org/abs/2312.15770) \\
+Xiang Wang, Shiwei Zhang, **Hangjie Yuan**, Zhiwu Qing, Biao Gong, Yingya Zhang, Yujun Shen, Changxin Gao, Nong Sang.  \\
+[![GitHub Stars](https://img.shields.io/github/stars/damo-vilab/i2vgen-xl?style=social)](https://github.com/damo-vilab/i2vgen-xl)
+[![GitHub Forks](https://img.shields.io/github/forks/damo-vilab/i2vgen-xl?style=social)](https://github.com/damo-vilab/i2vgen-xl)
+[[Project page]](https://tf-t2v.github.io/)
+
+- TF-T2V proposes to separate the process of text decoding from that of temporal modeling during pre-training.
+- TF-T2V is proven effective for both text-to-video generation and compositional video synthesis.
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/DreamVideo_overview.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
