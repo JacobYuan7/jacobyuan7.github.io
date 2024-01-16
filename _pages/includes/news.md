@@ -11,7 +11,7 @@
 
 - *2023-08* : 📑 [RLIPv2](https://arxiv.org/abs/2308.09351) is accepted to **ICCV 2023**. Code and models are publicly available [here](https://github.com/JacobYuan7/RLIPv2)!
 
-- *2023-08* : We release [ModelscopeT2V](https://arxiv.org/abs/2308.06571) (the default T2V in [Diffusers](https://huggingface.co/docs/diffusers/api/pipelines/text_to_video).)  and [VideoComposer](https://arxiv.org/abs/2306.02018), two foundations for video generation.
+- *2023-08* : We release [ModelscopeT2V](https://arxiv.org/abs/2308.06571) (the default T2V in [Diffusers](https://huggingface.co/docs/diffusers/api/pipelines/text_to_video))  and [VideoComposer](https://arxiv.org/abs/2306.02018), two foundations for video generation.
 
 - *2022-09* : 📑 [RLIP: Relational Language-Image Pre-training](https://arxiv.org/abs/2209.01814) (for Human-Object Interaction Detection) is accepted to **NeurIPS 2022** as a <span style="color:red"><strong>Spotlight</strong></span> paper (Top 5%). It's my honor to work with [Prof. Albanie](https://samuelalbanie.com/) and [Jianwen](https://scholar.google.com/citations?user=uDAkC1kAAAAJ&hl=zh-CN&oi=ao). Btw, the pronunciation of **RLIP** is /'ɑ:lɪp/. 
 
