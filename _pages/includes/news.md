@@ -3,7 +3,7 @@
 
 <!-- - *2022-12* : 📑 [Progressive Learning without Forgetting](https://arxiv.org/abs/2211.15215) is online on arXiv. This is a strong extension of [LwF](https://arxiv.org/abs/1606.09282). Enjoy reading it! -->
 
-- *2024-01* : 📑 [LUM-ViT](https://openreview.net/forum?id=wkbeqr5XhC) is accepted to **ICLR 2024**.
+- *2024-01* : 📑 [LUM-ViT](https://openreview.net/forum?id=wkbeqr5XhC) is accepted to **ICLR 2024**. Congrats to Lingfeng Liu!
 
 - *2023-09* : 📑 [VideoComposer](https://arxiv.org/abs/2306.02018) is accepted to **NeurIPS 2023**.  Thrilled to collaborate with them on this project.
 
