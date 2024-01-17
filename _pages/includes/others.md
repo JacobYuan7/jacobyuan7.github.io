@@ -10,7 +10,8 @@
     - ICCV 2023  
     - AAAI 2023-2024  
 
-  - *Journals*:    
+  - *Journals*:
+    - IEEE Transactions on Pattern Analysis and Machine Intelligence     
     - IEEE Transactions on Multimedia
     - IEEE Transactions on Circuits and Systems for Video Technology
     - Knowledge-Based Systems
