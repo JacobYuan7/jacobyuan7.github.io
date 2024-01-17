@@ -210,9 +210,11 @@ Tao Feng, Mang Wang and **Hangjie Yuan**.  \\
 - [**arXiv**] [Progressive Learning without Forgetting](https://arxiv.org/abs/2211.15215), Tao Feng, **Hangjie Yuan**, Mang Wang, Ziyuan Huang, Ang Bian, Jianzhou Zhang.
 
 
+## AI for Science and Engineering
+- [**ICLR 2024**] [LUM-ViT: Learnable Under-sampling Mask Vision Transformer for Bandwidth Limited Optical Signal Acquisition](https://openreview.net/forum?id=wkbeqr5XhC), Lingfeng Liu, Dong Ni, **Hangjie Yuan**. [[code (coming soon)]]()
+
 
 ## Other Interesting Topics
-- [**ICLR 2024**] [LUM-ViT: Learnable Under-sampling Mask Vision Transformer for Bandwidth Limited Optical Signal Acquisition](https://openreview.net/forum?id=wkbeqr5XhC), Lingfeng Liu, Dong Ni, **Hangjie Yuan**. [[code (coming soon)]]()
 - [**WACV 2024**] [From Denoising Training to Test-Time Adaptation: Enhancing Domain Generalization for Medical Image Segmentation](https://arxiv.org/abs/2310.20271), Ruxue Wen, **Hangjie Yuan**, Dong Ni, Wenbo Xiao, Yaoyao Wu. [[code]](https://github.com/WenRuxue/DeTTA)
 
 
