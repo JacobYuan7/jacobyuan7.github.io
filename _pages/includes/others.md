@@ -7,7 +7,8 @@
     - ICLR 2024
     - NeurIPS 2023   
     - CVPR 2022-2024  
-    - ICCV 2023  
+    - ICCV 2023
+    - ECCV 2024
     - AAAI 2023-2024  
 
   - *Journals*:
