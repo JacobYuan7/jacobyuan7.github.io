@@ -23,7 +23,7 @@
 
 - *2021-07* : 📑 [Spatio-Temporal Dynamic Inference Network](https://openaccess.thecvf.com/content/ICCV2021/html/Yuan_Spatio-Temporal_Dynamic_Inference_Network_for_Group_Activity_Recognition_ICCV_2021_paper.html) is accepted to **ICCV 2021**.
 
-- *2021-03* : 👷 I start my internship at **DAMO Academy**, Alibaba Group.
+- *2021-03* : 👷 I start my internship at Alibaba **DAMO Academy**.
 
 - *2020-12* : 📑 [Learning Visual Context](https://ojs.aaai.org/index.php/AAAI/article/view/16437) (for Group Activity recognition) is accepted to **AAAI 2021**.
 
