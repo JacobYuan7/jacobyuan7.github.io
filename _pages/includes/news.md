@@ -13,15 +13,15 @@
 
 - *2023-08* : We release [ModelscopeT2V](https://arxiv.org/abs/2308.06571) (the default T2V in [Diffusers](https://huggingface.co/docs/diffusers/api/pipelines/text_to_video))  and [VideoComposer](https://arxiv.org/abs/2306.02018), two foundations for video generation.
 
-- *2022-09* : 📑 [RLIP: Relational Language-Image Pre-training](https://arxiv.org/abs/2209.01814) (for Human-Object Interaction Detection) is accepted to **NeurIPS 2022** as a <span style="color:red"><strong>Spotlight</strong></span> paper (Top 5%). It's my honor to work with [Samuel](https://samuelalbanie.com/) and [Jianwen](https://scholar.google.com/citations?user=uDAkC1kAAAAJ&hl=zh-CN&oi=ao). Btw, the pronunciation of **RLIP** is /'ɑ:lɪp/. 
+- *2022-09* : 📑 [RLIP: Relational Language-Image Pre-training](https://arxiv.org/abs/2209.01814) is accepted to **NeurIPS 2022** as a <span style="color:red"><strong>Spotlight</strong></span> paper (Top 5%). It's my honor to work with [Samuel](https://samuelalbanie.com/) and [Jianwen](https://scholar.google.com/citations?user=uDAkC1kAAAAJ&hl=zh-CN&oi=ao). Btw, the pronunciation of **RLIP** is /'ɑ:lɪp/. 
 
-- *2022-05* : 📑 [Elastic Response Distillation](https://openaccess.thecvf.com/content/CVPR2022/html/Feng_Overcoming_Catastrophic_Forgetting_in_Incremental_Object_Detection_via_Elastic_Response_CVPR_2022_paper.html) (for Incremental Object Detection) is accepted to **CVPR 2022**. A great pleasure to work with Tao Feng and [Mang Wang](https://scholar.google.com/citations?user=igKgaDwAAAAJ&hl=en&oi=sra).
+- *2022-05* : 📑 [Elastic Response Distillation](https://openaccess.thecvf.com/content/CVPR2022/html/Feng_Overcoming_Catastrophic_Forgetting_in_Incremental_Object_Detection_via_Elastic_Response_CVPR_2022_paper.html) is accepted to **CVPR 2022**. A great pleasure to work with Tao Feng and Mang Wang.
 
 - *2022-02* : 👑 I am awarded <span style="color:red"><strong>AAAI-22 Scholarship</strong></span>. Acknowledgement to AAAI!
 
-- *2021-12* : 📑 [ Object-guided Cross-modal Calibration Network](https://ojs.aaai.org/index.php/AAAI/article/view/20229) (for Human-Object Interaction Detection) is accepted to **AAAI 2022**. A great pleasure to work with [Mang Wang](https://scholar.google.com/citations?user=igKgaDwAAAAJ&hl=en&oi=sra).
+- *2021-12* : 📑 [ Object-guided Cross-modal Calibration Network](https://ojs.aaai.org/index.php/AAAI/article/view/20229) is accepted to **AAAI 2022**. A great pleasure to work with Mang Wang.
 
-- *2021-07* : 📑 [Spatio-Temporal Dynamic Inference Network](https://openaccess.thecvf.com/content/ICCV2021/html/Yuan_Spatio-Temporal_Dynamic_Inference_Network_for_Group_Activity_Recognition_ICCV_2021_paper.html) (for Group Activity recognition) is accepted to **ICCV 2021**.
+- *2021-07* : 📑 [Spatio-Temporal Dynamic Inference Network](https://openaccess.thecvf.com/content/ICCV2021/html/Yuan_Spatio-Temporal_Dynamic_Inference_Network_for_Group_Activity_Recognition_ICCV_2021_paper.html) is accepted to **ICCV 2021**.
 
 - *2021-03* : 👷 I start my internship at **DAMO Academy**, Alibaba Group.
 
