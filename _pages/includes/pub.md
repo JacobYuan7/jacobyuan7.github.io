@@ -125,7 +125,7 @@ Jiuniu Wang\*, **Hangjie Yuan**\*, Dayou Chen\*, Yingya Zhang\*, Xiang Wang, Shi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022 Spotlight</div><img src='images/RLIP_overview.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**NeurIPS 2022** <span style="color:red"><strong> Spotlight </strong></span>] [RLIP: Relational Language-Image Pre-training for Human-Object Interaction Detection](https://arxiv.org/abs/2209.01814) \\
+[**NeurIPS 2022** <span style="color:red"><strong> Spotlight</strong></span>] [RLIP: Relational Language-Image Pre-training for Human-Object Interaction Detection](https://arxiv.org/abs/2209.01814) \\
 **Hangjie Yuan**, Jianwen Jiang, Samuel Albanie, Tao Feng, Ziyuan Huang, Dong Ni and Mingqian Tang.    \\
 [![GitHub Stars](https://img.shields.io/github/stars/JacobYuan7/RLIP?style=social)](https://github.com/JacobYuan7/RLIP) 
 [![GitHub Forks](https://img.shields.io/github/forks/JacobYuan7/RLIP?style=social)](https://github.com/JacobYuan7/RLIP) 
