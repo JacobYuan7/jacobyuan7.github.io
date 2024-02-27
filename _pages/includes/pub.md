@@ -8,10 +8,10 @@ A full publication list is available on my [google scholar](https://scholar.goog
 
 
 ## Video Generation
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/InstructVideo_overview.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/InstructVideo_overview.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**arXiv**] [InstructVideo: Instructing Video Diffusion Models with Human Feedback](https://arxiv.org/abs/2312.12490) \\
+[**CVPR 2024**] [InstructVideo: Instructing Video Diffusion Models with Human Feedback](https://arxiv.org/abs/2312.12490) \\
 **Hangjie Yuan**, Shiwei Zhang, Xiang Wang, Yujie Wei, Tao Feng, Yining Pan, Yingya Zhang, Ziwei Liu, Samuel Albanie, Dong Ni.  \\
 [![GitHub Stars](https://img.shields.io/github/stars/damo-vilab/i2vgen-xl?style=social)](https://github.com/damo-vilab/i2vgen-xl)
 [![GitHub Forks](https://img.shields.io/github/forks/damo-vilab/i2vgen-xl?style=social)](https://github.com/damo-vilab/i2vgen-xl)
@@ -41,10 +41,10 @@ Shiwei Zhang\*, Jiayu Wang\*, Yingya Zhang\*, Kang Zhao, **Hangjie Yuan**, Zhiwu
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/TF-T2V_overview.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/TF-T2V_overview.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**arXiv**] [A Recipe for Scaling up Text-to-Video Generation with Text-free Videos](https://arxiv.org/abs/2312.15770) \\
+[**CVPR 2024**] [A Recipe for Scaling up Text-to-Video Generation with Text-free Videos](https://arxiv.org/abs/2312.15770) \\
 Xiang Wang, Shiwei Zhang, **Hangjie Yuan**, Zhiwu Qing, Biao Gong, Yingya Zhang, Yujun Shen, Changxin Gao, Nong Sang.  \\
 [![GitHub Stars](https://img.shields.io/github/stars/damo-vilab/i2vgen-xl?style=social)](https://github.com/damo-vilab/i2vgen-xl)
 [![GitHub Forks](https://img.shields.io/github/forks/damo-vilab/i2vgen-xl?style=social)](https://github.com/damo-vilab/i2vgen-xl)
@@ -57,10 +57,10 @@ Xiang Wang, Shiwei Zhang, **Hangjie Yuan**, Zhiwu Qing, Biao Gong, Yingya Zhang,
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/DreamVideo_overview.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/DreamVideo_overview.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**arXiv**] [DreamVideo: Composing Your Dream Videos with Customized Subject and Motion](https://arxiv.org/abs/2312.04433) \\
+[**CVPR 2024**] [DreamVideo: Composing Your Dream Videos with Customized Subject and Motion](https://arxiv.org/abs/2312.04433) \\
 Yujie Wei, Shiwei Zhang, Zhiwu Qing, **Hangjie Yuan**, Zhiheng Liu, Yu Liu, Yingya Zhang, Jingren Zhou, Hongming Shan.\\
 [![GitHub Stars](https://img.shields.io/github/stars/damo-vilab/i2vgen-xl?style=social)](https://github.com/damo-vilab/i2vgen-xl)
 [![GitHub Forks](https://img.shields.io/github/forks/damo-vilab/i2vgen-xl?style=social)](https://github.com/damo-vilab/i2vgen-xl)
