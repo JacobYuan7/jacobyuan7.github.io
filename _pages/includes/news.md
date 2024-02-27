@@ -5,6 +5,8 @@
 
 <!-- - *2023-06* : 📑 [VideoComposer](https://arxiv.org/abs/2306.02018), [Progressive Learning without Forgetting](https://arxiv.org/abs/2211.15215) and [Refined Response Distillation](https://arxiv.org/abs/2305.00620) are online on arXiv. Enjoy reading them! -->
 
+- *2024-02* : 📑 [InstructVideo](https://arxiv.org/abs/2312.12490), [DreamVideo](https://arxiv.org/abs/2312.04433) and [TF-T2V](https://arxiv.org/abs/2312.15770) is accepted to **CVPR 2024**. Thrilled to collaborate with them on these promising projects.
+
 - *2024-01* : 👑 I am honored to receive the **Outstanding Research Intern** Award (20 in 1000+ candidates) for my contribution in video generation to Alibaba.
 
 - *2024-01* : 📑 [LUM-ViT](https://openreview.net/forum?id=wkbeqr5XhC) is accepted to **ICLR 2024**. Congrats to Lingfeng Liu!
