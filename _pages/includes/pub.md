@@ -211,7 +211,7 @@ Tao Feng, Mang Wang and **Hangjie Yuan**.  \\
 
 
 ## AI for Science and Engineering
-- [**ICLR 2024**] [LUM-ViT: Learnable Under-sampling Mask Vision Transformer for Bandwidth Limited Optical Signal Acquisition](https://openreview.net/forum?id=wkbeqr5XhC), Lingfeng Liu, Dong Ni, **Hangjie Yuan**. [[code (coming soon)]]()
+- [**ICLR 2024**] [LUM-ViT: Learnable Under-sampling Mask Vision Transformer for Bandwidth Limited Optical Signal Acquisition](https://openreview.net/forum?id=wkbeqr5XhC), Lingfeng Liu, Dong Ni, **Hangjie Yuan**. [[code]](https://github.com/MaxLLF/LUM-ViT)
 
 
 ## Other Interesting Topics
