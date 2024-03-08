@@ -1,10 +1,10 @@
 # 🎖 Honors and Awards
 Below, I list some of my important Honors and Awards that inspire me a lot.
 
-- *2024-01* Outstanding Research Intern in Alibaba Group (Top 20 in 1000+ candidates)
-- *2024-01* Outstanding Graduate of Zhejiang University
+- *2024-01* **Outstanding Research Intern in Alibaba Group (Top 20 in 1000+ candidates)**
+- *2024-01* Outstanding Graduates of Zhejiang University
 - *2023-09* International Travel Grant for Graduate Students
-- *2022-02* AAAI-22 Scholarship
+- *2022-02* **AAAI-22 Scholarship**
 - *2021-10* Runner-up in ICCV 2021 Masked Face Recognition Challenge (Webface260M track) [[ICCV report]](https://openaccess.thecvf.com/content/ICCV2021W/MFR/html/Feng_Towards_Mask-Robust_Face_Recognition_ICCVW_2021_paper.html)
 - *2020-12* Social Practice Scholarship of Zhejiang University
 - *2019-05* Outstanding Graduates of Zhejiang Province
@@ -12,9 +12,9 @@ Below, I list some of my important Honors and Awards that inspire me a lot.
 - *2016~2018* The First Prize Scholarship for three consecutive years (Top 3%)
 - *2018-05* Honorable Mention in Mathematical Contest in Modeling
 - *2017-11* Second Prize in National Mathematical Modeling Contest (Top 5%)
-- *2017-01* Frist Prize in Physics Competition for College Students in Zhejiang (Top 5%)
-- *2016-11* National Scholarship (Top 1% among all undergraduates)
-- *2016-05* Special Prize, National English Competition for College Students (Top 0.1%)
+- *2017-01* **Frist Prize in Physics Competition for College Students in Zhejiang (Top 5%)**
+- *2016-11* **National Scholarship (Top 1% among all undergraduates)**
+- *2016-05* **Special Prize, National English Competition for College Students (Top 0.1%)**
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Tencent Scholarship (Top 1%)
