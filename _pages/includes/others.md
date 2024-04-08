@@ -1,5 +1,6 @@
 # 💻 Internships
 - *2021.03 - Present*, [DAMO Academy](https://damo.alibaba.com/), Alibaba Group, Hangzhou.
+  - Advisor: Deli Zhao
 
 # 🎓 Academic Service
 - **Reviewing**  
