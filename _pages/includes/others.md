@@ -27,7 +27,7 @@ While conducting research, I prioritize humanity above all else. Therefore, the 
 
 **Characteristics**:
 I am friendly from a personal perspective (this is not biased!).
-Although I major in Computer Science Engineering, I am quite emotionally sensitive, often grasping other people's sense of feelings faster than most people.
+Although I major in Computer Science Engineering, I am quite emotionally sensitive, often grasping other people's sense of feelings faster than most people. (Some people may say this is a gift. Well, I'll take it!)
 However, I am not emotionally vulnerable.
 
 **English Proficiency**: 
