@@ -9,6 +9,8 @@ Moreover, I am fortunate to be supervised by Prof. [Samuel Albanie](https://samu
 As part of Alibaba's Research Intern Program, I am/was supervised by [Deli Zhao](https://zhaodeli.github.io/), [Shiwei Zhang](https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ&hl=en&oi=ao), [Jianwen Jiang](https://scholar.google.com/citations?user=37gvStUAAAAJ&hl=en) and [Mang Wang](https://scholar.google.com/citations?user=igKgaDwAAAAJ&hl=en&oi=sra). 
 They are brilliant!
 
+My representative projects include [InstructVideo](https://arxiv.org/abs/2312.12490), [VideoComposer](https://arxiv.org/abs/2306.02018), and the RLIP series ([RLIP](https://arxiv.org/abs/2209.01814) & [RLIPv2](https://arxiv.org/abs/2308.09351)).
+
 <!-- During my PhD, I was fortunate to work closely with xxx from academia and xxxx from the industry.-->
 
 <!-- As part of the [China Scholarship Council](https://www.csc.edu.cn/chuguo)'s Visiting Program, I am fortunate to be supervised by Prof. [Samuel Albanie](https://samuelalbanie.com/) (University of Cambridge). -->
@@ -27,7 +29,9 @@ My current research interests include:
 <!--4️⃣ Continual Learning.-->
 <!-- My research interests include the intersection of Natural Language and Computer Vision, Relation Detection and Group Activity Recognition (in videos). Previously, I work on Group Activity Recognition (in videos). -->
 
-Any form of collaboration is welcomed. I indeed have some new ideas, but I do not have sufficient time to prove them all. Drop me an email 📧!
+Feel free to drop me an email📧 if you are interested in having a chat or collaborating with me.
+
+<!-- Any form of collaboration is welcomed. I indeed have some new ideas, but I do not have sufficient time to prove them all. Drop me an email 📧!-->
 
 <span style="color:red"><strong> I am currently seeking job opportunities and anticipate graduating in 2024. I am exploring options in both academia, such as postdoctoral positions, and industry, focusing on research-oriented roles. I would be delighted to discuss any job openings or research projects. Please don't hesitate to contact me at hj.yuan@zju.edu.cn. </strong></span>
 
