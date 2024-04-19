@@ -22,12 +22,13 @@
 
 # 💬 Miscellaneous
 
-**Goal of My Research**: 
+**Goal of My Research**:
 While conducting research, I prioritize humanity above all else. Therefore, the ultimate goal of my research is to prioritize human well-being.
 
 **Characteristics**:
 I am friendly from a personal perspective (this is not biased!).
 Although I major in Computer Science Engineering, I am quite emotionally sensitive, often grasping other people's sense of feelings faster than most people.
+However, I am not emotionally vulnerable.
 
 **English Proficiency**: 
 I once dabbled with the TOEFL and snagged a score of 107. Not to brag, but I also clinched the Special Prize (top 0.1%) in the National English Competition for College Students. English reading and writing? Totally my jam, although there's much room for improvement. Flashback to high school: I entertained the idea of moonlighting as a translator. Fast forward to now: English has morphed into more of a hobby as I dive deep into the world of AI research. While I'm cerntainly no linguistic prodigy, there's a certain joy I find in crafting sentences in English, especially when penning down my research papers. But then GPT-4 came along and made my hobby feel, well, a tad redundant. 😅 Why? Because this section is also polished by GPT-4.
