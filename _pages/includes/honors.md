@@ -1,5 +1,5 @@
 # 🎖 Honors and Awards
-Below, I list some of my Honors and Awards that inspire me a lot.
+Below, I exhasutively list some of my Honors and Awards that inspire me a lot.
 
 - ***2024-01* &nbsp;&nbsp; Outstanding Research Intern in Alibaba Group (Top 20 in 1000+ candidates)**
 - *2024-01* &nbsp;&nbsp; Outstanding Graduates of Zhejiang University
