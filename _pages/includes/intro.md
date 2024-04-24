@@ -19,9 +19,12 @@ My representative projects include [InstructVideo](https://arxiv.org/abs/2312.12
 
 My current research interests include:
 - 1️⃣ Video Synthesis/Understanding,
-- 2️⃣ Human-Object Interaction Detection/Scene Graph Generation,
+- 2️⃣ Human-Object Interaction Detection/Scene Graph Generation, and
+- 3️⃣ AI for Science and Engineering.
+
+<!--
 - 3️⃣ Language-Vision Foundation Models and their Applications, and
-- 4️⃣ AI for Science and Engineering.
+- 4️⃣ AI for Science and Engineering.-->
 
 
 <!--[Shiwei Zhang](https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ&hl=en&oi=ao) (Alibaba DAMO Academy), [Jianwen Jiang](https://scholar.google.com/citations?user=37gvStUAAAAJ&hl=en) (Tsinghua University) and [Mang Wang](https://scholar.google.com/citations?user=igKgaDwAAAAJ&hl=en&oi=sra) (ByteDance Inc.)-->
