@@ -212,7 +212,9 @@ Tao Feng, Mang Wang and **Hangjie Yuan**.  \\
 
 
 ## AI for Science and Engineering
-- [**ICLR 2024**] [LUM-ViT: Learnable Under-sampling Mask Vision Transformer for Bandwidth Limited Optical Signal Acquisition](https://openreview.net/forum?id=wkbeqr5XhC), Lingfeng Liu, Dong Ni, **Hangjie Yuan**. [[code]](https://github.com/MaxLLF/LUM-ViT)
+- [**ICML 2024**] [PAPM: A Physics-aware Proxy Model for Process Systems](), Pengwei Liu, Zhongkai Hao, Xingyu Ren, **Hangjie Yuan**, Jiayang Ren, Dong Ni. [[code]]()
+
+- [**ICLR 2024**] [LUM-ViT: Learnable Under-sampling Mask Vision Transformer for Bandwidth Limited Optical Signal Acquisition](https://arxiv.org/abs/2403.01412), Lingfeng Liu, Dong Ni, **Hangjie Yuan**. [[code]](https://github.com/MaxLLF/LUM-ViT)
 
 
 ## Other Interesting Topics
