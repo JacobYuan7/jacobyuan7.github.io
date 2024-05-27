@@ -1,5 +1,5 @@
 # 💻 Internships
-- *2021.03 - Present*, [DAMO Academy](https://damo.alibaba.com/), Alibaba Group, Hangzhou.
+- *2021.03 - Present*, [DAMO Academy](https://damo.alibaba.com/), Alibaba Group.
   - Advisor: [Deli Zhao](https://zhaodeli.github.io/), [Shiwei Zhang](https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ&hl=en&oi=ao), [Jianwen Jiang](https://scholar.google.com/citations?user=37gvStUAAAAJ&hl=en) and [Mang Wang](https://scholar.google.com/citations?user=igKgaDwAAAAJ&hl=en&oi=sra)
 
 # 🎓 Academic Service
@@ -7,7 +7,7 @@
   - *Conferences*: 
     - ICLR 2024
     - SIGGRAPH 2024
-    - NeurIPS 2023   
+    - NeurIPS 2023-2024  
     - CVPR 2022-2024  
     - ICCV 2023
     - ECCV 2024
