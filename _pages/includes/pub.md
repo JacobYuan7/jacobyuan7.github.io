@@ -207,8 +207,9 @@ Tao Feng, Mang Wang and **Hangjie Yuan**.  \\
 
 - [**IJCAI 2024**] [Revisiting Neural Networks for Continual Learning: An Architectural Perspective](https://arxiv.org/abs/2404.14829), Aojun Lu, Tao Feng, **Hangjie Yuan**, Xiaotian Song, Yanan Sun. [![GitHub Stars](https://img.shields.io/github/stars/byyx666/ArchCraft?style=social)](https://github.com/byyx666/ArchCraft)[![GitHub Forks](https://img.shields.io/github/forks/byyx666/ArchCraft?style=social)](https://github.com/byyx666/ArchCraft)
 
-- [**arXiv**] [Refined Response Distillation for Class-Incremental Player Detection](https://arxiv.org/abs/2305.00620), Liang Bai, **Hangjie Yuan**, Tao Feng, Hong Song, Jian Yang.
 - [**arXiv**] [Progressive Learning without Forgetting](https://arxiv.org/abs/2211.15215), Tao Feng, **Hangjie Yuan**, Mang Wang, Ziyuan Huang, Ang Bian, Jianzhou Zhang.
+
+<!-- - [**arXiv**] [Refined Response Distillation for Class-Incremental Player Detection](https://arxiv.org/abs/2305.00620), Liang Bai, **Hangjie Yuan**, Tao Feng, Hong Song, Jian Yang. -->
 
 
 ## AI for Science and Engineering
