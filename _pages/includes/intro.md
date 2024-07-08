@@ -2,6 +2,12 @@
 
 😃 Welcome to my personal page!
 
+<!--
+I joined Alibaba DAMO Academy via the Alibaba Star ('阿里星') program, working on cutting-edge problems in foundation models.
+I obtained my PhD from Zhejiang University, under the supervision of Prof. [Dong Ni](https://person.zju.edu.cn/en/nidong), Prof. [Samuel Albanie](https://samuelalbanie.com/) (University of Cambridge), [Deli Zhao](https://zhaodeli.github.io/) (Alibaba DAMO) and [Shiwei Zhang](https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ&hl=en&oi=ao) (Alibaba DAMO/Tongyi).
+I have undertaken a visiting Ph.D. program at [MMLab@NTU](https://www.mmlab-ntu.com/), supervised by Prof. [Ziwei Liu](https://liuziwei7.github.io/).
+-->
+
 I am Hangjie Yuan (**袁杭杰** in Chinese), currently pursuing my Ph.D. at Zhejiang University and serving as a long-term research intern at [Alibaba DAMO Academy](https://damo.alibaba.com/). 
 I am fortunate to be supervised by Prof. [Dong Ni](https://person.zju.edu.cn/en/nidong) at ZJU, who is open-minded and wise. 
 Additionally, I am undertaking a visiting Ph.D. program at [MMLab@NTU](https://www.mmlab-ntu.com/), supervised by Prof. [Ziwei Liu](https://liuziwei7.github.io/).
@@ -36,7 +42,9 @@ Feel free to drop me an email📧 if you are interested in having a chat or coll
 
 <!-- Any form of collaboration is welcomed. I indeed have some new ideas, but I do not have sufficient time to prove them all. Drop me an email 📧!-->
 
+<!--
 <span style="color:red"><strong> I am currently seeking job opportunities and anticipate graduating in 2024. I am exploring options in both academia, such as postdoctoral positions, and industry, focusing on research-oriented roles. I would be delighted to discuss any job openings or research projects. Please don't hesitate to contact me at hj.yuan@zju.edu.cn. </strong></span>
+-->
 
 
 
