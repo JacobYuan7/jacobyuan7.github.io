@@ -5,7 +5,7 @@
 
 <!-- - *2023-06* : 📑 [VideoComposer](https://arxiv.org/abs/2306.02018), [Progressive Learning without Forgetting](https://arxiv.org/abs/2211.15215) and [Refined Response Distillation](https://arxiv.org/abs/2305.00620) are online on arXiv. Enjoy reading them! -->
 
-- *2024-05* : 📑 [PAPM]() is accepted to **ICML 2024** and [ArchCraft](https://arxiv.org/abs/2404.14829) is accepted to **IJCAI 2024**. I am happy to see that they are able to publish their work at top-tier conferences.
+- *2024-05* : 📑 [PAPM](https://openreview.net/forum?id=RtCmp5F9lN) is accepted to **ICML 2024** and [ArchCraft](https://arxiv.org/abs/2404.14829) is accepted to **IJCAI 2024**. I am happy to see that they are able to publish their work at top-tier conferences.
 
 - *2024-02* : 📑 [InstructVideo](https://arxiv.org/abs/2312.12490), [DreamVideo](https://arxiv.org/abs/2312.04433) and [TF-T2V](https://arxiv.org/abs/2312.15770) are accepted to **CVPR 2024**. Thrilled to collaborate with them on these promising projects.
 
