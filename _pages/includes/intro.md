@@ -3,7 +3,7 @@
 😃 Welcome to my personal page!
 
 <!--
-I joined Alibaba DAMO Academy via the Alibaba Star ('阿里星') program, working on cutting-edge problems in foundation models.
+I joined Alibaba DAMO Academy as a research scientist via the Alibaba Star ('阿里星') program, working on cutting-edge problems in foundation models.
 I obtained my PhD from Zhejiang University, under the supervision of Prof. [Dong Ni](https://person.zju.edu.cn/en/nidong), Prof. [Samuel Albanie](https://samuelalbanie.com/) (University of Cambridge), [Deli Zhao](https://zhaodeli.github.io/) (Alibaba DAMO) and [Shiwei Zhang](https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ&hl=en&oi=ao) (Alibaba DAMO/Tongyi).
 I have undertaken a visiting Ph.D. program at [MMLab@NTU](https://www.mmlab-ntu.com/), supervised by Prof. [Ziwei Liu](https://liuziwei7.github.io/).
 -->
