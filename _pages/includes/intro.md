@@ -24,9 +24,9 @@ My representative projects include [InstructVideo](https://arxiv.org/abs/2312.12
 <!-- work closely -->
 
 My current research interests include:
-- 1️⃣ Generative models: video synthesis/editing,
-- 2️⃣ Representation learning: video understanding, human-object interaction detection/scene graph generation, and
-- 3️⃣ AI for science and engineering.
+- 1️⃣ Generative Models: video synthesis and editing;
+- 2️⃣ Representation Learning: video understanding, human-object interaction detection/scene graph generation;
+- 3️⃣ AI for Science and Engineering.
 
 <!--
 - 3️⃣ Language-Vision Foundation Models and their Applications, and
