@@ -7,7 +7,8 @@ A full publication list is available on my [google scholar](https://scholar.goog
 
 
 
-- ## Video Generation
+## Video Generation
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/InstructVideo_overview.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -107,7 +108,7 @@ Jiuniu Wang\*, **Hangjie Yuan**\*, Dayou Chen\*, Yingya Zhang\*, Xiang Wang, Shi
 </div>
 
 
-- ## HOI Detection / Scene Graph Generation
+## HOI Detection / Scene Graph Generation
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/RLIPv2_overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -155,7 +156,7 @@ Jiuniu Wang\*, **Hangjie Yuan**\*, Dayou Chen\*, Yingya Zhang\*, Xiang Wang, Shi
 <!-- - OCN achieves SOTA results on HICO-DET and V-COCO benchmarks.-->
 
 
-- ## Video Understanding
+## Video Understanding
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div><img src='images/DIN_overview.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -190,7 +191,7 @@ But we must log in to watch. -->
 - [**arXiv**] [Few-shot Action Recognition with Captioning Foundation Models](https://arxiv.org/abs/2310.10125), Xiang Wang, Shiwei Zhang, **Hangjie Yuan**, Yingya Zhang, Changxin Gao, Deli Zhao, Nong Sang.
 
 
-- ## Incremental / Continual Learning
+## Incremental / Continual Learning
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/ERD_overview.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -212,13 +213,13 @@ Tao Feng, Mang Wang and **Hangjie Yuan**.  \\
 <!-- - [**arXiv**] [Refined Response Distillation for Class-Incremental Player Detection](https://arxiv.org/abs/2305.00620), Liang Bai, **Hangjie Yuan**, Tao Feng, Hong Song, Jian Yang. -->
 
 
-- ## AI for Science and Engineering
+## AI for Science and Engineering
 - [**ICML 2024**] [PAPM: A Physics-aware Proxy Model for Process Systems](https://openreview.net/forum?id=RtCmp5F9lN), Pengwei Liu, Zhongkai Hao, Xingyu Ren, **Hangjie Yuan**, Jiayang Ren, Dong Ni. [[code]](https://github.com/pengwei07/PAPM)
 
 - [**ICLR 2024**] [LUM-ViT: Learnable Under-sampling Mask Vision Transformer for Bandwidth Limited Optical Signal Acquisition](https://arxiv.org/abs/2403.01412), Lingfeng Liu, Dong Ni, **Hangjie Yuan**. [[code]](https://github.com/MaxLLF/LUM-ViT)
 
 
-- ## Other Interesting Topics
+## Other Interesting Topics
 - [**WACV 2024**] [From Denoising Training to Test-Time Adaptation: Enhancing Domain Generalization for Medical Image Segmentation](https://arxiv.org/abs/2310.20271), Ruxue Wen, **Hangjie Yuan**, Dong Ni, Wenbo Xiao, Yaoyao Wu. [[code]](https://github.com/WenRuxue/DeTTA)
 
 
