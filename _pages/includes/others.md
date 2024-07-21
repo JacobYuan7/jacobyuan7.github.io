@@ -1,5 +1,5 @@
 # 💻 Internships
-- *2021.03 - Present*, [DAMO Academy](https://damo.alibaba.com/), Alibaba Group.
+- *2021.03 - Present*, Alibaba DAMO Academy / Alibaba Tongyi Lab.
   - Advisor: [Deli Zhao](https://zhaodeli.github.io/), [Shiwei Zhang](https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ&hl=en&oi=ao), [Jianwen Jiang](https://scholar.google.com/citations?user=37gvStUAAAAJ&hl=en) and [Mang Wang](https://scholar.google.com/citations?user=igKgaDwAAAAJ&hl=en&oi=sra)
 
 # 🎓 Academic Service
