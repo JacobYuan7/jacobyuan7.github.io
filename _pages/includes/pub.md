@@ -191,6 +191,12 @@ But we must log in to watch. -->
 - [**arXiv**] [Few-shot Action Recognition with Captioning Foundation Models](https://arxiv.org/abs/2310.10125), Xiang Wang, Shiwei Zhang, **Hangjie Yuan**, Yingya Zhang, Changxin Gao, Deli Zhao, Nong Sang.
 
 
+## AI for Science and Engineering
+- [**ICML 2024**] [PAPM: A Physics-aware Proxy Model for Process Systems](https://openreview.net/forum?id=RtCmp5F9lN), Pengwei Liu, Zhongkai Hao, Xingyu Ren, **Hangjie Yuan**, Jiayang Ren, Dong Ni. [[code]](https://github.com/pengwei07/PAPM)
+
+- [**ICLR 2024**] [LUM-ViT: Learnable Under-sampling Mask Vision Transformer for Bandwidth Limited Optical Signal Acquisition](https://arxiv.org/abs/2403.01412), Lingfeng Liu, Dong Ni, **Hangjie Yuan**. [[code]](https://github.com/MaxLLF/LUM-ViT)
+
+
 ## Incremental / Continual Learning
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/ERD_overview.PNG' alt="sym" width="100%"></div></div>
@@ -213,10 +219,6 @@ Tao Feng, Mang Wang and **Hangjie Yuan**.  \\
 <!-- - [**arXiv**] [Refined Response Distillation for Class-Incremental Player Detection](https://arxiv.org/abs/2305.00620), Liang Bai, **Hangjie Yuan**, Tao Feng, Hong Song, Jian Yang. -->
 
 
-## AI for Science and Engineering
-- [**ICML 2024**] [PAPM: A Physics-aware Proxy Model for Process Systems](https://openreview.net/forum?id=RtCmp5F9lN), Pengwei Liu, Zhongkai Hao, Xingyu Ren, **Hangjie Yuan**, Jiayang Ren, Dong Ni. [[code]](https://github.com/pengwei07/PAPM)
-
-- [**ICLR 2024**] [LUM-ViT: Learnable Under-sampling Mask Vision Transformer for Bandwidth Limited Optical Signal Acquisition](https://arxiv.org/abs/2403.01412), Lingfeng Liu, Dong Ni, **Hangjie Yuan**. [[code]](https://github.com/MaxLLF/LUM-ViT)
 
 
 ## Other Interesting Topics
