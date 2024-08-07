@@ -197,7 +197,7 @@ But we must log in to watch. -->
 <div class='paper-box-text' markdown="1">
 
 [**ICML 2024**] [PAPM: A Physics-aware Proxy Model for Process Systems](https://arxiv.org/abs/2407.05232) \\
-Pengwei Liu, Zhongkai Hao, Xingyu Ren, **Hangjie Yuan**, Jiayang Ren, Dong Ni.  \\
+Pengwei Liu, Zhongkai Hao, Xingyu Ren, **Hangjie Yuan**, Jiayang Ren, Dong Ni. 
 
 - PAPM is a pioneering work that fully incorporates partial prior physics of process systems to enable better generalization capabilities.
 
