@@ -193,7 +193,7 @@ But we must log in to watch. -->
 
 ## AI for Science and Engineering
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/PAPM_overview.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/PAPM_overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**ICML 2024**] [PAPM: A Physics-aware Proxy Model for Process Systems](https://arxiv.org/abs/2407.05232) \\
