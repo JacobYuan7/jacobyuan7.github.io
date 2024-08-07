@@ -192,6 +192,19 @@ But we must log in to watch. -->
 
 
 ## AI for Science and Engineering
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/PAPM_overview.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**ICML 2024**] [PAPM: A Physics-aware Proxy Model for Process Systems](https://arxiv.org/abs/2407.05232) \\
+Pengwei Liu, Zhongkai Hao, Xingyu Ren, **Hangjie Yuan**, Jiayang Ren, Dong Ni.  \\
+
+- PAPM is a pioneering work that fully incorporates partial prior physics of process systems to enable better generalization capabilities.
+
+</div>
+</div>
+
+
 - [**ICML 2024**] [PAPM: A Physics-aware Proxy Model for Process Systems](https://openreview.net/forum?id=RtCmp5F9lN), Pengwei Liu, Zhongkai Hao, Xingyu Ren, **Hangjie Yuan**, Jiayang Ren, Dong Ni. [[code]](https://github.com/pengwei07/PAPM)
 
 - [**ICLR 2024**] [LUM-ViT: Learnable Under-sampling Mask Vision Transformer for Bandwidth Limited Optical Signal Acquisition](https://arxiv.org/abs/2403.01412), Lingfeng Liu, Dong Ni, **Hangjie Yuan**. [[code]](https://github.com/MaxLLF/LUM-ViT)
