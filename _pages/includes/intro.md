@@ -1,12 +1,18 @@
 <!-- 加点表情包,直接复制图片即可  https://github.com/guodongxiaren/README/blob/master/emoji.md?tdsourcetag=s_pcqq_aiomsg -->
 
-😃 Welcome to my personal page!
+😃 Greetings!
+
+I will join Alibaba DAMO Academy as a research scientist via the Alibaba Star ('阿里星') program, working on cutting-edge problems in foundation models.
+I will also remain a research position at Zhejiang University, working with Prof. [Yi Yang](https://scholar.google.com/citations?hl=en&user=RMSuNFwAAAAJ).
+I obtained my PhD from Zhejiang University in the summer of 2024, under the supervision of Prof. [Dong Ni](https://person.zju.edu.cn/en/nidong), Prof. [Samuel Albanie](https://samuelalbanie.com/) (University of Cambridge), [Deli Zhao](https://zhaodeli.github.io/) (Alibaba DAMO) and [Shiwei Zhang](https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ&hl=en&oi=ao) (Alibaba DAMO/Tongyi).
+I have undertaken a visiting Ph.D. program at [MMLab@NTU](https://www.mmlab-ntu.com/), supervised by Prof. [Ziwei Liu](https://liuziwei7.github.io/).
+<!-- During my PhD, I interned at Alibaba DAMO Academy/Tongyi Lab for more than 3 years. -->
+
+My representative projects include [InstructVideo](https://arxiv.org/abs/2312.12490), [VideoComposer](https://arxiv.org/abs/2306.02018), the RLIP series ([RLIP](https://arxiv.org/abs/2209.01814) & [RLIPv2](https://arxiv.org/abs/2308.09351)) and [ModelScopeT2V](https://arxiv.org/abs/2308.06571).
+
 
 <!--
-I joined Alibaba DAMO Academy as a research scientist via the Alibaba Star ('阿里星') program, working on cutting-edge problems in foundation models.
-I obtained my PhD from Zhejiang University, under the supervision of Prof. [Dong Ni](https://person.zju.edu.cn/en/nidong), Prof. [Samuel Albanie](https://samuelalbanie.com/) (University of Cambridge), [Deli Zhao](https://zhaodeli.github.io/) (Alibaba DAMO) and [Shiwei Zhang](https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ&hl=en&oi=ao) (Alibaba DAMO/Tongyi).
-I have undertaken a visiting Ph.D. program at [MMLab@NTU](https://www.mmlab-ntu.com/), supervised by Prof. [Ziwei Liu](https://liuziwei7.github.io/).
--->
+😃 Welcome to my personal page!
 
 I am Hangjie Yuan (**袁杭杰** in Chinese), currently pursuing my Ph.D. at Zhejiang University and serving as a long-term research intern at [Alibaba DAMO Academy](https://damo.alibaba.com/). 
 I am fortunate to be supervised by Prof. [Dong Ni](https://person.zju.edu.cn/en/nidong) at ZJU, who is open-minded and wise. 
@@ -16,6 +22,7 @@ As part of Alibaba's Research Intern Program, I am/was supervised by [Deli Zhao]
 They are brilliant!
 
 My representative projects include [InstructVideo](https://arxiv.org/abs/2312.12490), [VideoComposer](https://arxiv.org/abs/2306.02018), and the RLIP series ([RLIP](https://arxiv.org/abs/2209.01814) & [RLIPv2](https://arxiv.org/abs/2308.09351)).
+-->
 
 <!-- During my PhD, I was fortunate to work closely with xxx from academia and xxxx from the industry.-->
 
@@ -28,6 +35,8 @@ My current research interests include:
 - 2️⃣ Representation Learning: video understanding, human-object interaction detection/scene graph generation;
 - 3️⃣ AI for Science and Engineering.
 
+Feel free to drop me an email📧 if you are interested in collaborating with me remotely or as a full-time researcher/intern.
+
 <!--
 - 3️⃣ Language-Vision Foundation Models and their Applications, and
 - 4️⃣ AI for Science and Engineering.-->
@@ -38,7 +47,6 @@ My current research interests include:
 <!--4️⃣ Continual Learning.-->
 <!-- My research interests include the intersection of Natural Language and Computer Vision, Relation Detection and Group Activity Recognition (in videos). Previously, I work on Group Activity Recognition (in videos). -->
 
-Feel free to drop me an email📧 if you are interested in having a chat or collaborating with me.
 
 <!-- Any form of collaboration is welcomed. I indeed have some new ideas, but I do not have sufficient time to prove them all. Drop me an email 📧!-->
 
