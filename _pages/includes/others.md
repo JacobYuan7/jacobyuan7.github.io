@@ -40,10 +40,12 @@ I once dabbled with the TOEFL and snagged a score of 107. Not to brag, but I als
 - The following list might be dynamic 😆.
 
   - **Favoriate singer**: Taylor Swift. I officially became a Swiftie after the release of "Safe & Sound".
+ 
+  - **Concerts that I have been to**: Taylor Swift's Eras Tour in London (2024), Coldplay's Music of the Spheres World Tour in Singapore (2024) and One Love Asia Festival in Singapore (2023).
 
   - **Favoriate athlete / football club**: Kylian Mbappé and Tottenham Hotspur F.C. We're on a mission to win a trophy! And yeah, I respect the big guys like Man City, Man United, Chelsea, Arsenal... even if they are the competition.
 
-  - **Favoriate movie / TV Series**: Iron Man I, While You Were Sleeping (i.e., 당신이 잠든 사이에, starring Bae Suzy and Lee Jong-suk), Batman (starring Christian Bale, including Batman Begins, The Dark Knight and The Dark Knight Rises), The Amazing Spider-Man I&II (starring Andrew Garfield and Emma Stone), Harry Potter series (I am a fan of Hermione Granger).
+  - **Favoriate movie / TV Series**: Iron Man I, While You Were Sleeping (i.e., 당신이 잠든 사이에, starring Bae Suzy and Lee Jong-suk), Harry Potter series (I am a fan of Hermione Granger), Batman (starring Christian Bale, including Batman Begins, The Dark Knight and The Dark Knight Rises), The Amazing Spider-Man I&II (starring Andrew Garfield and Emma Stone).
 
 
 <!-- 
