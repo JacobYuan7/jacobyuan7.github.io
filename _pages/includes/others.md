@@ -5,13 +5,13 @@
 # 🎓 Academic Service
 - **Reviewing**  
   - *Conferences*: 
-    - ICLR 2024
+    - ICLR 2024-2025
     - SIGGRAPH 2024
     - NeurIPS 2023-2024  
     - CVPR 2022-2024  
     - ICCV 2023
     - ECCV 2024
-    - AAAI 2023-2024  
+    - AAAI 2023-2025 
 
   - *Journals*:
     - IEEE Transactions on Pattern Analysis and Machine Intelligence     
