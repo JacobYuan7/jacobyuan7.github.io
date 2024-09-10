@@ -41,7 +41,7 @@ I once dabbled with the TOEFL and snagged a score of 107. Not to brag, but I als
 
   - **Favoriate singer**: Taylor Swift. I officially became a Swiftie after the release of "Safe & Sound".
  
-  - **Concerts that I have been to**: Taylor Swift's Eras Tour in London, 2024 (I see Ed Sheeran as well!), Coldplay's Music of the Spheres World Tour in Singapore, 2024 and One Love Asia Festival in Singapore, 2023.
+  - **Concerts that I have been to**: Taylor Swift's Eras Tour in London, 2024 (where I saw Ed Sheeran as well!), Coldplay's Music of the Spheres World Tour in Singapore, 2024 and One Love Asia Festival in Singapore, 2023.
 
   - **Favoriate athlete / football club**: Kylian Mbappé and Tottenham Hotspur F.C. We're on a mission to win a trophy! And yeah, I respect the big guys like Man City, Man United, Chelsea, Arsenal... even if they are the competition.
 
