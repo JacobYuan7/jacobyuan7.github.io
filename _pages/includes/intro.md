@@ -35,7 +35,7 @@ My current research interests include:
 - 2️⃣ Representation Learning: video understanding, human-object interaction detection/scene graph generation;
 - 3️⃣ AI for Science and Engineering.
 
-Feel free to drop me an email📧 if you are interested in collaborating with me remotely or as a full-time researcher/intern.
+📧 Feel free to drop me an email if you are interested in collaborating with me remotely or as a full-time researcher/intern.
 
 <!--
 - 3️⃣ Language-Vision Foundation Models and their Applications, and
