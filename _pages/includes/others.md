@@ -34,8 +34,6 @@ However, I am not emotionally vulnerable.
  
     <!--  An AI researcher, but more precisely, a realistic idealist searching for the purpose of life. -->
 
-- **English proficiency**: 
-I once dabbled with the TOEFL and snagged a score of 107. Not to brag, but I also clinched the Special Prize (top 0.1%) in the National English Competition for College Students. English reading and writing? Totally my jam, although there's much room for improvement. Flashback to high school: I entertained the idea of moonlighting as a translator. Fast forward to now: English has morphed into more of a hobby as I dive deep into the world of AI research. While I'm certainly no linguistic prodigy, there's a certain joy I find in crafting sentences in English, especially when penning down my research papers. But then GPT-4 came along and made my hobby feel, well, a tad redundant. 😅 Why? Because this section is also polished by GPT-4.
 
 - The following list might be dynamic 😆.
 
@@ -46,6 +44,12 @@ I once dabbled with the TOEFL and snagged a score of 107. Not to brag, but I als
   - **Favoriate athlete / football club**: Kylian Mbappé and Tottenham Hotspur F.C. We're on a mission to win a trophy! And yeah, I respect the big guys like Man City, Man United, Chelsea, Arsenal... even if they are the competition.
 
   - **Favoriate movie / TV Series**: *Iron Man I*, *While You Were Sleeping* (i.e., 당신이 잠든 사이에, starring Bae Suzy and Lee Jong-suk), *the Harry Potter series* (I am a fan of Hermione Granger), *Batman* (starring Christian Bale, including Batman Begins, The Dark Knight and The Dark Knight Rises), *The Amazing Spider-Man I&II* (starring Andrew Garfield and Emma Stone).
+
+
+- **English proficiency**: 
+I once dabbled with the TOEFL and snagged a score of 107. Not to brag, but I also clinched the Special Prize (top 0.1%) in the National English Competition for College Students. English reading and writing? Totally my jam, although there's much room for improvement. Flashback to high school: I entertained the idea of moonlighting as a translator. Fast forward to now: English has morphed into more of a hobby as I dive deep into the world of AI research. While I'm certainly no linguistic prodigy, there's a certain joy I find in crafting sentences in English, especially when penning down my research papers. But then GPT-4 came along and made my hobby feel, well, a tad redundant. 😅 Why? Because this section is also polished by GPT-4.
+
+
 
 
 <!-- 
