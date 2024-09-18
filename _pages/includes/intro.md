@@ -35,7 +35,8 @@ My current research interests include:
 - 2️⃣ Representation learning: video understanding, human-object interaction detection/scene graph generation;
 - 3️⃣ AI for science and engineering.
 
-📧 Feel free to drop me an email if you are interested in collaborating with me remotely or as a full-time researcher/intern.
+<span style="color:red"><strong> 📧 Feel free to drop me an email at hj.yuan@zju.edu.cn if you are interested in collaborating with me as a full-time researcher/intern or remotely. </strong></span>
+
 
 <!--
 - 3️⃣ Language-Vision Foundation Models and their Applications, and
