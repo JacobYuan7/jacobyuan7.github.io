@@ -7,7 +7,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 
 
 
-## Visual Generation
+## Visual Generation / Editing
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/InstructVideo_overview.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
