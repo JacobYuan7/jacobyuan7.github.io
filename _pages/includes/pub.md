@@ -226,6 +226,9 @@ Tao Feng, Mang Wang and **Hangjie Yuan**.  \\
 </div>
 </div>
 
+- [**NeurIPS 2024**] [Make Continual Learning Stronger via C-Flat](https://arxiv.org/abs/2404.00986), Ang Bian, Wei Li, **Hangjie Yuan**, Chengrong Yu, Zixiang Zhao, Mang Wang, Aojun Lu, Tao Feng. [code] (to be updated)
+
+
 - [**IJCAI 2024**] [Revisiting Neural Networks for Continual Learning: An Architectural Perspective](https://arxiv.org/abs/2404.14829), Aojun Lu, Tao Feng, **Hangjie Yuan**, Xiaotian Song, Yanan Sun. [![GitHub Stars](https://img.shields.io/github/stars/byyx666/ArchCraft?style=social)](https://github.com/byyx666/ArchCraft)[![GitHub Forks](https://img.shields.io/github/forks/byyx666/ArchCraft?style=social)](https://github.com/byyx666/ArchCraft)
 
 - [**arXiv**] [Progressive Learning without Forgetting](https://arxiv.org/abs/2211.15215), Tao Feng, **Hangjie Yuan**, Mang Wang, Ziyuan Huang, Ang Bian, Jianzhou Zhang.
