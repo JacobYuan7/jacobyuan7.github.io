@@ -18,7 +18,7 @@ Rui Zhao, **Hangjie Yuan**, Yujie Wei, Shiwei Zhang, Yuchao Gu, Lingmin Ran, Xia
 [![GitHub Forks](https://img.shields.io/github/forks/showlab/EvolveDirector?style=social)](https://github.com/showlab/EvolveDirector)
 
 - EvolveDirector leverages large vision-language models (VLMs) to evaluate visual generation results, guiding the evolution of a T2I model by dynamically refining the training dataset through selection and mutation.
-- The trained T2I model, Edgen, powered by EvolveDirector, achieves state-of-the-art performance using only **1%** of the data typically required by other models.
+- The trained T2I model, Edgen, powered by EvolveDirector, achieves SOTA performance using only **1%** of the data typically required by other models.
 
 </div>
 </div>
