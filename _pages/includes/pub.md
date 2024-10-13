@@ -33,8 +33,8 @@ Rui Zhao, **Hangjie Yuan**, Yujie Wei, Shiwei Zhang, Yuchao Gu, Lingmin Ran, Xia
 [![GitHub Forks](https://img.shields.io/github/forks/damo-vilab/i2vgen-xl?style=social)](https://github.com/damo-vilab/i2vgen-xl)
 [[Project page]](https://instructvideo.github.io/)
 
-- InstructVideo is the **first** research attempt that instructs video diffusion models with human feedback.
-- InstructVideo significantly enhances the visual quality of generated videos without compromising generalization capabilities, with merely 0.1% of the parameters being fine-tuned.
+- EvolveDirector leverages large vision-language models (VLMs) to evaluate visual generation results, guiding the evolution of a T2I model by dynamically refining the training dataset through selection and mutation.
+- The trained T2I model, Edgen, powered by EvolveDirector, achieves state-of-the-art performance using only 1% of the data typically required by other models.
 
 </div>
 </div>
