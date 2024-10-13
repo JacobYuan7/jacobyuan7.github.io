@@ -5,7 +5,7 @@
 
 <!-- - *2023-06* : 📑 [VideoComposer](https://arxiv.org/abs/2306.02018), [Progressive Learning without Forgetting](https://arxiv.org/abs/2211.15215) and [Refined Response Distillation](https://arxiv.org/abs/2305.00620) are online on arXiv. Enjoy reading them! -->
 
-- *2024-09* : 📑 [C-Flat](https://arxiv.org/abs/2404.00986) and EvolveDirector are accepted to **NeurIPS 2024**. Congrats to Tao and Rui.
+- *2024-09* : 📑 [EvolveDirector](https://arxiv.org/abs/2410.07133) and [C-Flat](https://arxiv.org/abs/2404.00986) are accepted to **NeurIPS 2024**. Congrats to Rui and Tao.
 
 - *2024-05* : 📑 [PAPM](https://openreview.net/forum?id=RtCmp5F9lN) is accepted to **ICML 2024** and [ArchCraft](https://arxiv.org/abs/2404.14829) is accepted to **IJCAI 2024**. I am happy to see that they are able to publish their work at top-tier conferences.
 
