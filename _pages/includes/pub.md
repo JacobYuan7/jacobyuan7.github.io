@@ -6,8 +6,23 @@ A full publication list is available on my [google scholar](https://scholar.goog
 (* denotes equal contribution.)
 
 
+## Visual Generation Alignment and its Application
 
-## Visual Generation / Editing
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/InstructVideo_overview.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**CVPR 2024**] [EvolveDirector: Approaching Advanced Text-to-Image Generation with Large Vision-Language Models](https://arxiv.org/abs/2410.07133) \\
+Rui Zhao, **Hangjie Yuan**, Yujie Wei, Shiwei Zhang, Yuchao Gu, Lingmin Ran, Xiang Wang, Zhangjie Wu, Junhao Zhang, Yingya Zhang, Mike Zheng Shou.
+\\
+[![GitHub Stars](https://img.shields.io/github/stars/showlab/EvolveDirector?style=social)](https://github.com/showlab/EvolveDirector)
+[![GitHub Forks](https://img.shields.io/github/forks/showlab/EvolveDirector?style=social)](https://github.com/showlab/EvolveDirector)
+
+- InstructVideo is the **first** research attempt that instructs video diffusion models with human feedback.
+- InstructVideo significantly enhances the visual quality of generated videos without compromising generalization capabilities, with merely 0.1% of the parameters being fine-tuned.
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/InstructVideo_overview.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -24,6 +39,8 @@ A full publication list is available on my [google scholar](https://scholar.goog
 </div>
 </div>
 
+
+## Visual Generation / Editing
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/I2VGen-XL_overview.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
