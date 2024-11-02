@@ -125,7 +125,7 @@ Jiuniu Wang\*, **Hangjie Yuan**\*, Dayou Chen\*, Yingya Zhang\*, Xiang Wang, Shi
 </div>
 
 
-## HOI Detection / Scene Graph Generation
+## Visual Relation Detection (HOI Detection / Scene Graph Generation)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/RLIPv2_overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
