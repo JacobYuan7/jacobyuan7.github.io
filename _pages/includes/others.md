@@ -8,7 +8,7 @@
     - ICLR 2024-2025
     - SIGGRAPH 2024
     - NeurIPS 2023-2024  
-    - CVPR 2022-2024  
+    - CVPR 2022-2025  
     - ICCV 2023
     - ECCV 2024
     - AAAI 2023-2025 
