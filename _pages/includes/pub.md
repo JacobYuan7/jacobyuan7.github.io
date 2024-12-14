@@ -3,7 +3,8 @@
 
 A full publication list is available on my [google scholar](https://scholar.google.com/citations?user=jQ3bFDMAAAAJ&hl=en&oi=ao) page.
 
-(* denotes equal contribution.)
+(*: equal contribution; †: corresponding authors.)
+<!--(* denotes equal contribution and † denotes corresponding authors.)-->
 
 
 ## Visual Generation Alignment and its Application
@@ -41,6 +42,34 @@ Rui Zhao, **Hangjie Yuan**, Yujie Wei, Shiwei Zhang, Yuchao Gu, Lingmin Ran, Xia
 
 
 ## Visual Generation / Editing
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/DreamVideo-2_overview.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**CVPR 2024**] [DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control](https://arxiv.org/abs/2410.13830) \\
+Yujie Wei, Shiwei Zhang, **Hangjie Yuan**, Xiang Wang, Haonan Qiu, Rui Zhao, et al.\\
+[[Project page]](https://dreamvideo2.github.io/) [code] (to be updated)
+
+
+- DreamVideo is the first method that generates personalized videos from a few static images of the desired subject and a few videos of target motion.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/DreamVideo_overview.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**CVPR 2024**] [DreamVideo: Composing Your Dream Videos with Customized Subject and Motion](https://arxiv.org/abs/2312.04433) \\
+Yujie Wei, Shiwei Zhang, Zhiwu Qing, **Hangjie Yuan**, Zhiheng Liu, Yu Liu, Yingya Zhang, Jingren Zhou, Hongming Shan.\\
+[![GitHub Stars](https://img.shields.io/github/stars/damo-vilab/i2vgen-xl?style=social)](https://github.com/damo-vilab/i2vgen-xl)
+[![GitHub Forks](https://img.shields.io/github/forks/damo-vilab/i2vgen-xl?style=social)](https://github.com/damo-vilab/i2vgen-xl)
+[[Project page]](https://dreamvideo-t2v.github.io/)
+
+
+- DreamVideo is the first method that generates personalized videos from a few static images of the desired subject and a few videos of target motion.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/I2VGen-XL_overview.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -74,21 +103,6 @@ Xiang Wang, Shiwei Zhang, **Hangjie Yuan**, Zhiwu Qing, Biao Gong, Yingya Zhang,
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/DreamVideo_overview.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**CVPR 2024**] [DreamVideo: Composing Your Dream Videos with Customized Subject and Motion](https://arxiv.org/abs/2312.04433) \\
-Yujie Wei, Shiwei Zhang, Zhiwu Qing, **Hangjie Yuan**, Zhiheng Liu, Yu Liu, Yingya Zhang, Jingren Zhou, Hongming Shan.\\
-[![GitHub Stars](https://img.shields.io/github/stars/damo-vilab/i2vgen-xl?style=social)](https://github.com/damo-vilab/i2vgen-xl)
-[![GitHub Forks](https://img.shields.io/github/forks/damo-vilab/i2vgen-xl?style=social)](https://github.com/damo-vilab/i2vgen-xl)
-[[Project page]](https://dreamvideo-t2v.github.io/)
-
-
-- DreamVideo is the first method that generates personalized videos from a few static images of the desired subject and a few videos of target motion.
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/VideoComposer_overview.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
