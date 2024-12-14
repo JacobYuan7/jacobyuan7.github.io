@@ -42,6 +42,20 @@ Rui Zhao, **Hangjie Yuan**, Yujie Wei, Shiwei Zhang, Yuchao Gu, Lingmin Ran, Xia
 
 
 ## Visual Generation / Editing
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/FreeMask_overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**AAAI 2025**] [FreeMask: Rethinking the Importance of Attention Masks for Zero-shot Video Editing](https://arxiv.org/pdf/2409.20500) \\
+Lingling Cai, Kang Zhao, **Hangjie Yuan**, Yingya Zhang, Shiwei Zhang, Kejie Huang.\\
+[[Project page]](https://freemask-edit.github.io/) [code](https://github.com/LinglingCai0314/FreeMask)
+
+
+- FreeMask uncovers a critical factor overlooked in previous video editing research: cross-attention masks are not consistently clear but vary with model structure and denoising timestep.
+- We quantify this variability and propose FreeMask to select optimal masks for various video editing tasks.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/DreamVideo-2_overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -99,20 +113,6 @@ Xiang Wang, Shiwei Zhang, **Hangjie Yuan**, Zhiwu Qing, Biao Gong, Yingya Zhang,
 
 - TF-T2V proposes to separate the process of text decoding from that of temporal modeling during pre-training.
 - TF-T2V is proven effective for both text-to-video generation and compositional video synthesis.
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/FreeMask_overview.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**AAAI 2025**] [FreeMask: Rethinking the Importance of Attention Masks for Zero-shot Video Editing](https://arxiv.org/pdf/2409.20500) \\
-Lingling Cai, Kang Zhao, **Hangjie Yuan**, Yingya Zhang, Shiwei Zhang, Kejie Huang.\\
-[[Project page]](https://freemask-edit.github.io/) [code](https://github.com/LinglingCai0314/FreeMask)
-
-
-- FreeMask uncovers a critical factor overlooked in previous video editing research: cross-attention masks are not consistently clear but vary with model structure and denoising timestep.
-- We quantify this variability and propose FreeMask to select optimal masks for various video editing tasks.
 
 </div>
 </div>
