@@ -42,7 +42,7 @@ Rui Zhao, **Hangjie Yuan**, Yujie Wei, Shiwei Zhang, Yuchao Gu, Lingmin Ran, Xia
 
 
 ## Visual Generation / Editing
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/FreeMask_overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/FreeMask_overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**AAAI 2025**] [FreeMask: Rethinking the Importance of Attention Masks for Zero-shot Video Editing](https://arxiv.org/pdf/2409.20500) \\
