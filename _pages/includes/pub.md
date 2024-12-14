@@ -45,7 +45,7 @@ Rui Zhao, **Hangjie Yuan**, Yujie Wei, Shiwei Zhang, Yuchao Gu, Lingmin Ran, Xia
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/DreamVideo-2_overview.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**CVPR 2024**] [DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control](https://arxiv.org/abs/2410.13830) \\
+[**arXiv**] [DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control](https://arxiv.org/abs/2410.13830) \\
 Yujie Wei, Shiwei Zhang, **Hangjie Yuan**, Xiang Wang, Haonan Qiu, Rui Zhao, et al.\\
 [[Project page]](https://dreamvideo2.github.io/) [code] (to be updated)
 
