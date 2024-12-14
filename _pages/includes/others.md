@@ -7,6 +7,7 @@
   - *Conferences*: 
     - ICLR 2024-2025
     - SIGGRAPH 2024
+    - ICML 2025
     - NeurIPS 2023-2024  
     - CVPR 2022-2025  
     - ICCV 2023
