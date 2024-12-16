@@ -47,7 +47,7 @@ Rui Zhao, **Hangjie Yuan**, Yujie Wei, Shiwei Zhang, Yuchao Gu, Lingmin Ran, Xia
 
 [**AAAI 2025**] [FreeMask: Rethinking the Importance of Attention Masks for Zero-shot Video Editing](https://arxiv.org/pdf/2409.20500) \\
 Lingling Cai, Kang Zhao, **Hangjie Yuan**, Yingya Zhang, Shiwei Zhang, Kejie Huang.\\
-[[Project page]](https://freemask-edit.github.io/) [code](https://github.com/LinglingCai0314/FreeMask)
+[[Project page]](https://freemask-edit.github.io/) [[code]](https://github.com/LinglingCai0314/FreeMask)
 
 
 - FreeMask uncovers a critical factor overlooked in previous video editing research: cross-attention masks are not consistently clear but vary with model structure and denoising timestep.
