@@ -3,7 +3,7 @@
 😃 Greetings!
 
 I have joined Alibaba DAMO Academy as a research scientist via the Alibaba Star ('阿里星') program, working on cutting-edge problems in foundation models.
-I will also remain a research position at Zhejiang University, working with Prof. [Yi Yang](https://scholar.google.com/citations?hl=en&user=RMSuNFwAAAAJ).
+I also hold a research position at Zhejiang University, working with Prof. [Yi Yang](https://scholar.google.com/citations?hl=en&user=RMSuNFwAAAAJ).
 I obtained my PhD from Zhejiang University in the beautiful summer of 2024 (from Sept., 2019), under the supervision of Prof. [Dong Ni](https://person.zju.edu.cn/en/nidong), Prof. [Samuel Albanie](https://samuelalbanie.com/) (University of Cambridge/DeepMind), [Deli Zhao](https://zhaodeli.github.io/) (Alibaba DAMO) and [Shiwei Zhang](https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ&hl=en&oi=ao) (Alibaba Tongyi Lab/DAMO).
 I have undertaken a visiting Ph.D. program at [MMLab@NTU](https://www.mmlab-ntu.com/), supervised by Prof. [Ziwei Liu](https://liuziwei7.github.io/) and Dr. [Chenyang Si](https://chenyangsi.top/).
 <!-- During my PhD, I interned at Alibaba DAMO Academy/Tongyi Lab for more than 3 years. -->
