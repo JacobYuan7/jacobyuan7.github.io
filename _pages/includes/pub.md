@@ -42,6 +42,24 @@ Rui Zhao, **Hangjie Yuan**, Yujie Wei, Shiwei Zhang, Yuchao Gu, Lingmin Ran, Xia
 
 
 ## Visual Generation / Editing
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/FreeScale_overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**arXiv**] [FreeScale: Unleashing the Resolution of Diffusion Models via Tuning-Free Scale Fusion](https://arxiv.org/abs/2412.09626) \\
+Haonan Qiu, Shiwei Zhang, Yujie Wei, Ruihang Chu, **Hangjie Yuan**, Xiang Wang, Yingya Zhang, Ziwei Liu.\\
+[![GitHub Stars](https://img.shields.io/github/stars/damo-vilab/FreeScale?style=social)](https://github.com/ali-vilab/FreeScale)
+[![GitHub Forks](https://img.shields.io/github/forks/damo-vilab/FreeScale?style=social)](https://github.com/ali-vilab/FreeScale)
+[[Project page]](http://haonanqiu.com/projects/FreeScale.html)
+
+
+-  FreeScale introduces a groundbreaking tuning-free inference paradigm that enables high-resolution visual generation by seamlessly fusing information from multiple receptive scales.
+-  FreeScale unlocks the potential for generating **8k-resolution** images and videos, setting a new benchmark in the field.
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/FreeMask_overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
