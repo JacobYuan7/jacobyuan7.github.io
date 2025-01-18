@@ -47,8 +47,8 @@ Rui Zhao, **Hangjie Yuan**, Yujie Wei, Shiwei Zhang, Yuchao Gu, Lingmin Ran, Xia
 
 [**arXiv**] [FreeScale: Unleashing the Resolution of Diffusion Models via Tuning-Free Scale Fusion](https://arxiv.org/abs/2412.09626) \\
 Haonan Qiu, Shiwei Zhang, Yujie Wei, Ruihang Chu, **Hangjie Yuan**, Xiang Wang, Yingya Zhang, Ziwei Liu.\\
-[![GitHub Stars](https://img.shields.io/github/stars/damo-vilab/FreeScale?style=social)](https://github.com/ali-vilab/FreeScale)
-[![GitHub Forks](https://img.shields.io/github/forks/damo-vilab/FreeScale?style=social)](https://github.com/ali-vilab/FreeScale)
+[![GitHub Stars](https://img.shields.io/github/stars/ali-vilab/FreeScale?style=social)](https://github.com/ali-vilab/FreeScale)
+[![GitHub Forks](https://img.shields.io/github/forks/ali-vilab/FreeScale?style=social)](https://github.com/ali-vilab/FreeScale)
 [[Project page]](http://haonanqiu.com/projects/FreeScale.html)
 
 
