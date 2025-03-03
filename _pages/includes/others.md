@@ -40,7 +40,11 @@ However, I am not emotionally vulnerable.
 
   - **Favoriate singer**: Taylor Swift. I officially became a Swiftie after the release of "Safe & Sound".
  
-  - **Concerts that I have been to**: Taylor Swift's Eras Tour in London, 2024 (where I saw Ed Sheeran as well!), Coldplay's Music of the Spheres World Tour in Singapore, 2024 and One Love Asia Festival in Singapore, 2023.
+  - **Concerts that I have been to**:
+      - Ed Sheeran's +-=÷× Tour in Hangzhou, 2025 (where I saw Langlang.).
+      - Taylor Swift's Eras Tour in London, 2024 (where I saw Ed Sheeran as well!).
+      - Coldplay's Music of the Spheres World Tour in Singapore, 2024.
+      - One Love Asia Festival in Singapore, 2023.
 
   - **Favoriate athlete / football club**: Kylian Mbappé and Tottenham Hotspur F.C. We're on a mission to win a trophy! And yeah, I respect the big guys like Man City, Man United, Chelsea, Arsenal... even if they are the competition.
 
