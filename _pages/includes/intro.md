@@ -31,11 +31,11 @@ My representative projects include [InstructVideo](https://arxiv.org/abs/2312.12
 <!-- work closely -->
 
 My current research interests include:
-- 1️⃣ Generative models: visual generation/editing, visual autoregressive models, and visual generation alignment;
+- 1️⃣ 🌟🌟🌟 Generative models: visual generation/editing, visual autoregressive models, and visual generation alignment;
 - 2️⃣ Representation learning: video understanding, visual relation detection (HOI detection/scene graph generation);
 - 3️⃣ AI for science and engineering.
 
-<span style="color:red"><strong> 📧 I am recruiting interns to work on cutting-edge problems in foundation models, so feel free to drop me an email at hj.yuan@zju.edu.cn if you are interested in collaborating with me as a full-time researcher/intern or remotely. </strong></span>
+<span style="color:red"><strong> 📧 I am recruiting interns to work on cutting-edge problems in foundation models, so feel free to drop me an email at hj.yuan@zju.edu.cn if you are interested in collaborating with me as a full-time researcher/intern or remotely. </strong></span> You can refer to [this](https://zhuanlan.zhihu.com/p/17586896957) although it might be outdated.
 
 
 <!--
