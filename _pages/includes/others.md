@@ -15,7 +15,8 @@
     - AAAI 2023-2025 
 
   - *Journals*:
-    - IEEE Transactions on Pattern Analysis and Machine Intelligence     
+    - IEEE Transactions on Pattern Analysis and Machine Intelligence
+    - ACM Transactions on Graphics    
     - IEEE Transactions on Multimedia
     - IEEE Transactions on Circuits and Systems for Video Technology
     - Knowledge-Based Systems
