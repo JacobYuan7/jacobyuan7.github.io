@@ -42,7 +42,9 @@ However, I am not emotionally vulnerable.
   - **Favoriate singer**: Taylor Swift. I officially became a Swiftie after the release of "Safe & Sound".
  
   - **Concerts that I have been to**:
-      - Ed Sheeran's +-=÷× Tour in Hangzhou, 2025 (where I saw Langlang.).
+      - Hans Zimmer Live in Hangzhou, 2025 (legendary film score composer).
+      - Imagine Dragons' LOOM World Tour in Hangzhou, 2025.
+      - Ed Sheeran's +-=÷× Tour in Hangzhou, 2025 (where I saw Langlang).
       - Taylor Swift's Eras Tour in London, 2024 (where I saw Ed Sheeran as well!).
       - Coldplay's Music of the Spheres World Tour in Singapore, 2024.
       - One Love Asia Festival in Singapore, 2023.
