@@ -11,7 +11,7 @@ I have undertaken a visiting Ph.D. program at [MMLab@NTU](https://www.mmlab-ntu.
 My representative projects include [VGen](https://github.com/ali-vilab/VGen) (includes [InstructVideo](https://arxiv.org/abs/2312.12490)), [VideoComposer](https://arxiv.org/abs/2306.02018), the Lumos series (includes [Lumos-1](https://arxiv.org/abs/2507.08801)), the RLIP series ([v1](https://arxiv.org/abs/2209.01814) and [v2](https://arxiv.org/abs/2308.09351)), the DreamVideo series ([v1](https://arxiv.org/abs/2312.04433) and [v2](https://arxiv.org/abs/2410.13830)) and [ModelScopeT2V](https://arxiv.org/abs/2308.06571).
 
 
-<!--
+<!-- 
 😃 Welcome to my personal page!
 
 I am Hangjie Yuan (**袁杭杰** in Chinese), currently pursuing my Ph.D. at Zhejiang University and serving as a long-term research intern at [Alibaba DAMO Academy](https://damo.alibaba.com/). 
