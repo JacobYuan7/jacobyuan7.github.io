@@ -7,12 +7,13 @@
   - *Conferences*: 
     - ICLR 2024-2025
     - SIGGRAPH 2024-2025
+    - SIGGRAPH Asia 2025
     - ICML 2025
     - NeurIPS 2023-2025  
     - CVPR 2022-2025  
     - ICCV 2023-2025
     - ECCV 2024
-    - AAAI 2023-2025 
+    - AAAI 2023-2026 
 
   - *Journals*:
     - IEEE Transactions on Pattern Analysis and Machine Intelligence
