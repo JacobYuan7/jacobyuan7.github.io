@@ -5,6 +5,12 @@
 
 <!-- - *2023-06* : 📑 [VideoComposer](https://arxiv.org/abs/2306.02018), [Progressive Learning without Forgetting](https://arxiv.org/abs/2211.15215) and [Refined Response Distillation](https://arxiv.org/abs/2305.00620) are online on arXiv. Enjoy reading them! -->
 
+- *2025-07* : 🏡 We release [Lumos-1](https://arxiv.org/abs/2507.08801), a foundation for autoregresive video generation.
+
+- *2025-06* : 📑 SAMora, [DreamRelation](https://arxiv.org/abs/2503.07602) and [FreeScale](https://arxiv.org/abs/2412.09626)  are accepted to **ICCV 2025**. Well done, guys!
+
+- *2025-03* : 📑 [Dual-Arch](https://arxiv.org/abs/2506.03951) and [ZeroFlow](https://arxiv.org/abs/2501.01045) are accepted to **ICML 2025**.
+
 - *2024-12* : 📑 [FreeMask](https://freemask-edit.github.io/) and AeroGTO are accepted to **AAAI 2025**. Congrats to Lingling and Pengwei.
 
 - *2024-09* : 📑 [EvolveDirector](https://arxiv.org/abs/2410.07133) and [C-Flat](https://arxiv.org/abs/2404.00986) are accepted to **NeurIPS 2024**. Congrats to Rui and Tao.
