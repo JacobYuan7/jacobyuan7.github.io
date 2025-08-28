@@ -5,6 +5,8 @@
 
 <!-- - *2023-06* : 📑 [VideoComposer](https://arxiv.org/abs/2306.02018), [Progressive Learning without Forgetting](https://arxiv.org/abs/2211.15215) and [Refined Response Distillation](https://arxiv.org/abs/2305.00620) are online on arXiv. Enjoy reading them! -->
 
+- *2025-08* : 🪄🦉 I will serve as an Area Chair for ICLR 2026.
+
 - *2025-07* : 🏡 We release [Lumos-1](https://arxiv.org/abs/2507.08801), a foundation for autoregresive video generation.
 
 - *2025-06* : 📑 SAMora, [DreamRelation](https://arxiv.org/abs/2503.07602) and [FreeScale](https://arxiv.org/abs/2412.09626)  are accepted to **ICCV 2025**. Well done, guys!
