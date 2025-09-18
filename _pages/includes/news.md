@@ -8,7 +8,7 @@
 
 
 
-- *2025-09* : 👑 I am awarded Zhejiang Provincial **Special Grant** for Postdoctoral Research (**Top 10** in Zhejiang Province). [CVer](https://mp.weixin.qq.com/s/ejmCHGh5AbxB1mHCO9qpaQ)[DAMO矩阵](https://mp.weixin.qq.com/s/ZPUFE1JzgfkAuNzRXPxJiA)[AI生成未来](https://mp.weixin.qq.com/s/D508qfcOEjXGZW2F_PN6og)
+- *2025-09* : 👑 I am awarded Zhejiang Provincial **Special Grant** for Postdoctoral Research (**Top 10** in Zhejiang Province). [[CVer]](https://mp.weixin.qq.com/s/ejmCHGh5AbxB1mHCO9qpaQ)[[DAMO矩阵]](https://mp.weixin.qq.com/s/ZPUFE1JzgfkAuNzRXPxJiA)[[AI生成未来]](https://mp.weixin.qq.com/s/D508qfcOEjXGZW2F_PN6og)
 
 - *2025-08* : 🪄🦉 I will serve as an **Area Chair** for ICLR 2026. 
 
