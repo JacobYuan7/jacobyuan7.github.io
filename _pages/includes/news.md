@@ -12,7 +12,7 @@
 
 - *2025-08* : 🪄🦉 I will serve as an **Area Chair** for ICLR 2026. 
 
-- *2025-07* : 🏡 We release [Lumos-1](https://arxiv.org/abs/2507.08801), a foundation for autoregresive video generation. [[CVer]](https://mp.weixin.qq.com/s/ejmCHGh5AbxB1mHCO9qpaQ)[[DAMO矩阵]](https://mp.weixin.qq.com/s/ZPUFE1JzgfkAuNzRXPxJiA)[[AI生成未来]](https://mp.weixin.qq.com/s/D508qfcOEjXGZW2F_PN6og)
+- *2025-07* : 🏡 We release [Lumos-1](https://arxiv.org/abs/2507.08801), a foundation for autoregresive video generation. Media coverage: [[CVer]](https://mp.weixin.qq.com/s/ejmCHGh5AbxB1mHCO9qpaQ)[[DAMO矩阵]](https://mp.weixin.qq.com/s/ZPUFE1JzgfkAuNzRXPxJiA)[[AI生成未来]](https://mp.weixin.qq.com/s/D508qfcOEjXGZW2F_PN6og)
 
 - *2025-06* : 📑 SAMora, [DreamRelation](https://arxiv.org/abs/2503.07602) and [FreeScale](https://arxiv.org/abs/2412.09626)  are accepted to **ICCV 2025**. Well done, guys!
 
