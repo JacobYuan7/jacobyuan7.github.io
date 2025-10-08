@@ -7,7 +7,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 <!--(* denotes equal contribution and † denotes corresponding authors.)-->
 
 
-## Unified Models
+## Unified Models (Autoregressive Models)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/Lumos-1_overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -15,6 +15,21 @@ A full publication list is available on my [google scholar](https://scholar.goog
 **Hangjie Yuan**, Weihua Chen, Jun Cen, Hu Yu, Jingyun Liang, Shuning Chang, Zhihui Lin, Tao Feng, Pengwei Liu, Jiazheng Xing, Hao Luo, Jiasheng Tang, Fan Wang, Yi Yang.\\
 [![GitHub Stars](https://img.shields.io/github/stars/alibaba-damo-academy/Lumos?style=social)](https://github.com/alibaba-damo-academy/Lumos)
 [![GitHub Forks](https://img.shields.io/github/forks/alibaba-damo-academy/Lumos?style=social)](https://github.com/alibaba-damo-academy/Lumos)
+
+
+- We introduce Lumos-1, an LLM-based unified model for AR video generation with MM-RoPE (to provide comprehensive frequency spectra) and Autoregressive Discrete Diffusion Forcing (to ensure effective training on and inferring videos).
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/WorldVLA_overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**arXiv**] [WorldVLA: Towards Autoregressive Action World Model](https://arxiv.org/abs/2506.21539) \\
+Jun Cen, Chaohui Yu, **Hangjie Yuan**, Yuming Jiang, Siteng Huang, Jiayan Guo, Xin Li, Yibing Song, Hao Luo, Fan Wang, Deli Zhao, Hao Chen.\\
+[![GitHub Stars](https://img.shields.io/github/stars/alibaba-damo-academy/WorldVLA?style=social)](https://github.com/alibaba-damo-academy/WorldVLA)
+[![GitHub Forks](https://img.shields.io/github/forks/alibaba-damo-academy/WorldVLA?style=social)](https://github.com/alibaba-damo-academy/WorldVLA)
 
 
 - We introduce Lumos-1, an LLM-based unified model for AR video generation with MM-RoPE (to provide comprehensive frequency spectra) and Autoregressive Discrete Diffusion Forcing (to ensure effective training on and inferring videos).
