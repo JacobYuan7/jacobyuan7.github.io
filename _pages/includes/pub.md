@@ -17,7 +17,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 [![GitHub Forks](https://img.shields.io/github/forks/alibaba-damo-academy/Lumos?style=social)](https://github.com/alibaba-damo-academy/Lumos)
 
 
-- We introduce Lumos-1, an LLM-based unified model for AR video generation with MM-RoPE (to provide comprehensive frequency spectra) and Autoregressive Discrete Diffusion Forcing (to ensure effective training on videos).
+- We introduce Lumos-1, an LLM-based unified model for AR video generation with MM-RoPE (to provide comprehensive frequency spectra) and Autoregressive Discrete Diffusion Forcing (to ensure effective training on and inferring videos).
 
 </div>
 </div>
