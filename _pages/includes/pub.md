@@ -7,6 +7,23 @@ A full publication list is available on my [google scholar](https://scholar.goog
 <!--(* denotes equal contribution and † denotes corresponding authors.)-->
 
 
+## Unified Models
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/Lumos-1_overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**arXiv**] [Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective](https://arxiv.org/abs/2507.08801) \\
+**Hangjie Yuan**, Weihua Chen, Jun Cen, Hu Yu, Jingyun Liang, Shuning Chang, Zhihui Lin, Tao Feng, Pengwei Liu, Jiazheng Xing, Hao Luo, Jiasheng Tang, Fan Wang, Yi Yang.\\
+[![GitHub Stars](https://img.shields.io/github/stars/alibaba-damo-academy/Lumos?style=social)](https://github.com/alibaba-damo-academy/Lumos)
+[![GitHub Forks](https://img.shields.io/github/forks/alibaba-damo-academy/Lumos?style=social)](https://github.com/alibaba-damo-academy/Lumos)
+
+
+-  FreeScale introduces a groundbreaking tuning-free inference paradigm that enables high-resolution visual generation by seamlessly fusing information from multiple receptive scales.
+-  FreeScale unlocks the potential for generating **8k-resolution** images and videos, setting a new benchmark in the field.
+
+</div>
+</div>
+
+
 ## Visual Generation Alignment and its Application
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/EvolveDirector_overview.png' alt="sym" width="100%"></div></div>
@@ -42,10 +59,10 @@ Rui Zhao, **Hangjie Yuan**, Yujie Wei, Shiwei Zhang, Yuchao Gu, Lingmin Ran, Xia
 
 
 ## Visual Generation / Editing
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/FreeScale_overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/FreeScale_overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**arXiv**] [FreeScale: Unleashing the Resolution of Diffusion Models via Tuning-Free Scale Fusion](https://arxiv.org/abs/2412.09626) \\
+[**ICCV 2025**] [FreeScale: Unleashing the Resolution of Diffusion Models via Tuning-Free Scale Fusion](https://arxiv.org/abs/2412.09626) \\
 Haonan Qiu, Shiwei Zhang, Yujie Wei, Ruihang Chu, **Hangjie Yuan**, Xiang Wang, Yingya Zhang, Ziwei Liu.\\
 [![GitHub Stars](https://img.shields.io/github/stars/ali-vilab/FreeScale?style=social)](https://github.com/ali-vilab/FreeScale)
 [![GitHub Forks](https://img.shields.io/github/forks/ali-vilab/FreeScale?style=social)](https://github.com/ali-vilab/FreeScale)
@@ -273,6 +290,9 @@ Pengwei Liu, Zhongkai Hao, Xingyu Ren, **Hangjie Yuan**, Jiayang Ren, Dong Ni. \
 
 - [**ICLR 2024**] [LUM-ViT: Learnable Under-sampling Mask Vision Transformer for Bandwidth Limited Optical Signal Acquisition](https://arxiv.org/abs/2403.01412), Lingfeng Liu, Dong Ni, **Hangjie Yuan**. [[code]](https://github.com/MaxLLF/LUM-ViT)
 
+- [**WACV 2024**] [From Denoising Training to Test-Time Adaptation: Enhancing Domain Generalization for Medical Image Segmentation](https://arxiv.org/abs/2310.20271), Ruxue Wen, **Hangjie Yuan**, Dong Ni, Wenbo Xiao, Yaoyao Wu. [[code]](https://github.com/WenRuxue/DeTTA)
+
+
 
 ## Incremental / Continual Learning
 
@@ -297,14 +317,13 @@ Tao Feng, Mang Wang and **Hangjie Yuan**.  \\
 
 - [**arXiv**] [Progressive Learning without Forgetting](https://arxiv.org/abs/2211.15215), Tao Feng, **Hangjie Yuan**, Mang Wang, Ziyuan Huang, Ang Bian, Jianzhou Zhang.
 
-<!-- - [**arXiv**] [Refined Response Distillation for Class-Incremental Player Detection](https://arxiv.org/abs/2305.00620), Liang Bai, **Hangjie Yuan**, Tao Feng, Hong Song, Jian Yang. -->
 
 
 
-
+<!--
 ## Other Interesting Topics
 - [**WACV 2024**] [From Denoising Training to Test-Time Adaptation: Enhancing Domain Generalization for Medical Image Segmentation](https://arxiv.org/abs/2310.20271), Ruxue Wen, **Hangjie Yuan**, Dong Ni, Wenbo Xiao, Yaoyao Wu. [[code]](https://github.com/WenRuxue/DeTTA)
-
+ -->
 
   
 
