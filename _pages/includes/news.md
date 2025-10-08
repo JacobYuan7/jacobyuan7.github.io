@@ -8,7 +8,9 @@
 
 
 
-- *2025-09* : 👑 I am awarded Zhejiang Provincial **Special Grant** for Postdoctoral Research (**Top 10** in Zhejiang Province). 
+- *2025-09* : 👑 I am awarded Zhejiang Provincial **Special Grant** for Postdoctoral Research (**Top 10** in Zhejiang Province).
+
+- *2025-09* : 📑 UniLumos and [VideoMAR](https://arxiv.org/abs/2506.14168)  are accepted to **NeurIPS 2025**. Keep going, guys!
 
 - *2025-08* : 🪄🦉 I will serve as an **Area Chair** for ICLR 2026. 
 
