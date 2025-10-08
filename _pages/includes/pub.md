@@ -38,6 +38,18 @@ Jun Cen, Chaohui Yu, **Hangjie Yuan**, Yuming Jiang, Siteng Huang, Jiayan Guo, X
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/VideoMAR_overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**NeurIPS 2025**] [VideoMAR: Autoregressive Video Generation with Continuous Tokens](https://arxiv.org/pdf/2506.14168) \\
+Hu Yu, Biao Gong, **Hangjie Yuan**, DanDan Zheng, Weilong Chai, Jingdong Chen, Kecheng Zheng, Feng Zhao.\\
+
+- We propose VideoMAR, a concise and efficient decoder-only autoregressive image-to-video model with continuous tokens, composing temporal frame-by-frame and spatial masked generation.
+
+</div>
+</div>
+
+
 ## Visual Generation Alignment and its Application
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/EvolveDirector_overview.png' alt="sym" width="100%"></div></div>
