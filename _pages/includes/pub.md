@@ -17,8 +17,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 [![GitHub Forks](https://img.shields.io/github/forks/alibaba-damo-academy/Lumos?style=social)](https://github.com/alibaba-damo-academy/Lumos)
 
 
--  FreeScale introduces a groundbreaking tuning-free inference paradigm that enables high-resolution visual generation by seamlessly fusing information from multiple receptive scales.
--  FreeScale unlocks the potential for generating **8k-resolution** images and videos, setting a new benchmark in the field.
+- We introduce Lumos-1, an LLM-based unified model for AR video generation with MM-RoPE (to provide comprehensive frequency spectra) and Autoregressive Discrete Diffusion Forcing (to ensure effective training on videos).
 
 </div>
 </div>
