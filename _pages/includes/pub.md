@@ -50,6 +50,9 @@ Hu Yu, Biao Gong, **Hangjie Yuan**, DanDan Zheng, Weilong Chai, Jingdong Chen, K
 </div>
 
 
+[**arXiv**] [Frequency Autoregressive Image Generation with Continuous Tokens](https://arxiv.org/abs/2503.05305), Hu Yu, Hao Luo, **Hangjie Yuan**, Yu Rong, Feng Zhao.
+
+
 ## Visual Generation Alignment and its Application
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/UniLumos_overview.png' alt="sym" width="100%"></div></div>
