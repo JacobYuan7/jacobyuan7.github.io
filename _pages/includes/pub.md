@@ -13,9 +13,9 @@ A full publication list is available on my [google scholar](https://scholar.goog
 
 [**arXiv**] [Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective](https://arxiv.org/abs/2507.08801) \\
 **Hangjie Yuan**, Weihua Chen, Jun Cen, Hu Yu, Jingyun Liang, Shuning Chang, Zhihui Lin, Tao Feng, Pengwei Liu, Jiazheng Xing, Hao Luo, Jiasheng Tang, Fan Wang, Yi Yang.\\
+
 [![GitHub Stars](https://img.shields.io/github/stars/alibaba-damo-academy/Lumos?style=social)](https://github.com/alibaba-damo-academy/Lumos)
 [![GitHub Forks](https://img.shields.io/github/forks/alibaba-damo-academy/Lumos?style=social)](https://github.com/alibaba-damo-academy/Lumos)
-
 
 - We introduce Lumos-1, an LLM-based unified model for AR video generation with MM-RoPE (to provide comprehensive frequency spectra) and Autoregressive Discrete Diffusion Forcing (to ensure effective training on and inferring videos).
 
@@ -51,6 +51,26 @@ Hu Yu, Biao Gong, **Hangjie Yuan**, DanDan Zheng, Weilong Chai, Jingdong Chen, K
 
 
 ## Visual Generation Alignment and its Application
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/UniLumos_overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**NeurIPS 2025**] [UniLumos: Fast and Unified Image and Video Relighting with Physics-Plausible Feedback]() \\
+Pelen Liu*, Hangjie Yuan*†, Bo Dong, Jiazheng Xing, Jinwang Wang, Rui Zhao, Yan Xing, Weihua Chen, Fan Wang.
+\\
+
+<!--
+[![GitHub Stars](https://img.shields.io/github/stars/showlab/EvolveDirector?style=social)](https://github.com/showlab/EvolveDirector)
+[![GitHub Forks](https://img.shields.io/github/forks/showlab/EvolveDirector?style=social)](https://github.com/showlab/EvolveDirector)
+-->
+
+- For models, we propose UniLumos, a **unified** relighting framework for both images and videos that brings RGB-space geometry feedback into a flow-matching backbone.
+- For evaluation, we propose LumosBench, a disentangled attribute-level benchmark that evaluates lighting controllability via large vision-language models, enabling automatic and interpretable assessment of relighting precision across individual dimensions.
+
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/EvolveDirector_overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
