@@ -13,7 +13,6 @@ A full publication list is available on my [google scholar](https://scholar.goog
 
 [**arXiv**] [Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective](https://arxiv.org/abs/2507.08801) \\
 **Hangjie Yuan**, Weihua Chen, Jun Cen, Hu Yu, Jingyun Liang, Shuning Chang, Zhihui Lin, Tao Feng, Pengwei Liu, Jiazheng Xing, Hao Luo, Jiasheng Tang, Fan Wang, Yi Yang.\\
-
 [![GitHub Stars](https://img.shields.io/github/stars/alibaba-damo-academy/Lumos?style=social)](https://github.com/alibaba-damo-academy/Lumos)
 [![GitHub Forks](https://img.shields.io/github/forks/alibaba-damo-academy/Lumos?style=social)](https://github.com/alibaba-damo-academy/Lumos)
 
@@ -43,7 +42,10 @@ Jun Cen, Chaohui Yu, **Hangjie Yuan**, Yuming Jiang, Siteng Huang, Jiayan Guo, X
 
 [**NeurIPS 2025**] [VideoMAR: Autoregressive Video Generation with Continuous Tokens](https://arxiv.org/pdf/2506.14168) \\
 Hu Yu, Biao Gong, **Hangjie Yuan**, DanDan Zheng, Weilong Chai, Jingdong Chen, Kecheng Zheng, Feng Zhao.\\
-
+<!--
+[![GitHub Stars](https://img.shields.io/github/stars/showlab/EvolveDirector?style=social)](https://github.com/showlab/EvolveDirector)
+[![GitHub Forks](https://img.shields.io/github/forks/showlab/EvolveDirector?style=social)](https://github.com/showlab/EvolveDirector)
+-->
 - We propose VideoMAR, a concise and efficient decoder-only autoregressive image-to-video model with continuous tokens, composing temporal frame-by-frame and spatial masked generation.
 
 </div>
@@ -61,12 +63,10 @@ Hu Yu, Biao Gong, **Hangjie Yuan**, DanDan Zheng, Weilong Chai, Jingdong Chen, K
 [**NeurIPS 2025**] [UniLumos: Fast and Unified Image and Video Relighting with Physics-Plausible Feedback]() \\
 Pelen Liu*, Hangjie Yuan*†, Bo Dong, Jiazheng Xing, Jinwang Wang, Rui Zhao, Yan Xing, Weihua Chen, Fan Wang.
 \\
-
 <!--
 [![GitHub Stars](https://img.shields.io/github/stars/showlab/EvolveDirector?style=social)](https://github.com/showlab/EvolveDirector)
 [![GitHub Forks](https://img.shields.io/github/forks/showlab/EvolveDirector?style=social)](https://github.com/showlab/EvolveDirector)
 -->
-
 - For models, we propose UniLumos, a **unified** relighting framework for both images and videos that brings RGB-space geometry feedback into a flow-matching backbone.
 - For evaluation, we propose LumosBench, a disentangled attribute-level benchmark that evaluates lighting controllability via large vision-language models, enabling automatic and interpretable assessment of relighting precision across individual dimensions.
 
