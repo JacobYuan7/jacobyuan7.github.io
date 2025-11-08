@@ -60,13 +60,12 @@ Hu Yu, Biao Gong, **Hangjie Yuan**, DanDan Zheng, Weilong Chai, Jingdong Chen, K
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/UniLumos_overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**NeurIPS 2025**] [UniLumos: Fast and Unified Image and Video Relighting with Physics-Plausible Feedback]() \\
-Pelen Liu*, Hangjie Yuan*†, Bo Dong, Jiazheng Xing, Jinwang Wang, Rui Zhao, Yan Xing, Weihua Chen, Fan Wang.
+[**NeurIPS 2025**] [UniLumos: Fast and Unified Image and Video Relighting with Physics-Plausible Feedback](https://arxiv.org/abs/2511.01678) \\
+Pelen Liu\*, **Hangjie Yuan**\*†, Bo Dong, Jiazheng Xing, Jinwang Wang, Rui Zhao, Yan Xing, Weihua Chen, Fan Wang.
 \\
-<!--
-[![GitHub Stars](https://img.shields.io/github/stars/showlab/EvolveDirector?style=social)](https://github.com/showlab/EvolveDirector)
-[![GitHub Forks](https://img.shields.io/github/forks/showlab/EvolveDirector?style=social)](https://github.com/showlab/EvolveDirector)
--->
+[![GitHub Stars](https://img.shields.io/github/stars/alibaba-damo-academy/Lumos-Custom?style=social)](https://github.com/alibaba-damo-academy/Lumos-Custom)
+[![GitHub Forks](https://img.shields.io/github/forks/alibaba-damo-academy/Lumos-Custom?style=social)](https://github.com/alibaba-damo-academy/Lumos-Custom)
+
 - For models, we propose UniLumos, a **unified** relighting framework for both images and videos that brings RGB-space geometry feedback into a flow-matching backbone.
 - For evaluation, we propose LumosBench, a disentangled attribute-level benchmark that evaluates lighting controllability via large vision-language models, enabling automatic and interpretable assessment of relighting precision across individual dimensions.
 
