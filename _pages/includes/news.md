@@ -6,7 +6,7 @@
 <!-- - *2023-06* : 📑 [VideoComposer](https://arxiv.org/abs/2306.02018), [Progressive Learning without Forgetting](https://arxiv.org/abs/2211.15215) and [Refined Response Distillation](https://arxiv.org/abs/2305.00620) are online on arXiv. Enjoy reading them! -->
 
 
-- *2025-11* : 📑 [UniLumos](https://arxiv.org/abs/2511.01678) and [VideoMAR](https://arxiv.org/abs/2506.14168)  are accepted to **NeurIPS 2025**. Keep going, guys! Media coverage: [机器之心](https://mp.weixin.qq.com/s/5AMkIj1nSHFckh9aKOicNw). Learn to use it from the community's [interpretation](https://www.youtube.com/watch?v=5ik6tPs6Yq8&t=3s).
+- *2025-11* : 📑 [UniLumos](https://arxiv.org/abs/2511.01678) and [VideoMAR](https://arxiv.org/abs/2506.14168)  are accepted to **NeurIPS 2025**. Media coverage: [机器之心](https://mp.weixin.qq.com/s/5AMkIj1nSHFckh9aKOicNw). Learn to use it from the community's [interpretation](https://www.youtube.com/watch?v=5ik6tPs6Yq8&t=3s). Keep going, guys!
 
 - *2025-09* : 🔥 MM-RoPE in [Lumos-1](https://arxiv.org/abs/2507.08801) is super useful, and similar ideas have been used in [Qwen3-VL](https://github.com/QwenLM/Qwen3-VL). Explanation: [Link](https://www.xiaohongshu.com/discovery/item/68d674b60000000013017625?source=webshare&xhsshare=pc_web&xsec_token=ABuQxDTZq-ttM0uzqPzvwN8DTkb0fD6-Z5oBndn7L8BoA=&xsec_source=pc_share)
 
