@@ -357,7 +357,7 @@ Tao Feng, Mang Wang and **Hangjie Yuan**.  \\
 </div>
 </div>
 
-- [**NeurIPS 2024**] [Make Continual Learning Stronger via C-Flat](https://arxiv.org/abs/2404.00986), Ang Bian, Wei Li, **Hangjie Yuan**, Chengrong Yu, Zixiang Zhao, Mang Wang, Aojun Lu, Tao Feng. [code] (to be updated)
+- [**NeurIPS 2024**] [Make Continual Learning Stronger via C-Flat](https://arxiv.org/abs/2404.00986), Ang Bian, Wei Li, **Hangjie Yuan**, Chengrong Yu, Zixiang Zhao, Mang Wang, Aojun Lu, Tao Feng. [[code]](https://github.com/WanNaa/C-Flat)
 
 
 - [**IJCAI 2024**] [Revisiting Neural Networks for Continual Learning: An Architectural Perspective](https://arxiv.org/abs/2404.14829), Aojun Lu, Tao Feng, **Hangjie Yuan**, Xiaotian Song, Yanan Sun.
