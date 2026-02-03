@@ -5,6 +5,7 @@
 
 <!-- - *2023-06* : 📑 [VideoComposer](https://arxiv.org/abs/2306.02018), [Progressive Learning without Forgetting](https://arxiv.org/abs/2211.15215) and [Refined Response Distillation](https://arxiv.org/abs/2305.00620) are online on arXiv. Enjoy reading them! -->
 
+- *2026-01* : 📑 [Lumos-1](https://arxiv.org/abs/2507.08801), LumosX, [ProMoE](https://arxiv.org/abs/2510.24711) and [CogFlow](https://arxiv.org/abs/2601.01874) are accepted to **ICLR 2026**.
 
 - *2025-11* : 📑 [UniLumos](https://arxiv.org/abs/2511.01678) and [VideoMAR](https://arxiv.org/abs/2506.14168)  are accepted to **NeurIPS 2025**. Media coverage: [机器之心](https://mp.weixin.qq.com/s/5AMkIj1nSHFckh9aKOicNw). Learn to use it from [Benji’s AI Playground](https://www.youtube.com/watch?v=5ik6tPs6Yq8&t=3s). Keep going, guys!
 
