@@ -13,7 +13,7 @@
 
 - *2025-09* : 👑 I am awarded Zhejiang Provincial **Special Grant** for Postdoctoral Research (**Top 10** in Zhejiang Province).
 
-- *2025-08* : 🪄🦉 I will serve as an **Area Chair** for ICLR 2026. 
+- *2025-08* : 🪄🦉 I will serve as an <span style="color:red"><strong>Area Chair</strong></span> for ICLR 2026. 
 
 - *2025-07* : 🏡 We release [Lumos-1](https://arxiv.org/abs/2507.08801), a foundation for autoregresive video generation. Media coverage: [[CVer]](https://mp.weixin.qq.com/s/ejmCHGh5AbxB1mHCO9qpaQ)[[DAMO矩阵]](https://mp.weixin.qq.com/s/ZPUFE1JzgfkAuNzRXPxJiA)[[AI生成未来]](https://mp.weixin.qq.com/s/D508qfcOEjXGZW2F_PN6og)[[PaperWeekly]](https://mp.weixin.qq.com/s/i6JUYP0Dti4i6K95VQioZA)
 
@@ -39,7 +39,7 @@
 
 - *2023-08* : 🏡 We release [ModelscopeT2V](https://arxiv.org/abs/2308.06571) (the default T2V in [Diffusers](https://huggingface.co/docs/diffusers/api/pipelines/text_to_video))  and [VideoComposer](https://arxiv.org/abs/2306.02018), two foundations for video generation.
 
-- *2022-09* : 📑 [RLIP: Relational Language-Image Pre-training](https://arxiv.org/abs/2209.01814) is accepted to **NeurIPS 2022** as a <span style="color:red"><strong>Spotlight</strong></span> paper (Top 5%). It's my honor to work with [Samuel](https://samuelalbanie.com/) and [Jianwen](https://scholar.google.com/citations?user=uDAkC1kAAAAJ&hl=zh-CN&oi=ao). Btw, the pronunciation of **RLIP** is /'ɑ:lɪp/. 
+- *2022-09* : 📑 [RLIP: Relational Language-Image Pre-training](https://arxiv.org/abs/2209.01814) is accepted to **NeurIPS 2022** as a <span style="color:red"><strong>Spotlight/Oral</strong></span> paper (Top 5%). It's my honor to work with [Samuel](https://samuelalbanie.com/) and [Jianwen](https://scholar.google.com/citations?user=uDAkC1kAAAAJ&hl=zh-CN&oi=ao). Btw, the pronunciation of **RLIP** is /'ɑ:lɪp/. 
 
 - *2022-05* : 📑 [Elastic Response Distillation](https://openaccess.thecvf.com/content/CVPR2022/html/Feng_Overcoming_Catastrophic_Forgetting_in_Incremental_Object_Detection_via_Elastic_Response_CVPR_2022_paper.html) is accepted to **CVPR 2022**. A great pleasure to work with Tao Feng and Mang Wang.
 
