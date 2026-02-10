@@ -32,7 +32,7 @@ My representative projects include [InstructVideo](https://arxiv.org/abs/2312.12
 
 
 
-I am currently interested in `Video World Models`, `Multi-modal Large Language Models` and `Video Unified Models`. My ultimate goal is to achieve interactive intelligence to benefit human well-being. I lead a small research team to work on these topics. Feel free to contact me if you need research instructions.
+I am currently interested in `Video World Models`, `Multi-modal Large Language Models` and `Video Unified Models`. My ultimate goal is to achieve interactive intelligence to shed light on human well-being. I lead a small research team to work on these topics. Feel free to contact me if you need research instructions.
 
 Generally, my current research interests include:
 - 1️⃣ 🌟🌟🌟 Generative models: video world models, visual generation, visual autoregressive models, and visual generation alignment;
