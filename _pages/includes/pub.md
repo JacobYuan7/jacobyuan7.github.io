@@ -1,7 +1,7 @@
 # 📝 Publications 
 <!-- 加点表情包,直接复制图片即可  https://github.com/guodongxiaren/README/blob/master/emoji.md?tdsourcetag=s_pcqq_aiomsg -->
 
-A full publication list is available on my [google scholar](https://scholar.google.com/citations?user=jQ3bFDMAAAAJ&hl=en&oi=ao) page.
+**A full publication list is available on my [google scholar](https://scholar.google.com/citations?user=jQ3bFDMAAAAJ&hl=en&oi=ao) page**.
 
 (*: equal contribution; †: corresponding authors.)
 <!--(* denotes equal contribution and † denotes corresponding authors.)-->
@@ -11,7 +11,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/Lumos-1_overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**arXiv**] [Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective](https://arxiv.org/abs/2507.08801) \\
+[**ICLR 2026**] [Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective](https://arxiv.org/abs/2507.08801) \\
 **Hangjie Yuan**, Weihua Chen, Jun Cen, Hu Yu, Jingyun Liang, Shuning Chang, Zhihui Lin, Tao Feng, Pengwei Liu, Jiazheng Xing, Hao Luo, Jiasheng Tang, Fan Wang, Yi Yang.\\
 [![GitHub Stars](https://img.shields.io/github/stars/alibaba-damo-academy/Lumos?style=social)](https://github.com/alibaba-damo-academy/Lumos)
 [![GitHub Forks](https://img.shields.io/github/forks/alibaba-damo-academy/Lumos?style=social)](https://github.com/alibaba-damo-academy/Lumos)
