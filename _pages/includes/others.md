@@ -13,20 +13,21 @@
     - ICLR 2024-2026
     - SIGGRAPH 2024-2025
     - SIGGRAPH Asia 2025
-    - ICML 2025
+    - ICML 2025-2026
     - NeurIPS 2023-2025  
-    - CVPR 2022-2025  
+    - CVPR 2022-2026  
     - ICCV 2023-2025
-    - ECCV 2024
+    - ECCV 2024-2026
     - AAAI 2023-2026 
 
   - *Journals*:
-    - IEEE Transactions on Pattern Analysis and Machine Intelligence
-    - ACM Transactions on Graphics    
-    - IEEE Transactions on Multimedia
-    - IEEE Transactions on Circuits and Systems for Video Technology
-    - Knowledge-Based Systems
-    - Pattern Recognition
+    - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+    - ACM Transactions on Graphics (TOG)
+    - IEEE Transactions on Visualization and Computer Graphics (TVCG)
+    - IEEE Transactions on Multimedia (TMM)
+    - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+    - Knowledge-Based Systems (KBS)
+    - Pattern Recognition (PR)
 
 # 💬 Miscellaneous
 
