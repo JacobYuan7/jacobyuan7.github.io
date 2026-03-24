@@ -15,7 +15,7 @@
     - SIGGRAPH 2024-2025
     - SIGGRAPH Asia 2025
     - ICML 2025-2026
-    - NeurIPS 2023-2025  
+    - NeurIPS 2023-2026  
     - CVPR 2022-2026  
     - ICCV 2023-2025
     - ECCV 2024-2026
