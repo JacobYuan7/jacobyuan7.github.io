@@ -1,7 +1,7 @@
 # 📝 Publications 
 <!-- 加点表情包,直接复制图片即可  https://github.com/guodongxiaren/README/blob/master/emoji.md?tdsourcetag=s_pcqq_aiomsg -->
 
-**A full publication list is available on my [google scholar](https://scholar.google.com/citations?user=jQ3bFDMAAAAJ&hl=en&oi=ao) page**.
+**A full publication list is available on my [google scholar](https://scholar.google.com/citations?user=jQ3bFDMAAAAJ&hl=en&oi=ao) page**. The following list is ***usually outdated***.
 
 (*: equal contribution; †: corresponding authors.)
 <!--(* denotes equal contribution and † denotes corresponding authors.)-->
