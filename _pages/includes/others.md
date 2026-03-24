@@ -7,6 +7,7 @@
 # 🎓 Academic Service
 - **Area Chairs & Senior Program Committee**：
   - ICLR 2026
+  - NeurIPS 2026
 
 - **Reviewing**  
   - *Conferences*: 
