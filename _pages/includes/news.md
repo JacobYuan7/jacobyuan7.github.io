@@ -1,9 +1,7 @@
 # 🔥 News
 <!-- 加点表情包,直接复制图片即可  https://github.com/guodongxiaren/README/blob/master/emoji.md?tdsourcetag=s_pcqq_aiomsg -->
 
-<!-- 
 - *2026-03* : 🪄🦉 I will serve as an <span style="color:red"><strong>Area Chair</strong></span> for NeurIPS 2026.
--->
 
 - *2026-02* : 📑 [DC-SFT](https://arxiv.org/abs/2602.10815), [C-Flat++](https://arxiv.org/abs/2508.18860) and CineNeuron are accepted to **CVPR 2026**.
 
