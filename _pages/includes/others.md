@@ -29,6 +29,9 @@
     - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
     - Knowledge-Based Systems (KBS)
     - Pattern Recognition (PR)
+  
+  - **Awards**:
+    - ICML 2026 Silver Reviewer Award
 
 # 💬 Miscellaneous
 
