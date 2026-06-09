@@ -8,7 +8,7 @@ I obtained my PhD from Zhejiang University in the beautiful summer of 2024 (from
 I have undertaken a visiting Ph.D. program at [MMLab@NTU](https://www.mmlab-ntu.com/), supervised by Prof. [Ziwei Liu](https://liuziwei7.github.io/) and Dr. [Chenyang Si](https://chenyangsi.top/).
 <!-- During my PhD, I interned at Alibaba DAMO Academy/Tongyi Lab for more than 3 years. -->
 
-My representative projects include [VGen](https://github.com/ali-vilab/VGen) (includes [InstructVideo](https://arxiv.org/abs/2312.12490)), [VideoComposer](https://arxiv.org/abs/2306.02018), the Lumos series (includes [Lumos-1](https://arxiv.org/abs/2507.08801), [UniLumos](https://arxiv.org/abs/2511.01678)), the RLIP series ([v1](https://arxiv.org/abs/2209.01814) and [v2](https://arxiv.org/abs/2308.09351)), the DreamVideo series ([v1](https://arxiv.org/abs/2312.04433) and [v2](https://arxiv.org/abs/2410.13830)) and [ModelScopeT2V](https://arxiv.org/abs/2308.06571).
+My representative projects include [VGen](https://github.com/ali-vilab/VGen) (includes [InstructVideo](https://arxiv.org/abs/2312.12490)), [VideoComposer](https://arxiv.org/abs/2306.02018), the Lumos series (includes [Lumos-1](https://arxiv.org/abs/2507.08801), [UniLumos](https://arxiv.org/abs/2511.01678), [LumosX](https://arxiv.org/abs/2603.20192) and [Lumos-Nexus](https://arxiv.org/abs/2605.31603)), the RLIP series ([v1](https://arxiv.org/abs/2209.01814) and [v2](https://arxiv.org/abs/2308.09351)), the DreamVideo series ([v1](https://arxiv.org/abs/2312.04433) and [v2](https://arxiv.org/abs/2410.13830)) and [ModelScopeT2V](https://arxiv.org/abs/2308.06571).
 
 
 <!-- 
@@ -32,13 +32,13 @@ My representative projects include [InstructVideo](https://arxiv.org/abs/2312.12
 
 
 
-I am currently interested in `Video World Models`, `Multi-modal Large Language Models` and `Video Unified Models`. 
+I am currently interested in `Video World Models`, `Multimodal Large Language Models` and `Video Unified Models`. 
 My ultimate goal is to achieve interactive intelligence to shed light on human well-being. 
 I lead a small research team to work on these topics. Feel free to contact me if you need research instructions.
 
 Generally, my current research interests include:
-- 1️⃣ 🌟🌟🌟 Generative models: video world models, visual generation, visual autoregressive models, and visual generation alignment;
-- 2️⃣ Representation learning: vision-language models, video understanding, visual relation detection (HOI detection/scene graph generation);
+- 1️⃣ 🌟 Generative models: video world models, visual generation, visual autoregressive models, and visual generation alignment;
+- 2️⃣ 🌟 Representation learning: Multimodal LLMs, video understanding, visual relation detection (HOI detection/scene graph generation);
 - 3️⃣ AI for science and engineering.
 
 <span style="color:red"><strong> 📧 I am recruiting interns to work on cutting-edge problems in foundation models, so feel free to drop me an email at hj.yuan@zju.edu.cn if you are interested in collaborating with me as a full-time researcher/intern or remotely. </strong></span> You can refer to [this Job Description](https://zhuanlan.zhihu.com/p/17586896957) (it might be outdated though).
