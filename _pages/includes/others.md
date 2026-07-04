@@ -10,7 +10,7 @@
   - NeurIPS 2026
 
 - **Reviewing**  
-  - *Conferences*: 
+  - *Conferences*:
     - ICLR 2024-2026
     - SIGGRAPH 2024-2025
     - SIGGRAPH Asia 2025
@@ -18,6 +18,7 @@
     - NeurIPS 2023-2026  
     - CVPR 2022-2026  
     - ICCV 2023-2025
+    - ACL ARR 2026
     - ECCV 2024-2026
     - AAAI 2023-2026 
 
@@ -25,6 +26,7 @@
     - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
     - ACM Transactions on Graphics (TOG)
     - IEEE Transactions on Visualization and Computer Graphics (TVCG)
+    - Transactions on Machine Learning Research (TMLR)
     - IEEE Transactions on Multimedia (TMM)
     - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
     - Knowledge-Based Systems (KBS)
