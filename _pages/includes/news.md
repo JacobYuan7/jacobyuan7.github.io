@@ -1,6 +1,8 @@
 # 🔥 News
 <!-- 加点表情包,直接复制图片即可  https://github.com/guodongxiaren/README/blob/master/emoji.md?tdsourcetag=s_pcqq_aiomsg -->
 
+- *2026-06* : 📑 [Lumos-Nexus](https://arxiv.org/abs/2605.31603) is accepted to **ECCV 2026** and [FAR](https://arxiv.org/abs/2503.05305) is accepted to **TMLR**.
+
 - *2026-04* : 📑 [MathFlow](https://arxiv.org/abs/2503.16549) is accepted to **ACL 2026 main Oral** and [FSAR-LLaVA](https://arxiv.org/abs/2603.26033) is accepted to **IJCV**.
 
 - *2026-03* : 🪄🦉 I will serve as an <span style="color:red"><strong>Area Chair</strong></span> for NeurIPS 2026.
