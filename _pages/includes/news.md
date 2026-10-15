@@ -5,7 +5,7 @@
 
 - *2026-04* : 📑 [MathFlow](https://arxiv.org/abs/2503.16549) is accepted to **ACL 2026 main Oral** and [FSAR-LLaVA](https://arxiv.org/abs/2603.26033) is accepted to **IJCV**.
 
-- *2026-03* : 🪄🦉 I will serve as an <span style="color:red"><strong>Area Chair</strong></span> for NeurIPS 2026.
+- *2026-03* : 🪄🦉 I will serve as an <span style="color:red"><strong>Area Chair</strong></span> for NeurIPS 2026. (I was elected as **"Top AC"**.)
 
 - *2026-02* : 📑 [DC-SFT](https://arxiv.org/abs/2602.10815), [C-Flat++](https://arxiv.org/abs/2508.18860) and CineNeuron are accepted to **CVPR 2026**.
 
