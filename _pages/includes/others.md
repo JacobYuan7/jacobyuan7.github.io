@@ -34,6 +34,7 @@
   
   - **Awards**:
     - ICML 2026 Silver Reviewer Award
+    - NeurIPS 2026 Top AC
 
 # 💬 Miscellaneous
 
