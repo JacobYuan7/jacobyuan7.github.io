@@ -33,8 +33,8 @@
     - Pattern Recognition (PR)
   
   - **Awards**:
-    - ICML 2026 Silver Reviewer Award
     - NeurIPS 2026 Top AC
+    - ICML 2026 Silver Reviewer Award
 
 # 💬 Miscellaneous
 
