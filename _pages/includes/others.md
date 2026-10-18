@@ -5,6 +5,10 @@
 <!-- [Mang Wang](https://scholar.google.com/citations?user=igKgaDwAAAAJ&hl=en&oi=sra)-->
 
 # 🎓 Academic Service
+- **Awards**:
+  - NeurIPS 2026 Top AC Award
+  - ICML 2026 Silver Reviewer Award
+
 - **Area Chairs & Senior Program Committee**：
   - ICLR 2026
   - NeurIPS 2026
@@ -31,10 +35,6 @@
     - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
     - Knowledge-Based Systems (KBS)
     - Pattern Recognition (PR)
-  
-  - **Awards**:
-    - NeurIPS 2026 Top AC Award
-    - ICML 2026 Silver Reviewer Award
 
 # 💬 Miscellaneous
 
