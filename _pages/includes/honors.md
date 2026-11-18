@@ -1,8 +1,10 @@
 # 🎖 Honors and Awards
 Below, I exhasutively list some of my Honors and Awards that inspire me a lot.
 
+
+- ***2026-03* &nbsp;&nbsp; Finalist, Outstanding Doctoral Dissertation of Zhejiang Province (浙江省优博论文提名)**
 - ***2025-09* &nbsp;&nbsp; Zhejiang Provincial Special Grant for Postdoctoral Research (Top 10 in Zhejiang Province, 项目号：ZJ2025005)** (浙江省博士后科研项目特别资助)
-- ***2025-02* &nbsp;&nbsp; Outstanding Doctoral Dissertation of Zhejiang University (Top 3 in our college)**
+- ***2025-02* &nbsp;&nbsp; Outstanding Doctoral Dissertation of Zhejiang University (浙大优博论文，Top 3 in our college)**
 - ***2024-01* &nbsp;&nbsp; Outstanding Research Intern in Alibaba Group (Top 20 in 1000+ candidates)**
 - *2024-01* &nbsp;&nbsp; Outstanding Graduates of Zhejiang University
 - *2023-09* &nbsp;&nbsp; International Travel Grant for Graduate Students
