@@ -5,7 +5,7 @@
 
 - *2026-04* : 📑 [MathFlow](https://arxiv.org/abs/2503.16549) is accepted to **ACL 2026 main Oral** and [FSAR-LLaVA](https://arxiv.org/abs/2603.26033) is accepted to **IJCV**.
 
-- *2026-03* : 👑 I was selected as a Finalist for Outstanding Doctoral Dissertation of Zhejiang Province.
+- *2026-03* : 👑 I was selected as a **Finalist** for Outstanding Doctoral Dissertation of Zhejiang Province.
 
 - *2026-03* : 🪄🦉 I will serve as an <span style="color:red"><strong>Area Chair</strong></span> for NeurIPS 2026. (I am elected as <span style="color:red"><strong>"Top AC"</strong></span>!)
 
